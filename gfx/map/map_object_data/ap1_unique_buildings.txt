@@ -1,0 +1,36 @@
+﻿game_object_locator={
+	name="monument_martandsuntemple_locator"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	instances={
+	}
+}
+game_object_locator={
+	name="monument_observatorygreenwich_locator"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	instances={
+	}
+}
+game_object_locator={
+	name="templeofposeidon_locator"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	instances={
+	}
+}
+game_object_locator={
+	name="wat_arun_locator"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	instances={
+	}
+}
