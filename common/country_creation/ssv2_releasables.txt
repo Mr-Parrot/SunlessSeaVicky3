@@ -1,0 +1,6 @@
+﻿#CYP = { #Cyprus
+#	states = {
+#		STATE_CYPRUS
+#	}
+#	ai_will_do = { always = no }
+#}

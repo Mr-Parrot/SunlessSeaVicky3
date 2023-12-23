@@ -1,0 +1,9 @@
+#sub_ENG_coa = {
+#	pattern = "pattern_solid.tga"
+#	color1 = "red"
+	
+#	textured_emblem = {
+#		texture = "te_dragon_eng.dds"
+#		instance = { scale = { -1.0 1.0 } }
+#	}
+#}
