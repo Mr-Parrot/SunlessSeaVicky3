@@ -1,0 +1,13 @@
+﻿###### EXAMPLE ######
+
+boreal_reach_strategic_region = { 
+	capital_province = x24F9D8  #Hex code of a capital province within the strategic region.
+	map_color = rgb{ 155 227 229 } #Colour of the strategic region shows when in strategic region lens.
+	states = { STATE_ODISON_FOLLY STATE_PECKERIDGE_LOOKOUT STATE_ARTIC_2 STATE_PALE_WASTES STATE_WHISPERING_WOLDS STATE_ODISON_FORTUNE STATE_FORLORN_FOOTHILLS STATE_ANDERGARD_HARBOUR STATE_HOUSE_OF_THE_QUESTION STATE_NIGHTSHADE_NOOK STATE_FROSTFANG_FOREST STATE_WHITHER_CITY STATE_WHITHERING_HEIGHTS STATE_CODEX STATE_OUTER_CODEX STATE_JOHANNESSON_TOWN_RUINS STATE_FLOURISH_CITY_RUINS STATE_ASHEN_COAST STATE_ASH_SUNK_CROSSROAD STATE_ASH_WASTES } 
+}
+
+tomb_colonies_strategic_region = { 
+	capital_province = x0CED7C  #Hex code of a capital province within the strategic region.
+	map_color = rgb{ 128 128 128 } #Colour of the strategic region shows when in strategic region lens.
+	states = { STATE_TRANQUIL_HILLS STATE_COASTAL_SPIKES STATE_THE_CROSSROADS STATE_WALLS_SHADOW STATE_INLAND_SPIKES STATE_SHIELDED_HILLS STATE_KARAOGHTANIA STATE_HORNEMAN_STAG STATE_TANA_CHOOK STATE_MOONLIGHT_WHISPER_WOODS  } 
+}

@@ -1,0 +1,24 @@
+﻿#TRADE_ROUTES = {
+	#Arcadia
+	#Vinland
+#	c:VIN = {
+#		create_trade_route = {
+#			goods = wood
+#			level = 7
+#			direction = export
+#			target = c:PLA.market
+#		}
+#		create_trade_route = {
+#			goods = iron
+#			level = 3
+#			direction = import
+#			target = c:SCA.market
+#		}
+#		create_trade_route = {
+#			goods = paper
+#			level = 2
+#			direction = import
+#			target = c:ARN.market
+#		}
+#	}
+#}

@@ -1,0 +1,299 @@
+﻿POPS = {
+	#The Glacial Grimlands
+	s:STATE_ODISON_FOLLY = {
+		region_state:D01 = {
+			create_pop = {
+				culture = inuit
+				religion = catholic
+				size = 100
+			}
+		}
+	}
+	s:STATE_PECKERIDGE_LOOKOUT = {
+		region_state:D01 = {
+			create_pop = {
+				culture = inuit
+				religion = catholic
+				size = 100
+			}
+		}
+	}
+	s:STATE_ARTIC_2 = {
+		region_state:D01 = {
+			create_pop = {
+				culture = inuit
+				religion = catholic
+				size = 100
+			}
+		}
+	}
+
+	#The Withering Wastes
+	s:STATE_PALE_WASTES = { 
+		region_state:D02 = {
+			create_pop = {
+				culture = metis
+				size = 100
+			}
+		}
+	}
+	s:STATE_WHISPERING_WOLDS = { 
+		region_state:D02 = {
+			create_pop = {
+				culture = metis
+				size = 100
+			}
+		}
+	}
+
+	#Whither
+	s:STATE_ODISON_FORTUNE = { 
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 400000
+			}
+		}
+	}
+	s:STATE_FORLORN_FOOTHILLS = {
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 80000
+			}
+		}
+	}
+	s:STATE_ANDERGARD_HARBOUR = {
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 350000
+			}
+		}
+	}
+	s:STATE_HOUSE_OF_THE_QUESTION = {
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 30000
+			}
+		}
+	}
+	s:STATE_NIGHTSHADE_NOOK = {
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 350000
+			}
+		}
+	}
+	s:STATE_FROSTFANG_FOREST = {
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 100000
+			}
+		}
+	}
+	s:STATE_WHITHER_CITY = {
+		region_state:WHI = {
+			create_pop = {
+				culture = metis
+				size = 150000
+			}
+		}
+	}
+
+	#The Sunken Ashlands  
+	s:STATE_WHITHERING_HEIGHTS = {
+		region_state:D03 = {
+			create_pop = {
+				culture = dakota
+				size = 36000
+			}
+		}  
+		region_state:WHI = {
+			create_pop = {
+				culture = dakota
+				size = 58000
+			}
+			create_pop = {
+				culture = metis
+				size = 8000
+			}
+		}  
+	} 
+	s:STATE_JOHANNESSON_TOWN_RUINS = {
+		region_state:D03 = {
+			create_pop = {
+				culture = dakota
+				size = 48000
+			}
+		} 
+	} 
+	s:STATE_FLOURISH_CITY_RUINS = {
+		region_state:D03 = {
+			create_pop = {
+				culture = dakota
+				size = 58000
+			}
+		} 
+	} 
+	s:STATE_ASHEN_COAST = {
+		region_state:D03 = {
+			create_pop = {
+				culture = dakota
+				size = 5000
+			}
+		}  
+	}  
+	s:STATE_ASH_SUNK_CROSSROAD = {
+		region_state:D03 = {
+			create_pop = {
+				culture = dakota
+				size = 200
+			}
+		}  
+	} 
+	s:STATE_ASH_WASTES = {
+		region_state:D03 = {
+			create_pop = {
+				culture = dakota
+				size = 8000
+			}
+		}  
+	} 
+
+	#Survivors of the Ash
+	s:STATE_TRANQUIL_HILLS = {
+		region_state:D04 = {
+			create_pop = {
+				culture = dakota
+				size = 368000
+			}
+		}  
+	}
+	s:STATE_COASTAL_SPIKES = {
+		region_state:D04 = {
+			create_pop = {
+				culture = dakota
+				size = 6000
+			}
+		}  
+	} 
+	s:STATE_THE_CROSSROADS = {
+		region_state:D04 = {
+			create_pop = {
+				culture = dakota
+				size = 18000
+			}
+		}  
+	} 
+	s:STATE_INLAND_SPIKES = {
+		region_state:D04 = {
+			create_pop = {
+				culture = dakota
+				size = 400
+			}
+		}  
+	} 
+	s:STATE_SHIELDED_HILLS = {
+		region_state:D04 = {
+			create_pop = {
+				culture = dakota
+				size = 223874
+			}
+		}  
+	} 
+	s:STATE_MOONLIGHT_WHISPER_WOODS = {
+		region_state:D04 = {
+			create_pop = {
+				culture = dakota
+				size = 49348
+			}
+		}  
+	} 
+
+	#Codex
+	s:STATE_CODEX = { 
+		region_state:CDX = {
+			create_pop = {
+				culture = metis
+				size = 380780
+			}
+		}
+	}
+	s:STATE_OUTER_CODEX = { 
+		region_state:CDX = {
+			create_pop = {
+				culture = metis
+				size = 42063
+			}
+		}
+	}
+
+	#Tanah-Chook 
+	s:STATE_HORNEMAN_STAG = {
+		region_state:TAN = {
+			create_pop = {
+				culture = mashriqi
+				size = 60843
+			}
+		}
+	}
+	s:STATE_TANA_CHOOK = {
+		region_state:TAN = {
+			create_pop = {
+				culture = mashriqi
+				size = 380561
+			}
+		}
+	}
+	s:STATE_ETUGEN_EKE = {
+		region_state:TAN = {
+			create_pop = {
+				culture = mashriqi
+				size = 100924
+			}
+		}
+	}
+
+	#Karaoghtania 
+	s:STATE_KARAOGHTANIA = {
+		region_state:KAR = {
+			create_pop = {
+				culture = mashriqi
+				size = 400456
+			}
+			create_pop = {
+				culture = dakota
+				size = 46055
+			}
+			create_pop = {
+				culture = mongol
+				size = 180768
+			}
+		}
+	}
+
+	#The Edge + Karaoghtania
+	s:STATE_WALLS_SHADOW = {
+		region_state:KAR = {
+			create_pop = {
+				culture = mashriqi
+				size = 40513
+			}
+			create_pop = {
+				culture = dakota
+				size = 16055
+			}
+		}
+		region_state:D05 = {
+			create_pop = {
+				culture = dakota
+				size = 1400
+			}
+		}  
+	}
+	
+}
