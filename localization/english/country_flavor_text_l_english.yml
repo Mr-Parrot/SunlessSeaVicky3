@@ -1,0 +1,25 @@
+﻿l_english:
+ GENERIC_FLAVOR_TEXT:0 "The Victorian era is an age of industry and exploitation, of revolution and reaction. What new challenges will the times bring?"
+ REV_GENERIC_FLAVOR_TEXT:1 "Dissatisfied with the direction that the so-called organized government was taking, these revolutionaries have decided to take up arms to overthrow it. Will they succeed in seizing power or will they be crushed like so many forgotten revolutions of the past?"
+ DECENTRALIZED_FLAVOR_TEXT:0 "Encroached upon by more organized powers, this country struggles to maintain their autonomy. Will they see the dawn of a new century, or will their name survive only in history books?"
+ 
+ #The Glacial Grimlands
+ D01_FLAVOR_TEXT:0 "As your ship nears the coast of the Glacial Grimlands, a foreboding chill permeates the air. The horizon is swallowed by jagged, crystalline structures, their reflections contorting in the dark water like ghostly apparitions. The ice, an impenetrable shade of blue, is marred by deep cracks, the legacy of ancient battles against the sea. The silence here is haunting, broken only by the melancholic groan of shifting glaciers. On closer inspection, shapes move in the distance; creatures, maybe, or the tricks of a weary sailor's eyes. Docking here requires both courage and desperation, for the Grimlands have claimed many a seafarer with their seductive, icy embrace. Stories abound of explorers lost amidst its frozen mazes, their voices becoming one with the mournful wails of the wind. Yet, the lure of the unknown, and the treasures buried deep within the ice, tempts many a captain to venture into the heart of this chilling enigma."
+
+ #The Withering Wastes
+ D02_FLAVOR_TEXT:0 "The horizon stretches infinitely, a bleak expanse of desolation where even shadows seem reluctant to linger. The ground, ashen and unyielding, is strewn with relics of forgotten times, bones of monstrous leviathans, rusted remnants of ill-fated expeditions, and half-buried statues with faces eroded by countless eons. Occasionally, a spectral breeze sweeps through, carrying with it whispers of lost souls and ancient curses. Amidst this barren landscape, remnants of ancient civilizations hint at a time when this might have been a place of grandeur and vitality. Now, it tests the mettle of those who dare traverse its grim expanse, offering treasures and tales to those who are resilient enough to endure its withering touch."
+
+ #The Sunken Ashlands
+ D03_FLAVOR_TEXT:0 "The Sunken Ashlands, a once-thriving expanse, now languishes as a submerged testament to the capricious nature of fortune. In the days of yore, this prosperous region reveled in the warmth of volcanic soil, yielding bountiful harvests and nurturing a flourishing civilization. Alas, the whimsical nature of the earth beneath betrayed its inhabitants when a malevolent volcano erupted, entombing the entire populace and their accomplishments in an ashen grip. Now, Zailors brave enough to chart a course through these haunted lands encounter the spectral remnants of a bygone society, where the vibrant heartbeat of life has been replaced by the mournful dirge of submerged spires and drowned ambitions."
+
+ #Survivors of the Ash
+ D04_FLAVOR_TEXT:0 "A clandestine nation of survivors, baptized in the sorrow of the Sunken Ashlands' demise. Stitched together from shipwrecks and the skeletal remains of once-stalwart structures, this refuge throbs with the pulse of survival. Lanterns cast feeble light upon veiled faces as survivors navigate the oppressive gloom, exchanging hushed tales of the volcano's betrayal. Will the beleaguered survivors ever wrest their erstwhile glory from the clutches of despair, or are they destined to join the spectral ashes of their forebears, their existence swallowed whole by the relentless maw of time? "
+
+ #The Edge
+ D05_FLAVOR_TEXT:0 "Too living for the dead, too dead for the living
+
+#Whither
+WHI_FLAVOR_TEXT:0 "Nestled within the enigmatic waters of the Unterzee, Whither stands as a beacon of intrigue. Its cobblestone pathways are trodden by inhabitants who communicate in a symphony of unanswered questions, each query more cryptic than the last. The heart of these riddles pulses from the House of the Question, where whispered tales and secrets weave an intricate web of mystery. In Whither, knowledge is an elusive prey, tantalizingly out of grasp. While the town's allure might draw one in with the promise of revelations, departures are often laden with heavier burdens of curiosity, the haunting echoes of the town's perpetual inquisitions lingering long after one has set sail." 
+
+#Codex
+CDX_FLAVOR_TEXT:0 "Amidst the vast zee lies Codex, a place of profound quietude.  Its residents, forever mute, are the forsaken souls banished from Whither, punished for providing answers in a realm of perpetual questions. Their eyes, laden with tales never voiced, speak a language of glances and silent gestures, while the irate monkeys of the island provide the sole, jarring break in the haunting stillness. Yet in this haunting silence, what does Codex conceal for times yet to unfold?"

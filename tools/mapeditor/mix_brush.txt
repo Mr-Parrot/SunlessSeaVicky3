@@ -1,0 +1,17 @@
+﻿MaterialSetter={
+	Samples={
+		Sample={
+			Name="Sample from 1011, 3306"
+			Materials={
+				Material={
+					MaterialId="cliff_sandstone_05"
+					Value=128
+				}
+				Material={
+					MaterialId="rocks_01"
+					Value=127
+				}
+			}
+		}
+	}
+}

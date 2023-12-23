@@ -1,0 +1,181 @@
+﻿l_english:
+ 
+### Whither ###
+
+#ANDERGARD HARBOUR
+ HUB_NAME_STATE_ANDERGARD_HARBOUR_city: "Andergard"
+ HUB_NAME_STATE_ANDERGARD_HARBOUR_port: "Andergard Harbour"
+ HUB_NAME_STATE_ANDERGARD_HARBOUR_mine: "Coaling Station Andergard"
+ HUB_NAME_STATE_ANDERGARD_HARBOUR_wood: "Deckwood Dell"
+
+#ODISON FORTUNE
+ HUB_NAME_STATE_ODISON_FORTUNE_city: "Odinsontown"
+ HUB_NAME_STATE_ODISON_FORTUNE_port: "Smugglers Den"
+ HUB_NAME_STATE_ODISON_FORTUNE_mine: "Odinson's Gemgleam Grove"
+ HUB_NAME_STATE_ODISON_FORTUNE_farm: "Odinsonfield"
+ HUB_NAME_STATE_ODISON_FORTUNE_wood: "Odison's Forest"
+
+#FORLORN FOOTHILLS
+ HUB_NAME_STATE_FORLORN_FOOTHILLS_city: "Lonely Inn"
+ HUB_NAME_STATE_FORLORN_FOOTHILLS_port: "Final Refuge"
+ HUB_NAME_STATE_FORLORN_FOOTHILLS_mine: "Snowstone Shafts"
+ HUB_NAME_STATE_FORLORN_FOOTHILLS_farm: "Iceloom Acres"
+ HUB_NAME_STATE_FORLORN_FOOTHILLS_wood: "Timbertide Thicket"
+
+#HOUSE OF THE QUESTION
+ HUB_NAME_STATE_HOUSE_OF_THE_QUESTION_city: "The House of the Question"
+ HUB_NAME_STATE_HOUSE_OF_THE_QUESTION_mine: "Sermonstone Shafts"
+ HUB_NAME_STATE_HOUSE_OF_THE_QUESTION_farm: "Iceleaf Abbey Acres"
+ HUB_NAME_STATE_HOUSE_OF_THE_QUESTION_wood: "Chanting Coldgrove "
+
+
+#NIGHTSHADE NOOK
+ HUB_NAME_STATE_NIGHTSHADE_NOOK_city: "Nightshade Summit City"
+ HUB_NAME_STATE_NIGHTSHADE_NOOK_port: ""
+ HUB_NAME_STATE_NIGHTSHADE_NOOK_mine: "Permafrost Peak Pits"
+ HUB_NAME_STATE_NIGHTSHADE_NOOK_farm: "Snowseed Summit Fields"
+ HUB_NAME_STATE_NIGHTSHADE_NOOK_wood: ""
+
+#FROSTFANG FOREST
+ HUB_NAME_STATE_FROSTFANG_FOREST_city: "Frostfang Citadel"
+ HUB_NAME_STATE_FROSTFANG_FOREST_mine: "Tundratop Tunnelworks"
+ HUB_NAME_STATE_FROSTFANG_FOREST_farm: "Iceplow Incline"
+ HUB_NAME_STATE_FROSTFANG_FOREST_wood: "Chillcrest Foothills"
+
+#WHITHER CITY
+ HUB_NAME_STATE_WHITHER_CITY_city: "Whither"
+ HUB_NAME_STATE_WHITHER_CITY_port: ""
+ HUB_NAME_STATE_WHITHER_CITY_mine: "Tundratop Tunnelworks"
+ HUB_NAME_STATE_WHITHER_CITY_farm: "Iceplow Plateau"
+ HUB_NAME_STATE_WHITHER_CITY_wood: "Iceveil Vale"
+
+### The Glacial Grimlands ###
+
+#ODISON FOLLY
+ HUB_NAME_STATE_ODISON_FOLLY_city: "Odison's Rest"
+ HUB_NAME_STATE_ODISON_FOLLY_port: "Odison's Folly"
+ HUB_NAME_STATE_PALE_WASTES_mine: "Odison's Remains"
+
+#PECKERIDGE LOOKOUT
+ HUB_NAME_STATE_PECKERIDGE_LOOKOUT_city: "Peckeridge's Tower"
+ HUB_NAME_STATE_PECKERIDGE_LOOKOUT_port: "Peckeridge's Harbourage"
+
+#ARTIC_2 / Spectral Snowscape
+ HUB_NAME_STATE_ARTIC_2_city: "Spectral Refuge"
+ HUB_NAME_STATE_ARTIC_2_port: "Spectral Edge"
+
+### The Glacial Grimlands ###
+
+#PALE WASTES
+ HUB_NAME_STATE_PALE_WASTES_city: "The Pale City"
+ HUB_NAME_STATE_PALE_WASTES_port: "Frozen Harbour"
+ HUB_NAME_STATE_PALE_WASTES_mine: "The Oil Wastes"
+
+#WHISPERING_WOLDS
+ HUB_NAME_STATE_WHISPERING_WOLDS_city: "The Ruined City"
+ HUB_NAME_STATE_WHISPERING_WOLDS_port: "Submerged Shorestead"
+ HUB_NAME_STATE_WHISPERING_WOLDS_mine: "Mournmoor Pits"
+ HUB_NAME_STATE_WHISPERING_WOLDS_farm: "Chillwind Churn "
+ HUB_NAME_STATE_WHISPERING_WOLDS_wood: "Bleakbough Barrens"
+
+### Codex ###
+
+#Codex
+ HUB_NAME_STATE_CODEX_city: "Codex"
+ HUB_NAME_STATE_CODEX_port: "Exile's Pier"
+ HUB_NAME_STATE_CODEX_mine: "Nightnoose Shaft"
+ HUB_NAME_STATE_CODEX_farm: "Fogfade Fields"
+ HUB_NAME_STATE_CODEX_wood: "Monkey's Domain"
+
+#Outer Codex
+ HUB_NAME_STATE_OUTER_CODEX_city: "Silent Hill"
+ HUB_NAME_STATE_OUTER_CODEX_port: "Half-Forgotten Pier"
+ HUB_NAME_STATE_OUTER_CODEX_mine: "Old Silent Hill"
+
+### Ashlands ###
+
+#STATE_WHITHERING_HEIGHTS
+ HUB_NAME_STATE_WHITHERING_HEIGHTS_city: "Whithering Heights"
+ HUB_NAME_STATE_WHITHERING_HEIGHTS_port: "Gimmerton"
+ HUB_NAME_STATE_WHITHERING_HEIGHTS_mine: "The Kirks"
+ HUB_NAME_STATE_WHITHERING_HEIGHTS_farm: "Thrushcross Grange"
+ HUB_NAME_STATE_WHITHERING_HEIGHTS_wood: "Penistone Crags"
+
+#STATE_JOHANNESSON_TOWN_RUINS
+ HUB_NAME_STATE_JOHANNESSON_TOWN_RUINS_city: "Johannesson Town"
+ HUB_NAME_STATE_JOHANNESSON_TOWN_RUINS_mine: "Rhodes's Failure"
+
+#STATE_FLOURISH_CITY_RUINS
+ HUB_NAME_STATE_FLOURISH_CITY_RUINS_city: "Flourish City"
+ HUB_NAME_STATE_FLOURISH_CITY_RUINS_mine: "Still Standing Church"
+ HUB_NAME_STATE_FLOURISH_CITY_RUINS_farm: "Queen's Quiet Abode"
+
+#STATE_ASHEN_COAST
+ HUB_NAME_STATE_ASHEN_COAST_city: "Tambora Village"
+ HUB_NAME_STATE_ASHEN_COAST_port: "Ash Buried Port"
+ HUB_NAME_STATE_ASHEN_COAST_mine: "Fallen Spike Abyss"
+
+#STATE_ASH_SUNK_CROSSROAD
+ HUB_NAME_STATE_ASH_SUNK_CROSSROAD_city: "Herculaneum"
+ HUB_NAME_STATE_ASH_SUNK_CROSSROAD_mine: "Magma Filled Mine"
+
+#STATE_ASH_WASTES
+ HUB_NAME_STATE_ASH_WASTES_city: "Akrotiri"
+ HUB_NAME_STATE_ASH_WASTES_mine: "Sulfursong Shaft"
+ HUB_NAME_STATE_ASH_WASTES_farm: "Magma's Mercy"
+
+#STATE_TRANQUIL_HILLS
+ HUB_NAME_STATE_TRANQUIL_HILLS_city: "Safe Haven"
+ HUB_NAME_STATE_TRANQUIL_HILLS_mine: "Penance Hill"
+ HUB_NAME_STATE_TRANQUIL_HILLS_farm: "The Reprieve"
+ HUB_NAME_STATE_TRANQUIL_HILLS_wood: "Great Forest Edge"
+
+#STATE_COASTAL_SPIKES
+ HUB_NAME_STATE_COASTAL_SPIKES_city: "Rocky Refuge"
+ HUB_NAME_STATE_COASTAL_SPIKES_port: "Semi-safe Port"
+ HUB_NAME_STATE_COASTAL_SPIKES_mine: "The Gap"
+
+#STATE_THE_CROSSROADS
+ HUB_NAME_STATE_THE_CROSSROADS_city: "The Eternal Inn"
+ HUB_NAME_STATE_THE_CROSSROADS_wood: "Mystic Moundwood"
+ HUB_NAME_STATE_THE_CROSSROADS_mine: "Obscura's Vault"
+
+#STATE_INLAND_SPIKES
+ HUB_NAME_STATE_INLAND_SPIKES_city: "The Tombs"
+ HUB_NAME_STATE_INLAND_SPIKES_mine: "Gloomgas Gulch"
+
+#STATE_SHIELDED_HILLS
+ HUB_NAME_STATE_SHIELDED_HILLS_city: "The Queen's Summer Palace"
+ HUB_NAME_STATE_SHIELDED_HILLS_mine: "Everstone Enclave"
+ HUB_NAME_STATE_SHIELDED_HILLS_farm: "The Rose Gardens"
+ HUB_NAME_STATE_SHIELDED_HILLS_wood: "Furnace Hills"
+
+#STATE_MOONLIGHT_WHISPER_WOODS
+ HUB_NAME_STATE_MOONLIGHT_WHISPER_WOODS_city: "Parrotville"
+ HUB_NAME_STATE_MOONLIGHT_WHISPER_WOODS_wood: "The Great Moonlit Whisper Woods"
+
+#STATE_WALLS_SHADOW #Make Mongol Names
+# HUB_NAME_STATE_TRANQUIL_HILLS_city: "Whithering Heights"
+# HUB_NAME_STATE_TRANQUIL_HILLS_port: "Gimmerton"
+# HUB_NAME_STATE_TRANQUIL_HILLS_mine: "The Kirks"
+
+#STATE_KARAOGHTANIA #Make Mongol Names
+# HUB_NAME_STATE_TRANQUIL_HILLS_city: "Whithering Heights"
+# HUB_NAME_STATE_TRANQUIL_HILLS_mine: "The Kirks"
+# HUB_NAME_STATE_TRANQUIL_HILLS_farm: "Thrushcross Grange"
+# HUB_NAME_STATE_TRANQUIL_HILLS_wood: "Penistone Crags"
+
+#STATE_HORNEMAN_STAG
+ HUB_NAME_STATE_HORNEMAN_STAG_city: "Horneman Stag"
+ HUB_NAME_STATE_HORNEMAN_STAG_port: "Horneman's Port"
+ HUB_NAME_STATE_HORNEMAN_STAG_mine: "Desolate Mine"
+ HUB_NAME_STATE_HORNEMAN_STAG_wood: "Tower's Shadow"
+
+#STATE_TANA_CHOOK 
+ HUB_NAME_STATE_TANA_CHOOK_city: "The Great Library"
+ HUB_NAME_STATE_TANA_CHOOK_port: "Tana Chook"
+ HUB_NAME_STATE_TANA_CHOOK_mine: "The House of Exertion"
+ HUB_NAME_STATE_TANA_CHOOK_farm: "Fields of Plenty"
+ HUB_NAME_STATE_TANA_CHOOK_wood: "Nature's Bounty"
+
+#Edge-of-Eternity Estuary

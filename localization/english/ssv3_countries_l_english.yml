@@ -1,0 +1,31 @@
+﻿l_english:
+
+# Decentralized Nations
+ D01:0 "The Glacial Grimlands"
+ D01_ADJ:0 "The Glacial Grimlands"
+ D02:0 "The Withering Wastes"
+ D02_ADJ:0 "The Withering Wastes"
+ D03:0 "The Sunken Ashlands"
+ D03_ADJ:0 "The Sunken Ashlands"
+ D04:0 "Survivors of the Ash"
+ D04_ADJ:0 "Ashland Survivors" 
+ D05:0 "The Edge"
+ D05_ADJ:0 "Edgelandia" 
+
+# Major Nations
+ WHI:0 "Whither"
+ WHI_ADJ:0 "Whitherian"
+ CDX:0 "Codex"
+ CDX_ADJ:0 "Codexian"
+ KAR:0 "Karaoghtania"
+ KAR_ADJ:0 "Karaoghtanian"
+ TAN:0 "Tanah-Chook"
+ TAN_ADJ:0 "Tanah-Chookian"
+ CUR:0 "The Order of the Curatorium"
+ CUR_ADJ:0 "Curatorium"
+ VED:0 "Venderbright"
+ VED_ADJ:0 "Venderbrightian"
+ ISC:0 "Interstate Confederacy"
+ ISC_ADJ:0 "Interstate Confederacy"
+ XIC:0 "Xibalba"
+ XIC_ADJ:0 "Xibalbian"

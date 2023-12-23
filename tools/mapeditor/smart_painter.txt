@@ -1,0 +1,59 @@
+﻿SmartPainter={
+	PresetManager={
+		Presets={
+			Preset={
+				name="Orange Mounts"
+				HeightRange={
+					Range={
+						name="New Pattern"
+						pattern=4
+						curve=0
+						angle_l=45.000000
+						angle_r=45.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="cliff_granite_06"
+									Value=140
+								}
+
+								Material={
+									MaterialId="grasslands_08"
+									Value=58
+								}
+
+								Material={
+									MaterialId="cliff_granite_07"
+									Value=57
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
+				}
+			}
+
+		}
+	}
+
+	CurrentPreset=0
+	Autosave=no
+}
+
