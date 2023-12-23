@@ -1,0 +1,6 @@
+﻿#DIPLOMACY = {
+#	c:DUA = {
+#		set_relations = { country = c:BOH value = 30 }
+#		set_relations = { country = c:SAV value = 20 }
+#	}
+#}

@@ -1,0 +1,8 @@
+﻿#DIPLOMACY = {
+#	c:TUR = {
+#		create_truce = {
+#			country = c:MCD
+#			months = 24
+#		}
+#	}
+#}

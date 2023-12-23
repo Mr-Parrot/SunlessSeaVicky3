@@ -1,0 +1,104 @@
+﻿COUNTRIES = {
+	
+	c:D01 = { #The Glacial Grimlands
+		effect_starting_technology_tier_6_tech = yes
+		
+		effect_starting_politics_traditional = yes
+		activate_law = law_type:law_isolationism
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:D02 = { #The Withering Wastes
+		effect_starting_technology_tier_6_tech = yes
+		
+		effect_starting_politics_traditional = yes
+		activate_law = law_type:law_isolationism
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:D03 = { #The Sunken Ashlands
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:D04 = { #Survivors of the Ash
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:D05 = { #The Edge
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:WHI = { #Whither
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:CDX = { #Codex
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}	
+	
+	c:KAR = { #KARAOGHTANIA
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}	
+
+	c:TAN = { #Tanah-Chook
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}	
+
+	c:CUR = { #The Order of the Curatorium
+		effect_starting_technology_tier_3_tech  = yes
+		
+		effect_starting_politics_traditional = yes
+		
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}	
+}

@@ -1,0 +1,8 @@
+﻿#DIPLOMACY = {
+#	c:DUA = {
+#		create_diplomatic_pact = {
+#			country = c:BRG
+#			type = rivalry
+#		}
+#	}
+#}

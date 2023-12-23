@@ -1,0 +1,163 @@
+
+
+
+D01 = { #The Glacial Grimlands
+	color = { 190 228 245 } 
+
+	country_type = decentralized 
+
+	tier = principality 
+
+	cultures = { inuit } 
+	religion = catholic
+	capital = STATE_ODISON_FOLLY 
+}
+
+D02 = { #The Withering Wastes
+	color = { 145 145 145 } 
+
+	country_type = decentralized 
+
+	tier = principality 
+
+	cultures = { metis } 
+	religion = catholic
+	capital = STATE_WHISPERING_WOLDS 
+}
+
+D03 = { #The Sunken Ashlands
+	color = { 255 178 102 } 
+
+	country_type = decentralized 
+
+	tier = principality 
+
+	cultures = { dakota } 
+	religion = animist
+	capital = STATE_WHITHERING_HEIGHTS 
+}
+
+D04 = { #Survivors of the Ash
+	color = { 0 204 102 } 
+
+	country_type = decentralized 
+
+	tier = principality 
+
+	cultures = { dakota } 
+	religion = animist
+	capital = STATE_TRANQUIL_HILLS 
+}
+
+D05 = { #The Edge
+	color = { 96 96 96 } 
+
+	country_type = decentralized 
+
+	tier = principality 
+
+	cultures = { dakota } 
+	religion = animist
+	capital = STATE_TRANQUIL_HILLS 
+}
+
+WHI = { #Whither
+	color = { 59 84 105 } 
+
+	country_type = recognized  
+
+	tier = kingdom 
+
+	cultures = { metis } 
+	religion = catholic
+	capital = STATE_WHITHER_CITY 
+}
+
+CDX = { #Codex
+	color = { 93 59 105 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { metis } 
+	religion = catholic
+	capital = STATE_CODEX
+}
+
+KAR = { #KARAOGHTANIA
+	color = { 102 0 102 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { mongol mashriqi } 
+	#Replace with Tomb Colonists
+	religion = gelugpa
+	capital = STATE_KARAOGHTANIA
+}
+
+TAN = { #Tanah-Chook
+	color = { 48 142 94 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { mayan mashriqi } 
+	#Replace with Tomb Colonists
+	religion = catholic
+	capital = STATE_TANA_CHOOK
+}
+
+CUR = { #The Order of the Curatorium
+	color = { 160 160 160 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { mashriqi } 
+	#Replace with Tomb Colonists
+	religion = catholic
+	capital = STATE_THE_OLDEST_QUARTER
+}
+
+VED = { #The Order of the Curatorium
+	color = { 166 38 57 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { mashriqi britishs} 
+	#Replace with Tomb Colonists
+	religion = protestant
+	capital = STATE_VENDERBRIGHT
+}
+
+ISC = { #Interstate Confederacy
+	color = { 246 21 14 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { mongol mashriqi } 
+	#Replace with Tomb Colonists
+	religion = gelugpa
+	capital = STATE_THE_INTERSTATE_CONFEDERACY
+}
+
+XIC = { #Xibalba
+	color = { 239 203 104 } 
+
+	country_type = recognized  
+
+	tier = principality 
+
+	cultures = { mayan } 
+	religion = catholic
+	capital = STATE_XIBALBA
+}
