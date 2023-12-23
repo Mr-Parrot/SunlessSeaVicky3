@@ -1,0 +1,124 @@
+﻿object={
+	name="wonder_wallofchina_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_01_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchina_02"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_02_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchina_03"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_03_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchina_04"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_04_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchina_05"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_05_mesh"
+	count=3
+	transform="996.745361 0.000000 2832.837646 0.000000 -0.067591 0.000000 0.997713 7.640553 7.640553 7.640553
+1100.915771 0.000000 2675.371582 0.000000 -0.587142 0.000000 -0.809484 5.823555 5.823555 5.823555
+1021.411011 0.000000 2626.290771 0.000000 -0.441874 0.000000 -0.897077 5.186719 5.186719 5.186719
+"}
+object={
+	name="wonder_wallofchina_06"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_06_mesh"
+	count=1
+	transform="1154.314087 0.000000 2733.494629 0.000000 0.000000 0.000000 1.000000 6.102717 6.102717 6.102717
+"}
+object={
+	name="wonder_wallofchina_07"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_07_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchina_08"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_08_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchina_09"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchina_09_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchinaend_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchinaend_01_mesh"
+	count=2
+	transform="1269.042480 0.000000 2694.224121 0.000000 -0.384933 0.000000 -0.922944 6.159108 6.159108 6.159108
+1280.201172 0.000000 2706.581055 0.000000 -0.976724 0.000000 0.214502 6.065077 6.065077 6.065077
+"}
+object={
+	name="wonder_wallofchinaend_02"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchinaend_02_mesh"
+	count=0
+}
+object={
+	name="wonder_wallofchinatower_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_wallofchinatower_01_mesh"
+	count=10
+	transform="998.749573 0.000000 2896.568359 0.000000 0.000000 0.000000 1.000000 8.220016 8.220016 8.220016
+997.867981 0.000000 2845.824219 0.000000 0.000000 0.000000 1.000000 8.065405 8.065405 8.065405
+1025.312988 0.000000 2773.643555 0.000000 0.417252 0.000000 0.908791 7.522332 7.522332 7.522332
+1134.570923 0.000000 2778.301270 0.000000 -0.458944 0.000000 0.888465 6.423325 6.423325 6.423325
+1150.430542 0.000000 2682.434326 0.000000 0.000000 0.000000 1.000000 5.922752 5.922752 5.922752
+996.359741 0.000000 2590.778809 0.000000 0.252848 0.000000 0.967506 5.029089 5.029089 5.029089
+1061.316040 0.000000 2646.926514 0.000000 -0.299748 0.000000 0.954019 5.098960 5.098960 5.098960
+1262.067139 0.000000 2687.231445 0.000000 -0.356170 0.000000 0.934421 7.553850 7.553850 7.553850
+1283.797974 0.000000 2715.135010 0.000000 0.807398 0.000000 0.590008 7.636936 7.636936 7.636936
+1397.842529 0.000000 2700.681152 0.000000 0.000000 0.000000 1.000000 5.261576 5.261576 5.261576
+"}

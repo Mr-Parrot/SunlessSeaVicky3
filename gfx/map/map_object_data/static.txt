@@ -1,0 +1,351 @@
+﻿object={
+	name="african_lighthouse_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	entity="african_lighthouse_01_entity"
+	count=0
+}
+object={
+	name="arabic_lighthouse_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	entity="arabic_lighthouse_01_entity"
+	count=6
+	transform="1001.984131 0.000000 2957.085449 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1149.795166 0.000000 2859.831055 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1126.189209 0.000000 2784.379395 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1277.839600 0.000000 2738.021484 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1386.218140 0.000000 2696.484131 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1368.103882 0.000000 2759.279785 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
+object={
+	name="asian_lighthouse_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	entity="asian_lighthouse_01_entity"
+	count=13
+	transform="1224.213501 0.000000 3236.887939 0.000000 0.000000 0.000000 1.000000 0.990918 0.990918 0.990918
+1077.307739 0.000000 3389.131836 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1094.566406 0.000000 3177.667969 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1424.795532 0.000000 3343.670654 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1175.813965 0.000000 3235.048828 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1128.578369 0.000000 3486.045898 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1160.153198 0.000000 3542.718018 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1238.607300 0.000000 3520.991699 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1126.114990 0.000000 3350.166992 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1337.904175 0.000000 3259.702881 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1487.013306 0.000000 3404.414795 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+961.187317 0.000000 3125.747314 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+860.490173 0.000000 2940.788330 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
+object={
+	name="bird_duck_01"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="environmental_effects"
+	entity="duck_01_frame_entity"
+	count=0
+}
+object={
+	name="bird_eagle_01"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="environmental_effects"
+	entity="eagle_01_frame_entity"
+	count=0
+}
+object={
+	name="bird_vulture_01"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="environmental_effects"
+	entity="vulture_01_frame_entity"
+	count=0
+}
+object={
+	name="canyon_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_01_mesh"
+	count=0
+}
+object={
+	name="canyon_02"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_02_mesh"
+	count=0
+}
+object={
+	name="canyon_03"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_03_mesh"
+	count=0
+}
+object={
+	name="canyon_04"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_04_mesh"
+	count=0
+}
+object={
+	name="canyon_05"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_05_mesh"
+	count=0
+}
+object={
+	name="canyon_06"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_06_mesh"
+	count=0
+}
+object={
+	name="canyon_07"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_07_mesh"
+	count=0
+}
+object={
+	name="canyon_08"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_08_mesh"
+	count=0
+}
+object={
+	name="canyon_09"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_09_mesh"
+	count=0
+}
+object={
+	name="canyon_10"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_10_mesh"
+	count=0
+}
+object={
+	name="canyon_11"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_11_mesh"
+	count=0
+}
+object={
+	name="canyon_12"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_12_mesh"
+	count=0
+}
+object={
+	name="canyon_13"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_13_mesh"
+	count=0
+}
+object={
+	name="canyon_14"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_14_mesh"
+	count=0
+}
+object={
+	name="canyon_15"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_15_mesh"
+	count=0
+}
+object={
+	name="canyon_16"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="cliff_canyon_16_mesh"
+	count=0
+}
+object={
+	name="european_lighthouse_01"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="static"
+	entity="european_lighthouse_01_entity"
+	count=0
+}
+object={
+	name="latin_lighthouse_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	entity="latin_lighthouse_01_entity"
+	count=0
+}
+object={
+	name="rockformation_granite_03"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_06_mesh"
+	count=0
+}
+object={
+	name="rockformation_granite_04"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_07_mesh"
+	count=1
+	transform="806.934326 0.000000 2928.059082 0.000000 0.000000 0.000000 1.000000 12.372726 12.372726 12.372726
+"}
+object={
+	name="rockformation_granite_05"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_08_mesh"
+	count=1
+	transform="778.935852 0.000000 2895.594482 0.000000 -0.938224 0.000000 0.346029 16.518946 16.518946 16.518946
+"}
+object={
+	name="rockformation_granite_06"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_09_mesh"
+	count=1
+	transform="747.950745 0.000000 2953.690186 0.000000 -0.677508 0.000000 0.735515 10.930425 10.930425 10.930425
+"}
+object={
+	name="rockformation_sandstone_01"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_sandstone_01_mesh"
+	count=0
+}
+object={
+	name="rockformation_sandstone_03"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_sandstone_03_mesh"
+	count=0
+}
+object={
+	name="rockformation_sandstone_06"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="rockformation_sandstone_06_mesh"
+	count=0
+}
+object={
+	name="rubber_lodge_01"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="farms_dynamic"
+	pdxmesh="rubber_lodge_01_mesh"
+	count=0
+}
+object={
+	name="seagull_01"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="environmental_effects"
+	entity="seagull_port_entity"
+	count=1
+	transform="1117.798950 0.000000 3337.416748 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
+object={
+	name="smoke_chimney_01"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="environmental_effects"
+	entity="smoke_chimney_01"
+	count=0
+}
+object={
+	name="whale_01"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="environmental_effects"
+	entity="whale_entity"
+	count=3
+	transform="1071.718628 0.000000 3466.968262 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1198.631348 0.000000 3525.809326 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1313.498657 0.000000 3445.329102 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
+object={
+	name="whale_white_01"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="environmental_effects"
+	entity="whale_white_entity"
+	count=1
+	transform="1372.595947 0.000000 3559.623047 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
