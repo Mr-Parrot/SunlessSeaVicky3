@@ -12,6 +12,101 @@
 
 #####################
 
+#Fallen London
+
+anglican  = {
+	#needs to be replaced with anglican eu4/other icon
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = {
+		christian
+	}
+	color= rgb{ 101 18 136 }
+}
+
+storm = {
+	texture = "gfx/interface/icons/religion_icons/storm.dds"
+	traits = {
+		neath
+	}
+	taboos = {
+		fine_art
+		#Explanation: Storm doesn't like the reminder of age or change, art by it's nature represents change and as it ages you are reminded of the passing of time, hence a taboo.
+	} 
+	obsessions = {
+	#	SPHINX_STONE -> When Implemented
+		liquor
+		#Explanation: basically, if you are cursed by the storm you will need something to make you get over your feeling of doom. Additionally, hard alcohol lets you face the storm.
+	}
+	color= rgb{ 57 74 102 }
+}
+
+#Storm Worshippers:
+# - zailors
+# - London urchins
+# - Personal Interpretation: North West Corner
+
+
+stone = { # Gods of the Unterzee	
+	#needs to be replaced with unique
+	texture = "gfx/interface/icons/religion_icons/stone.dds"
+	traits = {
+		neath 
+	}
+	taboos = {
+		meat
+		#Explanation: Stobirds and other flying creatures, so hunting these is strictly forbidden in the Presbyterate
+	} 
+	obsessions = {
+	#	Mountain-Sherds (I could do diamonds) -> When Implemented
+		fruit
+		#Gold ??? Could it even be implemented
+		#Explanation: Heart of Stone, which is a mountain, is a garden
+	}
+	color= rgb{ 135 131 130 }
+}
+
+# Stone Worshippers:
+# - The Eldar Continent
+
+
+salt = {	#Gods of the High Wilderness	
+	#needs to be replaced with unique
+	texture = "gfx/interface/icons/religion_icons/salt.dds"
+	traits = {
+		neath 
+		#white zee bats
+		#stealing from half-drowned shipwrecks
+	}
+	taboos = {
+		paper
+		#Explanation: A way to curse someone is to write cursing-signs, hence a semi-taboo of paper
+	} 
+	obsessions = {
+		#moon stones (when implemented)
+		fish
+		#Explanation: Salt comes from the sea, hence fish though moon stones would be better
+	}
+	color = rgb{ 241 233 231}
+}
+
+#Salt Worshippers:
+# - Islands
+# - The far North
+
+
+tengri = {
+	texture = "gfx/interface/icons/religion_icons/tengri.dds"
+	traits = {
+		eastern
+	}
+	obsessions = {
+		meat
+	}
+	color = rgb{ 74 125 155 }
+}
+
+# Vanilla
+
 catholic = {
 	texture = "gfx/interface/icons/religion_icons/catholic.dds"
 	traits = {
@@ -142,3 +237,4 @@ atheist = {
 	texture = "gfx/interface/icons/religion_icons/atheist.dds"
 	color = { 1.0 1.0 1.0 }
 }
+

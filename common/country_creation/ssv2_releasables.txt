@@ -1,6 +1,16 @@
-﻿#CYP = { #Cyprus
-#	states = {
-#		STATE_CYPRUS
-#	}
-#	ai_will_do = { always = no }
-#}
+﻿HIQ = { #House of the Question
+	states = {
+		STATE_HOUSE_OF_THE_QUESTION
+	}
+	ai_will_do = { always = no }
+}
+
+ODL = { #Odinson's Land
+	states = {
+		STATE_ANDERGARD_HARBOUR
+		STATE_FORLORN_FOOTHILLS
+		STATE_ODISON_FORTUNE
+		STATE_ODISON_FOLLY
+	}
+	ai_will_do = { always = no }
+}

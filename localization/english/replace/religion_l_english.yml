@@ -1,0 +1,28 @@
+﻿l_english:
+ catholic:0 "Catholic"
+ protestant:0 "Protestant"
+ orthodox:0 "Orthodox"
+ oriental_orthodox:1 "Oriental Orthodox"
+ sunni:0 "Sunni"
+ shiite:0 "Shiite"
+ jewish:0 "Jewish"
+ mahayana:0 "Mahayana"
+ gelugpa:0 "Gelugpa"
+ theravada:0 "Theravada"
+ hindu:0 "Hindu"
+ shinto:0 "Shinto"
+ sikh:0 "Sikh"
+ animist:0 "Animist"
+ eastern:0 "Eastern"
+ buddhist:0 "Buddhist"
+ christian:0 "Christian"
+ muslim:0 "Muslim"
+
+#Sunless Sea
+
+ anglican:0 "Anglican"
+ storm:0 "Storm"
+ stone:0 "Stone"
+ salt:0 "Salt"
+ neath:0 "Gods of the Unterzee"
+ tengri:0 "Tengrism"

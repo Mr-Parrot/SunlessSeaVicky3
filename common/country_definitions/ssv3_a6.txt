@@ -8,8 +8,8 @@ D01 = { #The Glacial Grimlands
 
 	tier = principality 
 
-	cultures = { inuit } 
-	religion = catholic
+	cultures = { northmen } 
+	religion = salt
 	capital = STATE_ODISON_FOLLY 
 }
 
@@ -20,8 +20,8 @@ D02 = { #The Withering Wastes
 
 	tier = principality 
 
-	cultures = { metis } 
-	religion = catholic
+	cultures = { whitherin } 
+	religion = storm
 	capital = STATE_WHISPERING_WOLDS 
 }
 
@@ -32,8 +32,8 @@ D03 = { #The Sunken Ashlands
 
 	tier = principality 
 
-	cultures = { dakota } 
-	religion = animist
+	cultures = { ashlander } 
+	religion = storm
 	capital = STATE_WHITHERING_HEIGHTS 
 }
 
@@ -44,8 +44,8 @@ D04 = { #Survivors of the Ash
 
 	tier = principality 
 
-	cultures = { dakota } 
-	religion = animist
+	cultures = { ashlander } 
+	religion = storm
 	capital = STATE_TRANQUIL_HILLS 
 }
 
@@ -56,108 +56,161 @@ D05 = { #The Edge
 
 	tier = principality 
 
-	cultures = { dakota } 
-	religion = animist
+	cultures = { ashlander } 
+	religion = storm
 	capital = STATE_TRANQUIL_HILLS 
 }
 
 WHI = { #Whither
 	color = { 59 84 105 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = kingdom 
 
-	cultures = { metis } 
-	religion = catholic
+	cultures = { whitherin } 
+	religion = salt
 	capital = STATE_WHITHER_CITY 
 }
 
 CDX = { #Codex
 	color = { 93 59 105 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { metis } 
-	religion = catholic
+	cultures = { codexian } 
+	religion = storm
 	capital = STATE_CODEX
 }
 
-KAR = { #KARAOGHTANIA
+KAR = { #Karaoghtania 
 	color = { 102 0 102 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { mongol mashriqi } 
+	cultures = { mongol2 tombcolonist } 
 	#Replace with Tomb Colonists
-	religion = gelugpa
+	religion = tengri
 	capital = STATE_KARAOGHTANIA
 }
 
 TAN = { #Tanah-Chook
 	color = { 48 142 94 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { mayan mashriqi } 
+	cultures = { mayan tombcolonist } 
 	#Replace with Tomb Colonists
-	religion = catholic
+	religion = storm
 	capital = STATE_TANA_CHOOK
 }
 
 CUR = { #The Order of the Curatorium
 	color = { 160 160 160 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { mashriqi } 
+	cultures = { tombcolonist } 
 	#Replace with Tomb Colonists
-	religion = catholic
+	religion = storm
 	capital = STATE_THE_OLDEST_QUARTER
 }
 
-VED = { #The Order of the Curatorium
+VED = { #Venderbright
 	color = { 166 38 57 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { mashriqi britishs} 
+	cultures = { tombcolonist british} 
 	#Replace with Tomb Colonists
-	religion = protestant
+	religion = anglican
 	capital = STATE_VENDERBRIGHT
 }
 
 ISC = { #Interstate Confederacy
 	color = { 246 21 14 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { mongol mashriqi } 
+	cultures = { mongol2 tombcolonist } 
 	#Replace with Tomb Colonists
-	religion = gelugpa
+	religion = tengri
 	capital = STATE_THE_INTERSTATE_CONFEDERACY
 }
 
 XIC = { #Xibalba
 	color = { 239 203 104 } 
 
-	country_type = recognized  
+	country_type = unrecognized   
 
 	tier = principality 
 
 	cultures = { mayan } 
-	religion = catholic
+	religion = storm
 	capital = STATE_XIBALBA
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Releasables
+
+HIQ = { #House of the Question
+	color = { 204 153 255 } 
+
+	country_type = unrecognized   
+
+	tier =  city_state 
+
+	cultures = { whitherin } 
+	religion = stone
+	capital = STATE_HOUSE_OF_THE_QUESTION
+}
+
+ODL = { #Odinson's Land
+	color = { 204 229 255 } 
+
+	country_type = unrecognized   
+
+	tier =  principality 
+
+	cultures = { whitherin } 
+	religion = storm
+	capital = STATE_ANDERGARD_HARBOUR
 }

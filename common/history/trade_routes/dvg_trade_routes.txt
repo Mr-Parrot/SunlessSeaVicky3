@@ -22,3 +22,16 @@
 #		}
 #	}
 #}
+
+TRADE_ROUTES = {
+	#Whither
+	#Codex
+	c:WHI = {
+		create_trade_route = {
+			goods = tools
+			level = 1
+			direction = export
+			target = c:CDX.market
+		}
+	}
+}

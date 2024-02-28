@@ -9,5 +9,17 @@ boreal_reach_strategic_region = {
 tomb_colonies_strategic_region = { 
 	capital_province = x0CED7C  #Hex code of a capital province within the strategic region.
 	map_color = rgb{ 128 128 128 } #Colour of the strategic region shows when in strategic region lens.
-	states = { STATE_TRANQUIL_HILLS STATE_COASTAL_SPIKES STATE_THE_CROSSROADS STATE_WALLS_SHADOW STATE_INLAND_SPIKES STATE_SHIELDED_HILLS STATE_KARAOGHTANIA STATE_HORNEMAN_STAG STATE_TANA_CHOOK STATE_MOONLIGHT_WHISPER_WOODS  } 
+	states = { STATE_WALLS_SHADOW  STATE_KARAOGHTANIA STATE_HORNEMAN_STAG STATE_TANA_CHOOK STATE_ETUGEN_EKE STATE_THE_OLDEST_QUARTER STATE_THE_TOMB_CROSSROADS STATE_THE_GRAND_SANATORIUM STATE_VENDERBRIGHT STATE_CARISSAS_POINT STATE_THE_WALL STATE_THE_INTERSTATE_CONFEDERACY STATE_XIBALBA STATE_XIBALBA_COAST STATE_THE_VERGE } 
+}
+
+faded_crossroads_region = { 
+	capital_province = x0901F3  #Hex code of a capital province within the strategic region.
+	map_color = rgb{ 236 227 161 } #Colour of the strategic region shows when in strategic region lens.
+	states = { STATE_TRANQUIL_HILLS STATE_MOONLIGHT_WHISPER_WOODS STATE_COASTAL_SPIKES STATE_THE_CROSSROADS STATE_INLAND_SPIKES STATE_SHIELDED_HILLS STATE_ENDLESS_DESERT_1 STATE_ENDLESS_DESERT_2 } 
+}
+
+the_riverlands_strategic_region = { 
+	capital_province = x275908  #Hex code of a capital province within the strategic region.
+	map_color = rgb{ 114 184 136 } #Colour of the strategic region shows when in strategic region lens.
+	states = { STATE_DUAT_RIVER } 
 }

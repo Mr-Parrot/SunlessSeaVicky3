@@ -28,7 +28,7 @@
  STATE_MOONLIGHT_WHISPER_WOODS: "Moonlit Whisper Woods"
  STATE_KARAOGHTANIA: "Karaoghtania"
  STATE_HORNEMAN_STAG: "Horneman Stag"
- STATE_TANA_CHOOK: "Tana-Chook"
+ STATE_TANA_CHOOK: "Tanah-Chook"
  STATE_ETUGEN_EKE: "Etugen Eke"
  STATE_THE_OLDEST_QUARTER: "The Oldest Quarter"
  STATE_THE_TOMB_CROSSROADS: "Half Forgotten Crossroads"
@@ -39,12 +39,10 @@
  STATE_THE_INTERSTATE_CONFEDERACY: "The Bloodlands"
  STATE_XIBALBA_COAST: "The Scorpion Coast"
  STATE_XIBALBA: "Xibalba"
- STATE_DUAT_RIVER: "Duat River"
+ STATE_DUAT_RIVER: "Davies Bay" #Can change to Duat River
  STATE_THE_VERGE: "The Verge"
-
-
-
-
+ STATE_ENDLESS_DESERT_1: "Edge-of-Eternity Estuary" 
+ STATE_ENDLESS_DESERT_2: "Southern Endless Desert" 
 
 
 
@@ -63,6 +61,7 @@
  STATE_64_SEA: "Misty Sea"
  STATE_65_SEA: "The Rolling Sea "
  STATE_66_SEA: "Babel's Vortex"
+ STATE_67_SEA: "Davies Bay"
  STATE_68_SEA: "Stormbones"
  STATE_69_SEA: "Lonely Island"
  STATE_70_SEA: "The Finknottle Vortex"

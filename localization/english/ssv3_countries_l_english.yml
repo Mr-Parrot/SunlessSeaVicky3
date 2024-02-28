@@ -14,7 +14,7 @@
 
 # Major Nations
  WHI:0 "Whither"
- WHI_ADJ:0 "Whitherian"
+ WHI_ADJ:0 "Whitherin"
  CDX:0 "Codex"
  CDX_ADJ:0 "Codexian"
  KAR:0 "Karaoghtania"
@@ -25,7 +25,14 @@
  CUR_ADJ:0 "Curatorium"
  VED:0 "Venderbright"
  VED_ADJ:0 "Venderbrightian"
- ISC:0 "Interstate Confederacy"
- ISC_ADJ:0 "Interstate Confederacy"
+ ISC:0 "League of Tung-ak"
+ ISC_ADJ:0 "League of Tung-ak"
+ #Tung-ak: Is the patron god of tribal chiefs and the ruler of the lesser spirits of Mongol mythology
  XIC:0 "Xibalba"
  XIC_ADJ:0 "Xibalbian"
+
+# Releaseable
+ HIQ:0 "House of the Question"
+ HIQ_ADJ:0 "Questioners"
+ ODL:0 "Odison's Land"
+ ODL_ADJ:0 "Odisonian"

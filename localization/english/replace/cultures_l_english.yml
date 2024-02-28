@@ -1,0 +1,41 @@
+﻿l_english:
+ #Fallen London
+
+ whitherin:0 "Whitherin"
+ codexian:0 "Codexian"
+ northmen:0 "Aurora Nomoi" 
+ ashlander:0 "Ashlanders"
+ tombcolonist:0 "Tomb Colonist"
+ london:0 "Londoners"
+
+ # Traits
+ human_heritage:0 "Human Heritage"
+ the_dead_heritage:0 "Those Who Are Nearly Dead"
+ immortals_heritage:0 "Immortal Heritage"
+ rats_heritage:0  "Rattus Heritage"
+ infernal_heritage:0 "Infernal Heritage"
+ parabola_heritage:0 "Parabola Heritage"
+ axile_heritage:0 "Axile Heritage"
+
+ # Culture Descriptions
+ eastern_neath:0 "Eastern Neath"
+ tomb_colonist_cult_decs:0 "Tomb Colonist Cultural Heritage"
+ elder_continent:0 "Elder Continent"
+
+ # Culture Group
+ boreal_reach_group:0 "Boreal Reach"
+ norther_hinterlander:0 "Northern Hinterlander"
+ tomb_colonist_group:0 "Tomb Colonist"
+
+ #Vanilla (take from base game file later)
+
+ british_culture_group:0 "British"
+ british:0 "English"
+ irish:0 "Irish"
+ han:0 "Han"
+ french_culture_group:0 "French"
+ french:0 "French"
+ dutch:0 "Dutch"
+ italian_culture_group:0 "Italian"
+ north_italian:0 "North Italian"
+ mongol2:0 "Mongol"

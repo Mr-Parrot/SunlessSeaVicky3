@@ -3,8 +3,7 @@
 	s:STATE_ODISON_FOLLY = {
 		region_state:D01 = {
 			create_pop = {
-				culture = inuit
-				religion = catholic
+				culture = northmen
 				size = 100
 			}
 		}
@@ -12,8 +11,7 @@
 	s:STATE_PECKERIDGE_LOOKOUT = {
 		region_state:D01 = {
 			create_pop = {
-				culture = inuit
-				religion = catholic
+				culture = northmen
 				size = 100
 			}
 		}
@@ -21,8 +19,7 @@
 	s:STATE_ARTIC_2 = {
 		region_state:D01 = {
 			create_pop = {
-				culture = inuit
-				religion = catholic
+				culture = northmen
 				size = 100
 			}
 		}
@@ -32,7 +29,8 @@
 	s:STATE_PALE_WASTES = { 
 		region_state:D02 = {
 			create_pop = {
-				culture = metis
+				culture = whitherin
+				religion = storm
 				size = 100
 			}
 		}
@@ -40,7 +38,8 @@
 	s:STATE_WHISPERING_WOLDS = { 
 		region_state:D02 = {
 			create_pop = {
-				culture = metis
+				culture = whitherin
+				religion = storm
 				size = 100
 			}
 		}
@@ -50,39 +49,74 @@
 	s:STATE_ODISON_FORTUNE = { 
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
-				size = 400000
+				culture = whitherin
+				size = 320000
+			}
+			create_pop = {
+				culture = whitherin
+				size = 80000
+				religion = storm
 			}
 		}
 	}
 	s:STATE_FORLORN_FOOTHILLS = {
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
-				size = 80000
+				culture = whitherin
+				size = 50000
+			}
+			create_pop = {
+				culture = whitherin
+				size = 20000
+				religion = storm
+			}
+			create_pop = {
+				culture = whitherin
+				size = 10000
+				religion = stone
 			}
 		}
 	}
 	s:STATE_ANDERGARD_HARBOUR = {
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
-				size = 350000
+				culture = whitherin
+				size = 130000
+			}
+			create_pop = {
+				culture = whitherin
+				size = 200000
+				religion = storm
+			}
+			create_pop = {
+				culture = whitherin
+				size = 20000
+				religion = stone
 			}
 		}
 	}
 	s:STATE_HOUSE_OF_THE_QUESTION = {
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
-				size = 30000
+				culture = whitherin
+				size = 10000
+			}
+			create_pop = {
+				culture = whitherin
+				size = 10000
+				religion = storm
+			}
+			create_pop = {
+				culture = whitherin
+				size = 10000
+				religion = stone
 			}
 		}
 	}
 	s:STATE_NIGHTSHADE_NOOK = {
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
+				culture = whitherin
 				size = 350000
 			}
 		}
@@ -90,7 +124,7 @@
 	s:STATE_FROSTFANG_FOREST = {
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
+				culture = whitherin
 				size = 100000
 			}
 		}
@@ -98,7 +132,7 @@
 	s:STATE_WHITHER_CITY = {
 		region_state:WHI = {
 			create_pop = {
-				culture = metis
+				culture = whitherin
 				size = 150000
 			}
 		}
@@ -108,17 +142,17 @@
 	s:STATE_WHITHERING_HEIGHTS = {
 		region_state:D03 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 36000
 			}
 		}  
 		region_state:WHI = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 58000
 			}
 			create_pop = {
-				culture = metis
+				culture = whitherin
 				size = 8000
 			}
 		}  
@@ -126,7 +160,7 @@
 	s:STATE_JOHANNESSON_TOWN_RUINS = {
 		region_state:D03 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 48000
 			}
 		} 
@@ -134,7 +168,7 @@
 	s:STATE_FLOURISH_CITY_RUINS = {
 		region_state:D03 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 58000
 			}
 		} 
@@ -142,7 +176,7 @@
 	s:STATE_ASHEN_COAST = {
 		region_state:D03 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 5000
 			}
 		}  
@@ -150,7 +184,7 @@
 	s:STATE_ASH_SUNK_CROSSROAD = {
 		region_state:D03 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 200
 			}
 		}  
@@ -158,7 +192,7 @@
 	s:STATE_ASH_WASTES = {
 		region_state:D03 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 8000
 			}
 		}  
@@ -168,7 +202,7 @@
 	s:STATE_TRANQUIL_HILLS = {
 		region_state:D04 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 368000
 			}
 		}  
@@ -176,7 +210,7 @@
 	s:STATE_COASTAL_SPIKES = {
 		region_state:D04 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 6000
 			}
 		}  
@@ -184,7 +218,7 @@
 	s:STATE_THE_CROSSROADS = {
 		region_state:D04 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 18000
 			}
 		}  
@@ -192,7 +226,7 @@
 	s:STATE_INLAND_SPIKES = {
 		region_state:D04 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 400
 			}
 		}  
@@ -200,7 +234,7 @@
 	s:STATE_SHIELDED_HILLS = {
 		region_state:D04 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 223874
 			}
 		}  
@@ -208,7 +242,7 @@
 	s:STATE_MOONLIGHT_WHISPER_WOODS = {
 		region_state:D04 = {
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 49348
 			}
 		}  
@@ -218,15 +252,19 @@
 	s:STATE_CODEX = { 
 		region_state:CDX = {
 			create_pop = {
-				culture = metis
-				size = 380780
+				culture = whitherin
+				size = 100780
+			}
+			create_pop = {
+				culture = codexian
+				size = 280780
 			}
 		}
 	}
 	s:STATE_OUTER_CODEX = { 
 		region_state:CDX = {
 			create_pop = {
-				culture = metis
+				culture = codexian
 				size = 42063
 			}
 		}
@@ -236,7 +274,7 @@
 	s:STATE_HORNEMAN_STAG = {
 		region_state:TAN = {
 			create_pop = {
-				culture = mashriqi
+				culture = tombcolonist
 				size = 60843
 			}
 		}
@@ -244,7 +282,7 @@
 	s:STATE_TANA_CHOOK = {
 		region_state:TAN = {
 			create_pop = {
-				culture = mashriqi
+				culture = tombcolonist
 				size = 380561
 			}
 		}
@@ -252,7 +290,7 @@
 	s:STATE_ETUGEN_EKE = {
 		region_state:TAN = {
 			create_pop = {
-				culture = mashriqi
+				culture = tombcolonist
 				size = 100924
 			}
 		}
@@ -262,16 +300,32 @@
 	s:STATE_KARAOGHTANIA = {
 		region_state:KAR = {
 			create_pop = {
-				culture = mashriqi
-				size = 400456
+				culture = tombcolonist
+				size = 320364
+				religion = tengri
 			}
 			create_pop = {
-				culture = dakota
-				size = 46055
+				culture = tombcolonist
+				size = 80091
+				religion = stone
 			}
 			create_pop = {
-				culture = mongol
-				size = 180768
+				culture = ashlander
+				size = 30396
+				pop_type = slaves
+			}
+			create_pop = {
+				culture = ashlander
+				size = 15198
+			}
+			create_pop = {
+				culture = mongol2
+				size = 144614
+			}
+			create_pop = {
+				culture = mongol2
+				size = 35154
+				religion = stone
 			}
 		}
 	}
@@ -280,18 +334,18 @@
 	s:STATE_WALLS_SHADOW = {
 		region_state:KAR = {
 			create_pop = {
-				culture = mashriqi
+				culture = tombcolonist
 				size = 40513
 			}
 			create_pop = {
-				culture = dakota
+				culture = ashlander
 				size = 16055
 			}
 		}
 		region_state:D05 = {
 			create_pop = {
-				culture = dakota
-				size = 1400
+				culture = ashlander
+				size = 11400
 			}
 		}  
 	}

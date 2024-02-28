@@ -21,4 +21,60 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
+
+	c:D03 = { #The Sunken Ashlands
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+
+	c:D04 = { #Survivors of the Ash
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_low = yes
+	}
+
+	c:D05 = { #The Edge
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+
+	c:WHI = { #Whither
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_low = yes
+	}
+
+	c:CDX = { #Codex
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+
+	c:KAR = { #Karaoghtania
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_low = yes
+	}
+
+	c:TAN = { #Tanah-Chook
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+
+	c:CUR = { #The Order of the Curatorium
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_low = yes
+	}
+
+	c:VED = { #Venderbright
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+
+	c:ISC = { # League of Tung-ak
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_low = yes
+	}
+
+	c:XIC = { # Xibalba
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+
 }

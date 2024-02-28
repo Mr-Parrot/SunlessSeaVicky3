@@ -1,0 +1,38 @@
+﻿#Sunless Sea
+
+human_heritage = {
+	heritage = yes
+}
+#For humans
+
+the_dead_heritage = {
+	heritage = yes
+}
+#For the semi-dead: tomb colonists, drowners, and other edge cases
+
+immortals_heritage = {
+	heritage = yes
+}
+#For those who are immortal: the masters, the God-Eaters, and others
+
+rats_heritage = {
+	heritage = yes
+}
+#Rats
+
+infernal_heritage = {
+	heritage = yes
+}
+#For those from the infernal realm
+
+parabola_heritage = {
+	heritage = yes
+}
+#For those from Parabola
+
+axile_heritage = {
+	heritage = yes
+}
+#For Rubbery Men
+
+

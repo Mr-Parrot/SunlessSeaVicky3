@@ -250,7 +250,7 @@ STATE_66_SEA = {
 }
 STATE_67_SEA = {
     id = 3066
-    provinces = {}
+    provinces = { "x4125D7" }
 }
 STATE_68_SEA = {
     id = 3067
@@ -271,4 +271,8 @@ STATE_71_SEA = {
 STATE_72_SEA = {
     id = 3071
     provinces = { "x00B9DC" }
+}
+STATE_73_SEA = {
+    id = 3072
+    provinces = { "xC18F22" }
 }
