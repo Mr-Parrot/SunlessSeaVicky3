@@ -1,1 +1,24 @@
-﻿
+﻿TMB = {
+	use_culture_states = yes
+	
+	is_major_formation = yes
+	
+	unification_play = dp_unify_tomb_colonies
+	leadership_play = dp_leadership_tomb_colonies
+
+	required_states_fraction = 0.65
+	
+	ai_will_do = { always = yes }
+
+	possible = {
+		OR = {
+			country_has_primary_culture = cu:tombcolonist
+		}	
+		any_country = {
+			OR = {
+				country_has_primary_culture = cu:tombcolonist
+			}	
+			has_technology_researched = pan-nationalism	
+		}
+	}
+}

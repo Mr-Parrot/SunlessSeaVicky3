@@ -108,7 +108,7 @@
 			}
 			create_pop = {
 				culture = whitherin
-				size = 10000
+				size = 10001
 				religion = stone
 			}
 		}
@@ -161,7 +161,7 @@
 		region_state:D03 = {
 			create_pop = {
 				culture = ashlander
-				size = 48000
+				size = 4800
 			}
 		} 
 	} 
@@ -169,7 +169,7 @@
 		region_state:D03 = {
 			create_pop = {
 				culture = ashlander
-				size = 58000
+				size = 5800
 			}
 		} 
 	} 
@@ -193,7 +193,7 @@
 		region_state:D03 = {
 			create_pop = {
 				culture = ashlander
-				size = 8000
+				size = 100
 			}
 		}  
 	} 
@@ -275,7 +275,13 @@
 		region_state:TAN = {
 			create_pop = {
 				culture = tombcolonist
-				size = 60843
+				religion = mayan_rel
+				size = 40843
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = salt
+				size = 24843
 			}
 		}
 	}
@@ -283,7 +289,17 @@
 		region_state:TAN = {
 			create_pop = {
 				culture = tombcolonist
-				size = 380561
+				religion = mayan_rel
+				size = 280561
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = salt
+				size = 56157
+			}
+			create_pop = {
+				culture = tombcolonist
+				size = 46032
 			}
 		}
 	}
@@ -291,7 +307,13 @@
 		region_state:TAN = {
 			create_pop = {
 				culture = tombcolonist
-				size = 100924
+				religion = mayan_rel
+				size = 80924
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = stone
+				size = 20389
 			}
 		}
 	}
@@ -301,12 +323,12 @@
 		region_state:KAR = {
 			create_pop = {
 				culture = tombcolonist
-				size = 320364
+				size = 310364
 				religion = tengri
 			}
 			create_pop = {
 				culture = tombcolonist
-				size = 80091
+				size = 30091
 				religion = stone
 			}
 			create_pop = {
@@ -320,7 +342,7 @@
 			}
 			create_pop = {
 				culture = mongol2
-				size = 144614
+				size = 14614
 			}
 			create_pop = {
 				culture = mongol2
@@ -349,5 +371,354 @@
 			}
 		}  
 	}
-	
+
+	#The Order of the Curatorium
+	s:STATE_THE_OLDEST_QUARTER = {
+		region_state:CUR = {
+			create_pop = {
+				culture = tombcolonist
+				religion = sumerian
+				size = 66154
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 64598
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = atenism
+				size = 48326
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 20145
+			}
+			create_pop = {
+				culture = tombcolonist
+				size = 35986
+			}
+		}
+	}
+	s:STATE_THE_TOMB_CROSSROADS = {
+		region_state:CUR = {
+			create_pop = {
+				culture = tombcolonist
+				size = 40589
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 20158
+			}
+		}
+	}
+	s:STATE_THE_GRAND_SANATORIUM = {
+		region_state:CUR = {
+			create_pop = {
+				culture = tombcolonist
+				size = 300654
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 205893
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 105069
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = anglican
+				size = 40522
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = copper
+				size = 10509
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = atenism
+				size = 30806
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = sumerian
+				size = 8064
+			}
+		}
+	}
+
+	#Venderbright
+	s:STATE_VENDERBRIGHT = {
+		region_state:VED = {
+			create_pop = {
+				culture = tombcolonist
+				religion = anglican
+				size = 400304
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 109030
+			}
+			create_pop = {
+				culture = london
+				size = 17030
+				pop_type = aristocrats
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 59301
+			}
+		}
+	}
+	#Disputed Area
+	s:STATE_CARISSAS_POINT = {
+		region_state:VED = {
+			create_pop = {
+				culture = tombcolonist
+				religion = anglican
+				size = 30983
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 50390
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 28039
+			}
+		}
+		region_state:ISC = {
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 60328
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 123087
+			}
+		}
+	}
+	s:STATE_THE_WALL = {
+		region_state:VED = {
+			create_pop = {
+				culture = tombcolonist
+				religion = anglican
+				size = 5302
+			}
+		}
+		region_state:ISC = {
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 3829
+			}
+		}
+	}
+
+	#League of Tung-ak
+	s:STATE_THE_INTERSTATE_CONFEDERACY = {
+		region_state:ISC = {
+			create_pop = {
+				culture = tombcolonist
+				religion = tengri
+				size = 308612
+			}
+			create_pop = {
+				culture = mongol2
+				size = 42034
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = mayan_rel
+				size = 124875
+			}
+		} 
+	}
+
+	#Xibalba
+	s:STATE_XIBALBA = {
+		region_state:XIC = {
+			create_pop = {
+				culture = tombcolonist
+				religion = copper
+				size = 208390
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = atenism
+				size = 108348
+				pop_type = slaves
+			}
+		} 
+	}
+	s:STATE_XIBALBA_COAST = {
+		region_state:XIC = {
+			create_pop = {
+				culture = tombcolonist
+				religion = copper
+				size = 103904
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = atenism
+				size = 48903
+				pop_type = slaves
+			}
+		} 
+	}
+	s:STATE_DUAT_RIVER = {
+		region_state:XIC = {
+			create_pop = {
+				culture = tombcolonist
+				religion = copper
+				size = 18304
+			}
+		} 
+		region_state:D05 = {
+			create_pop = {
+				culture = tombcolonist #Escaped Atenites from Xibalba
+				religion = atenism
+				size = 38560
+			}
+		} 
+	}
+
+	#The Edge
+	s:STATE_THE_VERGE = {
+		region_state:D05 = {
+			create_pop = {
+				culture = tombcolonist
+				size = 53020
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = atenism
+				size = 38903
+			}
+			create_pop = {
+				culture = ashlander
+				size = 23048
+			}
+		} 
+	}
+	s:STATE_ENDLESS_DESERT_1 = {
+		region_state:D05 = {
+			create_pop = {
+				culture = tombcolonist
+				size = 32039
+			}
+		} 
+	}
+	s:STATE_ENDLESS_DESERT_2 = {
+		region_state:D05 = {
+			create_pop = {
+				culture = tombcolonist
+				size = 29482
+			}
+			create_pop = {
+				culture = tombcolonist
+				religion = atenism
+				size = 8818
+			}
+		} 
+	}
+
+	#Drownie Isles
+	s:STATE_PHOSGENE_BLEAKS = {
+		region_state:D06 = {
+			create_pop = {
+				culture = drownies
+				size = 4831
+			}
+		} 
+	}
+
+	s:STATE_ISLES_OF_ESSOP = {
+		region_state:D06 = {
+			create_pop = {
+				culture = drownies
+				size = 18671
+			}
+		} 
+	}
+
+	#Grande Geode/Station 5
+	s:STATE_GRAND_GEODE = {
+		region_state:TGG = {
+			create_pop = {
+				culture = london
+				size = 110382
+			}
+			create_pop = {
+				culture = london
+				size = 40382
+				religion = dawnmachine
+			}
+		} 
+	} 
+	s:STATE_GRAND_GEODE_RIM = {
+		region_state:TGG = {
+			create_pop = {
+				culture = london
+				size = 22039
+			}
+			create_pop = {
+				culture = london
+				size = 18304
+				religion = dawnmachine
+			}
+		} 
+	}
+	s:STATE_GRAND_GEODE_OUTER_RING = {
+		region_state:TGG = {
+			create_pop = {
+				culture = london
+				size = 32380
+			}
+			create_pop = {
+				culture = london
+				size = 30135
+				religion = dawnmachine
+			}
+		} 
+	}
+
+	#London Beta
+	s:STATE_BUGBY_MARSH = {
+		region_state:LON = {
+			create_pop = {
+				culture = london
+				size = 110382
+			}
+		} 
+	} 
+	s:STATE_WOLFSTACK_DOCKS = {
+		region_state:LON = {
+			create_pop = {
+				culture = london
+				size = 110382
+			}
+		} 
+	}
+	s:STATE_CARNIVAL = {
+		region_state:LON = {
+			create_pop = {
+				culture = london
+				size = 110382
+			}
+		} 
+	}
+
 }

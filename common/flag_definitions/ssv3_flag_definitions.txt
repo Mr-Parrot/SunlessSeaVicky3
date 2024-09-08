@@ -84,6 +84,236 @@
 #Sunless Sea Flags
 #####################
 
+D01 = { # The Glacial Grimlands
+	flag_definition = {
+		coa = D01
+		subject_canton = D01
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+}
+
+D02 = { #The Withering Wastes
+	flag_definition = {
+		coa = D02
+		subject_canton = D02
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+}
+
+D03 = { # The Glacial Grimlands
+	flag_definition = {
+		coa = D03
+		subject_canton = D03
+		allow_overlord_canton = yes	
+		priority = 10
+	}
+}
+
+D04 = { # Survivors of the Ash
+	flag_definition = {
+		coa = D04
+		subject_canton = D04
+		allow_overlord_canton = yes	
+		priority = 10
+	}
+}
+
+D05 = { # The Edge
+	flag_definition = {
+		coa = D05
+		subject_canton = D05
+		allow_overlord_canton = yes	
+		priority = 10
+	}
+}
+
+D06 = { # The Drowned Isles
+	flag_definition = {
+		coa = D06
+		subject_canton = D06
+		allow_overlord_canton = yes	
+		priority = 100
+	}
+}
+
+CDX = { #Codex
+	flag_definition = {
+		coa = CDX
+		subject_canton = CDX
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+
+	flag_definition = {
+		coa = CDX_fascist
+		subject_canton = CDX_fascist
+		priority = 1500
+		trigger = { 
+			coa_def_fascist_flag_trigger = yes
+		}
+	}	
+
+	flag_definition = {	
+		coa = CDX_dictatorship
+		subject_canton = CDX_dictatorship
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = CDX_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_dictatorship_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = CDX_republic	
+		subject_canton = CDX_republic	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = CDX_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_republic_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = CDX_monarchy	
+		subject_canton = CDX_monarchy	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = CDX_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_monarchy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = CDX_theocracy	
+		subject_canton = CDX_theocracy
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = CDX_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_theocracy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {
+		coa = CDX_technocracy
+		priority = 1750 # need to override the DEFAULT
+		trigger = { 
+			coa_def_communist_flag_trigger = yes
+			scope:actor = {
+				has_law = law_type:law_technocracy
+			}
+		}
+	}
+	flag_definition = {	
+		coa = CDX_communist
+		subject_canton = CDX_communist
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = CDX_communist	
+		priority = 1500	
+		trigger = { 	
+			coa_def_communist_flag_trigger = yes	
+		}	
+	}
+#	flag_definition = {
+#		coa = GOU_subject
+#		allow_overlord_canton = yes		
+#		priority = 50
+#		trigger = { 
+#			coa_def_british_ensign_trigger = yes
+#		}
+#	}
+}
+
+WHI = { #Codex
+	flag_definition = {
+		coa = WHI
+		subject_canton = WHI
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+
+	flag_definition = {
+		coa = WHI_fascist
+		subject_canton = WHI_fascist
+		priority = 1500
+		trigger = { 
+			coa_def_fascist_flag_trigger = yes
+		}
+	}	
+
+	flag_definition = {	
+		coa = WHI_dictatorship
+		subject_canton = WHI_dictatorship
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = WHI_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_dictatorship_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = WHI_republic	
+		subject_canton = WHI_republic	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = WHI_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_republic_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = WHI_monarchy	
+		subject_canton = WHI_monarchy	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = WHI_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_monarchy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = WHI_theocracy	
+		subject_canton = WHI_theocracy
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = WHI_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_theocracy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {
+		coa = WHI_technocracy
+		priority = 1750 # need to override the DEFAULT
+		trigger = { 
+			coa_def_communist_flag_trigger = yes
+			scope:actor = {
+				has_law = law_type:law_technocracy
+			}
+		}
+	}
+	flag_definition = {	
+		coa = WHI_communist
+		subject_canton = WHI_communist
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = WHI_communist	
+		priority = 1500	
+		trigger = { 	
+			coa_def_communist_flag_trigger = yes	
+		}	
+	}
+#	flag_definition = {
+#		coa = GOU_subject
+#		allow_overlord_canton = yes		
+#		priority = 50
+#		trigger = { 
+#			coa_def_british_ensign_trigger = yes
+#		}
+#	}
+}
+
+
+
 KAR = { #KARAOGHTANIA
 	flag_definition = {
 		coa = KAR
@@ -93,6 +323,16 @@ KAR = { #KARAOGHTANIA
 	}
 }
 
+VED = { #Venderbright
+	flag_definition = {
+		coa = VED
+		subject_canton = VED
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+}
+
+
 ISC = { #League of Tung-ak
 	flag_definition = {
 		coa = ISC
@@ -100,7 +340,7 @@ ISC = { #League of Tung-ak
 		allow_overlord_canton = yes	
 		priority = 1
 	}
-
+}
 	#Based on Flag of Bogd Khaanate Mongolia & Dzungar Khanate Symbol
 
 #	flag_definition = {	
@@ -161,4 +401,273 @@ ISC = { #League of Tung-ak
 #			coa_def_british_ensign_trigger = yes
 #		}
 #	}
+
+TAN = { #Tanah-Chook
+	flag_definition = {
+		coa = TAN
+		subject_canton = TAN
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+
+	flag_definition = {	
+		coa = TAN_dictatorship
+		subject_canton = TAN_dictatorship
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = TAN_subject	
+		priority = 1500
+		trigger = { 	
+			coa_def_dictatorship_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = TAN_republic	
+		subject_canton = TAN_republic	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = TAN_subject	
+		priority = 15
+		trigger = { 	
+			coa_def_republic_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {
+		coa = TAN_fascist
+		subject_canton = TAN_fascist
+		priority = 1500
+		trigger = { 
+			coa_def_fascist_flag_trigger = yes
+		}
+	}	
+	flag_definition = {	
+		coa = TAN_monarchy	
+		subject_canton = TAN_monarchy	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = TAN_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_monarchy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = TAN_theocracy	
+		subject_canton = TAN_theocracy
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = TAN_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_theocracy_flag_trigger = yes	
+		}	
+	}
+#	flag_definition = {	
+#		coa = TAN_communist
+#		subject_canton = TAN_communist
+#		allow_overlord_canton = yes		
+#		coa_with_overlord_canton = TAN_subject	
+#		priority = 1500	
+#		trigger = { 	
+#			coa_def_communist_flag_trigger = yes	
+#		}	
+#	}
+	flag_definition = {
+		coa = TAN_technocracy
+		priority = 1750 # need to override the DEFAULT
+		trigger = { 
+			coa_def_communist_flag_trigger = yes
+			scope:actor = {
+				has_law = law_type:law_technocracy
+			}
+		}
+	}
+#	flag_definition = {
+#		coa = GOU_subject
+#		allow_overlord_canton = yes		
+#		priority = 50
+#		trigger = { 
+#			coa_def_british_ensign_trigger = yes
+#		}
+#	}
+}
+
+
+XIC = { #Xibalba
+	flag_definition = {
+		coa = XIC
+		subject_canton = XIC
+		allow_overlord_canton = yes	
+		priority = 1
+	}
+	flag_definition = {	
+		coa = XIC_dictatorship
+		subject_canton = XIC_dictatorship
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = XIC_subject	
+		priority = 1500
+		trigger = { 	
+			coa_def_dictatorship_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = XIC_republic	
+		subject_canton = XIC_republic	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = XIC_subject	
+		priority = 15
+		trigger = { 	
+			coa_def_republic_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {
+		coa = XIC_fascist
+		subject_canton = XIC_fascist
+		priority = 1500
+		trigger = { 
+			coa_def_fascist_flag_trigger = yes
+		}
+	}	
+	flag_definition = {	
+		coa = XIC_monarchy	
+		subject_canton = XIC_monarchy	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = XIC_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_monarchy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = XIC_theocracy	
+		subject_canton = XIC_theocracy
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = XIC_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_theocracy_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {	
+		coa = XIC_communist
+		subject_canton = XIC_communist
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = XIC_communist	
+		priority = 1500	
+		trigger = { 	
+			coa_def_communist_flag_trigger = yes	
+		}	
+	}
+	flag_definition = {
+		coa = XIC_technocracy
+		priority = 1750 # need to override the DEFAULT
+		trigger = { 
+			coa_def_communist_flag_trigger = yes
+			scope:actor = {
+				has_law = law_type:law_technocracy
+			}
+		}
+	}
+#	flag_definition = {
+#		coa = GOU_subject
+#		allow_overlord_canton = yes		
+#		priority = 50
+#		trigger = { 
+#			coa_def_british_ensign_trigger = yes
+#		}
+#	}
+}
+
+TMB = { # The Tomb Colonies
+
+	flag_definition = {
+		coa = TMB_Venderbright
+		subject_canton = TMB_Venderbright
+		priority = 11
+		trigger = {
+			exists = scope:actor
+			scope:actor ?= {
+				was_formed_from = VED				
+			}
+		}
+	}
+	flag_definition = {
+		coa = TMB_Xibalba
+		subject_canton = TMB_Xibalba
+		priority = 11
+		trigger = {
+			exists = scope:actor
+			scope:actor ?= {
+				was_formed_from = XIC				
+			}
+		}
+	}
+}
+
+
+LON = { # London
+	flag_definition = {
+		coa = LON
+		subject_canton = LON
+		priority = 1
+		allow_overlord_canton = yes
+		overlord_canton_scale = { @canton_scale_cross_x @canton_scale_cross_y }
+	}
+	flag_definition = {
+		coa = LON_republic
+		subject_canton = LON_republic
+		priority = 15
+		trigger = { 
+			coa_def_republic_flag_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = GBR_coa
+		priority = 20
+		trigger = { 
+			coa_def_absolute_monarchy_flag_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = LON_theocracy
+		subject_canton = LON_theocracy
+		allow_overlord_canton = yes
+		overlord_canton_scale = { @canton_scale_cross_x @canton_scale_cross_y }
+		priority = 20
+		trigger = { 
+			coa_def_theocracy_flag_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = LON_white_ensign
+		subject_canton = GBR
+		allow_overlord_canton = yes
+		overlord_canton_scale = { @canton_scale_cross_x @canton_scale_cross_y }
+		priority = 20
+		trigger = { 
+			coa_def_military_junta_flag_trigger = yes
+		}
+	}
+	flag_definition = {
+		coa = GBR_uk_white_ensign
+		subject_canton = GBR_uk
+		allow_overlord_canton = yes
+		overlord_canton_scale = { @canton_scale_cross_x @canton_scale_cross_y }
+		priority = 21
+		trigger = { 
+			coa_def_military_junta_flag_trigger = yes
+			coa_def_controls_part_of_ireland = yes
+		}
+	}
+	flag_definition = {
+		coa = LON_communist
+		priority = 1500
+		trigger = { 
+			coa_def_communist_flag_trigger = yes
+		}
+	}	
+	flag_definition = {
+		coa = LON_fascist
+		subject_canton = LON_fascist
+		priority = 1500
+		trigger = { 
+			coa_def_fascist_flag_trigger = yes
+		}
+	}
 }

@@ -1,0 +1,77 @@
+﻿object={
+	name="asian_manorhouse"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="asian_rural_manorhouse_01_mesh"
+	count=1
+	transform="797.368286 0.000000 2889.462891 0.000000 -0.694620 0.000000 0.719377 2.167159 2.167159 2.167159
+"}
+object={
+	name="new_mapobject_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="academic_cap_mesh"
+	count=0
+}
+object={
+	name="urban_asian_poor1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="asian_urban_residential_poor_01_mesh"
+	count=6
+	transform="976.301147 0.000000 2713.324463 0.000000 0.000000 0.000000 1.000000 1.364063 1.364063 1.364063
+1081.076538 0.000000 2736.605713 0.000000 0.391885 0.000000 0.920014 2.782283 2.782283 2.782283
+1023.458740 0.000000 2648.662109 0.000000 -0.041492 0.000000 0.999139 1.753953 1.753953 1.753953
+1038.317261 0.000000 2664.254639 0.000000 -0.009033 0.000000 0.999959 1.461774 1.461774 1.461774
+1038.810669 0.000000 2658.933350 0.000000 -0.009033 0.000000 0.999959 1.461774 1.461774 1.461774
+1048.240967 0.000000 2665.625244 0.000000 -0.009033 0.000000 0.999959 1.461774 1.461774 1.461774
+"}
+object={
+	name="urban_asian_poor3"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="asian_urban_residential_rich_03_mesh"
+	count=4
+	transform="974.351196 0.000000 2707.876709 0.000000 0.000000 0.000000 1.000000 1.364063 1.364063 1.364063
+1094.099609 0.000000 2748.897705 0.000000 -0.484399 0.000000 0.874847 1.816091 1.816091 1.816091
+1020.636841 0.000000 2677.111572 0.000000 0.000000 0.000000 1.000000 1.792641 1.792641 1.792641
+1043.193481 0.000000 2661.410156 0.000000 -0.009033 0.000000 0.999959 1.461774 1.461774 1.461774
+"}
+object={
+	name="urban_euro_middle2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="european_urban_residential_mid_02_mesh"
+	count=2
+	transform="1210.441895 0.000000 2183.228027 0.000000 -0.540794 0.000000 0.841155 1.673231 1.673231 1.673231
+1218.667603 0.000000 2183.864258 0.000000 0.228731 0.000000 0.973490 2.017645 2.017645 2.017645
+"}
+object={
+	name="wonder_big_ben"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="wonder_big_ben_01_mesh"
+	count=1
+	transform="1032.959595 0.000000 2119.116455 0.000000 0.000000 0.000000 1.000000 4.182920 4.182920 4.182920
+"}
+object={
+	name="wonder_observatory"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="cities"
+	pdxmesh="academic_cap_mesh"
+	count=0
+}

@@ -56,9 +56,21 @@ D05 = { #The Edge
 
 	tier = principality 
 
-	cultures = { ashlander } 
+	cultures = { tombcolonist } 
 	religion = storm
-	capital = STATE_TRANQUIL_HILLS 
+	capital = STATE_THE_VERGE 
+}
+
+D06 = { #The Drowned Isles
+	color = { 1 35 69 }  
+
+	country_type = decentralized   
+
+	tier = duchy 
+
+	cultures = { drownies } 
+	religion = salt
+	capital = STATE_PHOSGENE_BLEAKS
 }
 
 WHI = { #Whither
@@ -105,9 +117,9 @@ TAN = { #Tanah-Chook
 
 	tier = principality 
 
-	cultures = { mayan tombcolonist } 
+	cultures = { tombcolonist } 
 	#Replace with Tomb Colonists
-	religion = storm
+	religion = mayan_rel
 	capital = STATE_TANA_CHOOK
 }
 
@@ -116,12 +128,12 @@ CUR = { #The Order of the Curatorium
 
 	country_type = unrecognized   
 
-	tier = principality 
+	tier = grand_principality 
 
 	cultures = { tombcolonist } 
 	#Replace with Tomb Colonists
 	religion = storm
-	capital = STATE_THE_OLDEST_QUARTER
+	capital = STATE_THE_GRAND_SANATORIUM
 }
 
 VED = { #Venderbright
@@ -151,45 +163,63 @@ ISC = { #Interstate Confederacy
 }
 
 XIC = { #Xibalba
-	color = { 239 203 104 } 
+	color = { 239 203 104 }  
 
 	country_type = unrecognized   
 
 	tier = principality 
 
-	cultures = { mayan } 
-	religion = storm
+	cultures = { tombcolonist } 
+	religion = copper
 	capital = STATE_XIBALBA
 }
 
 
+LON = { #London
+	color = { 242 194 180  }  
+
+	country_type = recognized   
+
+	tier = empire 
+
+	cultures = { london } 
+	religion = anglican
+	capital = STATE_WOLFSTACK_DOCKS #Fix Later
+}
 
 
 
+TGG = { #The Grand Geode / STATION V 
+	color = { 59 44 63 }  
 
+	country_type = colonial    
 
+	tier = principality 
 
+	cultures = { london } 
+	religion = dawnmachine
+	capital = STATE_GRAND_GEODE
+}
 
+##############
+# Formables
+##############
 
+TMB = { #Tomb Colonies
+	color = { 102 102 102 } 
 
+	country_type = unrecognized   
 
+	tier =  kingdom 
 
+	cultures = { tombcolonist } 
+	religion = storm
+	capital = STATE_THE_GRAND_SANATORIUM
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##############
 # Releasables
+##############
 
 HIQ = { #House of the Question
 	color = { 204 153 255 } 
@@ -214,3 +244,42 @@ ODL = { #Odinson's Land
 	religion = storm
 	capital = STATE_ANDERGARD_HARBOUR
 }
+
+ATN = { #Akhenaten Redeemers
+	color = { 252 145 58 }  
+
+	country_type = unrecognized   
+
+	tier =  city_state 
+
+	cultures = { tombcolonist } 
+	religion = atenism
+	capital = STATE_THE_OLDEST_QUARTER
+}
+
+SUM = { #The Last of Sumer
+	color = { 0 191 175 } 
+
+	country_type = unrecognized   
+
+	tier =  city_state 
+
+	cultures = { tombcolonist } 
+	religion = sumerian
+	capital = STATE_THE_OLDEST_QUARTER
+}
+
+TWM = { #Hunahpu & Xbalanque 
+# From: https://en.wikipedia.org/wiki/Maya_Hero_Twins
+	color = { 50 141 194 } 
+
+	country_type = unrecognized   
+
+	tier = principality 
+
+	cultures = { tombcolonist } 
+	#Replace with Tomb Colonists
+	religion = mayan_rel
+	capital = STATE_THE_INTERSTATE_CONFEDERACY
+}
+

@@ -11,7 +11,10 @@
 	# effect_starting_pop_literacy_low
 	# effect_starting_pop_literacy_very_low
 	# effect_starting_pop_literacy_baseline
+
 	
+#Decentralized Countries 
+
 	c:D01 = { #The Glacial Grimlands
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
@@ -36,6 +39,13 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
+
+	c:D06 = { #The Drowned Isles
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+
+#Important countries
 
 	c:WHI = { #Whither
 		effect_starting_pop_wealth_medium = yes
@@ -75,6 +85,11 @@
 	c:XIC = { # Xibalba
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_very_low = yes
+	}
+
+	c:TGG = { # Grand Geode
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_high = yes
 	}
 
 }

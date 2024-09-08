@@ -1,8 +1,32 @@
-﻿#DIPLOMACY = {
-#	c:DUA = {
-#		create_diplomatic_pact = {
-#			country = c:BRG
-#			type = rivalry
-#		}
-#	}
-#}
+﻿DIPLOMACY = {
+	c:VED = {
+		create_diplomatic_pact = {
+			country = c:ISC
+			type = rivalry
+		}
+	}
+	c:ISC = {
+		create_diplomatic_pact = {
+			country = c:VED
+			type = rivalry
+		}
+	}
+	c:KAR = {
+		create_diplomatic_pact = {
+			country = c:CUR
+			type = rivalry
+		}
+	}
+	c:TAN = {
+		create_diplomatic_pact = {
+			country = c:XIC
+			type = rivalry
+		}
+	}
+	c:XIC = {
+		create_diplomatic_pact = {
+			country = c:XIC
+			type = rivalry
+		}
+	}
+}

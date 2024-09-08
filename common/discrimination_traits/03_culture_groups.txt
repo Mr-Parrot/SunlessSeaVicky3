@@ -1,16 +1,21 @@
 ﻿#Sunless Sea
 
+# Whither and Codex
 boreal_reach_group  = {
 }
-# Whither and Codex
 
+# Decentralized Northern groups
 norther_hinterlander  = {
 }
-# Decentralized Northern groups
 
+# Tomb Colonist
 tomb_colonist_group= {
 }
-# Tomb Colonist
+
+# Drownies
+drownies_group= {
+}
+
 
 #Vanilla
 

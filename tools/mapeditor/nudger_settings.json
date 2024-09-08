@@ -509,6 +509,21 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"asian_manorhouse"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"asian_manorhouse"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"baobab_generator_1_0"
 			},
 			"entry_state":	{
@@ -662,6 +677,101 @@
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"barracks_asian"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"barracks_asian"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"barracks_euro"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"barracks_euro"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"barracks_latin"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"barracks_latin"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
@@ -1280,6 +1390,21 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"dlc_coin_ep1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"dlc_coin_ep1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"dlc_coin_rp1"
 			},
 			"entry_state":	{
@@ -1831,6 +1956,19 @@
 			"instances":	[{
 					"locked":	false
 				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"new_mapobject_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"new_mapobject_2"
+				}
+			},
+			"instances":	[]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
@@ -2831,6 +2969,21 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"port_arab_for_XIB"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"port_arab_for_XIB"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"rainforest_generator_1_0"
 			},
 			"entry_state":	{
@@ -3710,6 +3863,485 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
+				"key":	"urban_arab_poor1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_poor1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_poor2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_poor2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_poor3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_poor3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_poor1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_poor1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_poor2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_poor2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_poor3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_poor3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_city_townsquare_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_city_townsquare_01"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_euro_middle1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_euro_middle1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_euro_middle2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_euro_middle2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_euro_middle3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_euro_middle3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_euro_poor1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_euro_poor1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_euro_poor2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_euro_poor2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_euro_poor3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_euro_poor3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_latin_poor_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_latin_poor_1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"wonder_big_ben"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"wonder_big_ben"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
 				"key":	"wonder_falls"
 			},
 			"entry_state":	{
@@ -3717,6 +4349,19 @@
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"wonder_falls"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"wonder_observatory"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"wonder_observatory"
 				}
 			},
 			"instances":	[]
@@ -3945,6 +4590,10 @@
 					"locked":	false
 				}, {
 					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
 				}]
 		}, {
 			"object_ref":	{
@@ -3959,6 +4608,12 @@
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4327,7 +4982,11 @@
 					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -4659,6 +5318,24 @@
 					"locked":	false
 				}, {
 					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
 				}]
 		}, {
 			"object_ref":	{
@@ -4727,6 +5404,24 @@
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4893,6 +5588,24 @@
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -5241,6 +5954,22 @@
 					"locked":	false
 				}, {
 					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
 				}]
 		}, {
 			"object_ref":	{
@@ -5346,6 +6075,24 @@
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false

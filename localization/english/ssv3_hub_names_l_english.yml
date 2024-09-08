@@ -7,6 +7,7 @@
  HUB_NAME_STATE_ANDERGARD_HARBOUR_port: "Andergard Harbour"
  HUB_NAME_STATE_ANDERGARD_HARBOUR_mine: "Coaling Station Andergard"
  HUB_NAME_STATE_ANDERGARD_HARBOUR_wood: "Deckwood Dell"
+ HUB_NAME_STATE_ANDERGARD_HARBOUR_farm: "The Old Kontor"
 
 #ODISON FORTUNE
  HUB_NAME_STATE_ODISON_FORTUNE_city: "Odinsontown"
@@ -31,10 +32,8 @@
 
 #NIGHTSHADE NOOK
  HUB_NAME_STATE_NIGHTSHADE_NOOK_city: "Nightshade Summit City"
- HUB_NAME_STATE_NIGHTSHADE_NOOK_port: ""
  HUB_NAME_STATE_NIGHTSHADE_NOOK_mine: "Permafrost Peak Pits"
  HUB_NAME_STATE_NIGHTSHADE_NOOK_farm: "Snowseed Summit Fields"
- HUB_NAME_STATE_NIGHTSHADE_NOOK_wood: ""
 
 #FROSTFANG FOREST
  HUB_NAME_STATE_FROSTFANG_FOREST_city: "Frostfang Citadel"
@@ -44,7 +43,6 @@
 
 #WHITHER CITY
  HUB_NAME_STATE_WHITHER_CITY_city: "Whither"
- HUB_NAME_STATE_WHITHER_CITY_port: ""
  HUB_NAME_STATE_WHITHER_CITY_mine: "Tundratop Tunnelworks"
  HUB_NAME_STATE_WHITHER_CITY_farm: "Iceplow Plateau"
  HUB_NAME_STATE_WHITHER_CITY_wood: "Iceveil Vale"
@@ -54,7 +52,8 @@
 #ODISON FOLLY
  HUB_NAME_STATE_ODISON_FOLLY_city: "Odison's Rest"
  HUB_NAME_STATE_ODISON_FOLLY_port: "Odison's Folly"
- HUB_NAME_STATE_PALE_WASTES_mine: "Odison's Remains"
+ HUB_NAME_STATE_ODISON_FOLLY_mine: "Odison's Remains"
+ HUB_NAME_STATE_ODISON_FOLLY_farm: "Frost Eaten Runestone" #Maybe replace with another norse name Mjölnir
 
 #PECKERIDGE LOOKOUT
  HUB_NAME_STATE_PECKERIDGE_LOOKOUT_city: "Peckeridge's Tower"
@@ -63,6 +62,8 @@
 #ARTIC_2 / Spectral Snowscape
  HUB_NAME_STATE_ARTIC_2_city: "Spectral Refuge"
  HUB_NAME_STATE_ARTIC_2_port: "Spectral Edge"
+ HUB_NAME_STATE_ARTIC_2_farm: "Last Chance"
+
 
 ### The Glacial Grimlands ###
 
@@ -70,6 +71,7 @@
  HUB_NAME_STATE_PALE_WASTES_city: "The Pale City"
  HUB_NAME_STATE_PALE_WASTES_port: "Frozen Harbour"
  HUB_NAME_STATE_PALE_WASTES_mine: "The Oil Wastes"
+ HUB_NAME_STATE_PALE_WASTES_farm: "Fort Sutton Hoo"
 
 #WHISPERING_WOLDS
  HUB_NAME_STATE_WHISPERING_WOLDS_city: "The Ruined City"
@@ -89,8 +91,10 @@
 
 #Outer Codex
  HUB_NAME_STATE_OUTER_CODEX_city: "Silent Hill"
- HUB_NAME_STATE_OUTER_CODEX_port: "Half-Forgotten Pier"
+ HUB_NAME_STATE_OUTER_CODEX_port: "Foggy Pier"
  HUB_NAME_STATE_OUTER_CODEX_mine: "Old Silent Hill"
+ HUB_NAME_STATE_OUTER_CODEX_farm: "The Forsaken Lighthouse"
+
 
 ### Ashlands ###
 
@@ -104,6 +108,8 @@
 #STATE_JOHANNESSON_TOWN_RUINS
  HUB_NAME_STATE_JOHANNESSON_TOWN_RUINS_city: "Johannesson Town"
  HUB_NAME_STATE_JOHANNESSON_TOWN_RUINS_mine: "Rhodes's Failure"
+ HUB_NAME_STATE_JOHANNESSON_TOWN_RUINS_farm: "The Outer Ruins"
+
 
 #STATE_FLOURISH_CITY_RUINS
  HUB_NAME_STATE_FLOURISH_CITY_RUINS_city: "Flourish City"
@@ -114,10 +120,14 @@
  HUB_NAME_STATE_ASHEN_COAST_city: "Tambora Village"
  HUB_NAME_STATE_ASHEN_COAST_port: "Ash Buried Port"
  HUB_NAME_STATE_ASHEN_COAST_mine: "Fallen Spike Abyss"
+ HUB_NAME_STATE_ASHEN_COAST_farm: "Oxenfree"
+
 
 #STATE_ASH_SUNK_CROSSROAD
  HUB_NAME_STATE_ASH_SUNK_CROSSROAD_city: "Herculaneum"
  HUB_NAME_STATE_ASH_SUNK_CROSSROAD_mine: "Magma Filled Mine"
+ HUB_NAME_STATE_ASH_SUNK_CROSSROAD_farm: "The Raved Tollgate"
+
 
 #STATE_ASH_WASTES
  HUB_NAME_STATE_ASH_WASTES_city: "Akrotiri"
@@ -134,18 +144,24 @@
  HUB_NAME_STATE_COASTAL_SPIKES_city: "Rocky Refuge"
  HUB_NAME_STATE_COASTAL_SPIKES_port: "Semi-safe Port"
  HUB_NAME_STATE_COASTAL_SPIKES_mine: "The Gap"
+ HUB_NAME_STATE_COASTAL_SPIKES_farm: "A House of Many Doors"
+
 
 #STATE_THE_CROSSROADS
  HUB_NAME_STATE_THE_CROSSROADS_city: "The Eternal Inn"
  HUB_NAME_STATE_THE_CROSSROADS_wood: "Mystic Moundwood"
  HUB_NAME_STATE_THE_CROSSROADS_mine: "Obscura's Vault"
+ HUB_NAME_STATE_THE_CROSSROADS_farm: "The Adventurer's Market"
+
 
 #STATE_INLAND_SPIKES
  HUB_NAME_STATE_INLAND_SPIKES_city: "The Tombs"
  HUB_NAME_STATE_INLAND_SPIKES_mine: "Gloomgas Gulch"
+ HUB_NAME_STATE_INLAND_SPIKES_farm: "The Spiked Shrine"
+
 
 #STATE_SHIELDED_HILLS
- HUB_NAME_STATE_SHIELDED_HILLS_city: "The Queen's Summer Palace"
+ HUB_NAME_STATE_SHIELDED_HILLS_city: "The Queen's Winter Palace"
  HUB_NAME_STATE_SHIELDED_HILLS_mine: "Everstone Enclave"
  HUB_NAME_STATE_SHIELDED_HILLS_farm: "The Rose Gardens"
  HUB_NAME_STATE_SHIELDED_HILLS_wood: "Furnace Hills"
@@ -153,11 +169,13 @@
 #STATE_MOONLIGHT_WHISPER_WOODS
  HUB_NAME_STATE_MOONLIGHT_WHISPER_WOODS_city: "Parrotville"
  HUB_NAME_STATE_MOONLIGHT_WHISPER_WOODS_wood: "The Great Moonlit Whisper Woods"
+ HUB_NAME_STATE_MOONLIGHT_WHISPER_WOODS_farm: "Foragers Hut"
 
 #STATE_WALLS_SHADOW 
  HUB_NAME_STATE_WALLS_SHADOW_city: "Jijig City"
  HUB_NAME_STATE_WALLS_SHADOW_port: "Daichi Port"
  HUB_NAME_STATE_WALLS_SHADOW_mine: "The Tomor Mines"
+ HUB_NAME_STATE_WALLS_SHADOW_farm: "Ekhnii Garnizony Fort"
 
 #STATE_KARAOGHTANIA 
  HUB_NAME_STATE_KARAOGHTANIA_city: "Tomb of the Khan"
@@ -167,6 +185,7 @@
 
 # STATE_THE_TOMB_CROSSROADS
  HUB_NAME_STATE_THE_TOMB_CROSSROADS_city: "The Crumbling Palace"
+ HUB_NAME_STATE_THE_TOMB_CROSSROADS_farm: "The Vizier's Palace"
 
 #STATE_THE_OLDEST_QUARTER
  HUB_NAME_STATE_THE_OLDEST_QUARTER_city: "The Oldest Quarter"
@@ -207,16 +226,20 @@
 #STATE_THE_VERGE
  HUB_NAME_STATE_THE_VERGE_city: "The Funnel Gates"
  HUB_NAME_STATE_THE_VERGE_mine: "The Grandest Dustbowl"
+ HUB_NAME_STATE_THE_VERGE_farm: "Hallow Fields"
+
 
 #STATE_THE_GRAND_SANATORIUM
  HUB_NAME_STATE_THE_GRAND_SANATORIUM_city: "Grand Sanatorium Entrance"
- HUB_NAME_STATE_THE_GRAND_SANATORIUM_port: "The Secluded Port"
+ HUB_NAME_STATE_THE_GRAND_SANATORIUM_port: "The Old Port"
  HUB_NAME_STATE_THE_GRAND_SANATORIUM_farm: "Half-Sunken Ricefields"
+ HUB_NAME_STATE_THE_GRAND_SANATORIUM_mine: "The Grand Sanatorium"
 
 #STATE_VENDERBRIGHT
  HUB_NAME_STATE_VENDERBRIGHT_city: "Venderbight"
  HUB_NAME_STATE_VENDERBRIGHT_port: "Venderbight Port"
  HUB_NAME_STATE_VENDERBRIGHT_mine: "The Stalagmite Arcade"
+ HUB_NAME_STATE_VENDERBRIGHT_farm: "The Seaside Inn"
 
 #STATE_CARISSAS_POINT
  HUB_NAME_STATE_CARISSAS_POINT_city: "Fort Carissa"
@@ -226,6 +249,8 @@
 #STATE_THE_WALL
  HUB_NAME_STATE_THE_WALL_city: "Castle Black"
  HUB_NAME_STATE_THE_WALL_port: "The Night's Watch"
+ HUB_NAME_STATE_THE_WALL_farm: "Atlan's Guardpost"
+
 
 #STATE_THE_INTERSTATE_CONFEDERACY
  HUB_NAME_STATE_THE_INTERSTATE_CONFEDERACY_city: "Tung-ak"
@@ -236,11 +261,14 @@
 #STATE_XIBALBA_COAST
  HUB_NAME_STATE_XIBALBA_COAST_city: "The Lords of the Crossroad"
  HUB_NAME_STATE_XIBALBA_COAST_mine: "Ravenglass Fissure"
+ HUB_NAME_STATE_XIBALBA_COAST_farm: "Desolate Fields"
  HUB_NAME_STATE_XIBALBA_COAST_port: "River of the White Scorpion"
 
 #STATE_XIBALBA
  HUB_NAME_STATE_XIBALBA_city: "Xibalba"
  HUB_NAME_STATE_XIBALBA_mine: "The Temple of Sacrifices"
+ HUB_NAME_STATE_XIBALBA_farm: "The Tomb Entrance"
+
 
 #STATE_DUAT_RIVER
  HUB_NAME_STATE_DUAT_RIVER_city: "Kerma"
@@ -248,4 +276,36 @@
  HUB_NAME_STATE_DUAT_RIVER_mine: "Buto"
  HUB_NAME_STATE_DUAT_RIVER_farm: "Shedet"
  HUB_NAME_STATE_DUAT_RIVER_wood: "Philae"
+
+#STATE_PHOSGENE_BLEAKS
+ HUB_NAME_STATE_PHOSGENE_BLEAKS_city: "Phosgene Bleaks"
+ HUB_NAME_STATE_PHOSGENE_BLEAKS_port: "Moody's Light"
+ HUB_NAME_STATE_PHOSGENE_BLEAKS_mine: "Everflooding mines"
+ HUB_NAME_STATE_PHOSGENE_BLEAKS_farm: "Dampshade fields"
+
+# STATE_ISLES_OF_ESSOP
+ HUB_NAME_STATE_ISLES_OF_ESSOP_city: "Purewal Point"
+ HUB_NAME_STATE_ISLES_OF_ESSOP_port: "Essop's Base"
+ HUB_NAME_STATE_ISLES_OF_ESSOP_farm: "Mossmouth Swamp"
+
+#STATE_BUGBY_MARSH
+ HUB_NAME_STATE_BUGBY_MARSH_city: "Watchmaker's Hill"
+ HUB_NAME_STATE_BUGBY_MARSH_port: "Medusa Head"
+ HUB_NAME_STATE_BUGBY_MARSH_mine: "Department of Menace Eradication"
+ HUB_NAME_STATE_BUGBY_MARSH_farm: "The Observatory"
+# HUB_NAME_STATE_BUGBY_MARSH_wood: "55"
+
+#STATE_WOLFSTACK_DOCKS
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_city: "Wolfstack"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_port: "Peppery Dock"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_mine: "Hater's Bridge"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_farm: "Mahogany Hall"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_wood: "Blind Helmsman"
+
+#STATE_CARNIVAL
+ HUB_NAME_STATE_CARNIVAL_city: "St. Fiacre"
+ HUB_NAME_STATE_CARNIVAL_port: "Beneath the Neath!"
+ HUB_NAME_STATE_CARNIVAL_mine: "The Big Top" 
+ HUB_NAME_STATE_CARNIVAL_farm: "Mrs. Plenty's Carnival"
+ HUB_NAME_STATE_CARNIVAL_wood: "The Sideshows"
 

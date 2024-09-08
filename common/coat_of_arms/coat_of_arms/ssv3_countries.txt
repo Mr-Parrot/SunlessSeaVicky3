@@ -9,12 +9,12 @@
 #EXA = {
 #	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
 #	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
-#	textured_emblem = { #Adds a textured emblem.
-#		texture = "te_coa_bahamas.dds" #From gfx\coat_of_arms\textured_emblems
+#	textured_emblem = {   #Adds a textured emblem.
+#		texture = "te_coa_bahamas.dds"   #From gfx\coat_of_arms\textured_emblems
 #		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
 #	}
 #	colored_emblem = { #Adds a colored emblem.
-#		texture = "ce_coa_frame_costa_rica.dds" #From gfx\coat_of_arms\textured_emblems
+#		texture = "ce_coa_frame_costa_rica.dds"  
 #		color1 = "red"
 #		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
 #		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
@@ -23,7 +23,261 @@
 
 #####################
 
+#The Glacial Grimlands
+D01 = { #The Glacial Grimlands
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = { 
+		texture = "te_glacial.dds" 
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
 
+#The Withering Wastes
+D02 = { #The Withering Wastes
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_whithering_wastes.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+#The Sunken Ashlands
+D03 = { #The Sunken Ashlands
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {
+		texture = "te_ashlands.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+	#colored_emblem = { 
+	#	texture = "ce_coa_volcano.dds" 
+	#	color1 = red
+	#	instance =  { position = { .5 .5 } scale = { 1 1 } }
+	#}
+}
+
+#The Sunken Ashlands
+D04 = { #Survivors of the Ash
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 25 89 5 }
+	colored_emblem = {
+		texture = "ce_coa_ashlander.dds"  
+		color1 = yellow
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+	#colored_emblem = { 
+	#	texture = "ce_coa_volcano.dds" 
+	#	color1 = red
+	#	instance =  { position = { .5 .5 } scale = { 1 1 } }
+	#}
+}
+
+#The Edge
+D05 = { #The Edge
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {
+		texture = "te_edge.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+#The Drowned Isles
+D06 = { #The Drowned Isles
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 21 34 56 }
+	colored_emblem = { 
+		texture = "ce_coa_drownies.dds"  
+		color1 = rgb{ 28 46 74 }
+		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
+		instance = { position = { 0.5 0.75 } scale = { 1 1 } }
+	}
+	colored_emblem = { 
+		texture = "ce_waves_latvia.dds"  
+		color1 = rgb{ 21 34 56 }
+		color2 = rgb{ 25 40 65 }
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+###################################
+# CODEX
+###################################
+
+CDX = { #Codex
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_codex.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_republic = { #Codex Republic
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_CDX_republic.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_dictatorship = { #Codex Dictatorship
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_CDX_dictator.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_theocracy = { #Codex Theology
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_CDX_THE.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_technocracy = { #Codex Technocracy
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_CDX_TEC.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_communist= { #Codex Communist
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_CDX_COM.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_fascist = { #Codex Fascist
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_CDX_FAS.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+CDX_monarchy = { #Codex Monarchy
+	pattern = "pattern_tricolor_ssv3.dds" 
+	color2 = rgb{ 81 110 130}
+	color3 = rgb{ 49 56 83 }
+	color1 = rgb{ 172 202 226 }
+	#textured_emblem = {  
+	#	texture = "pattern_tricolor_ssv3.dds"  
+	#instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	#}
+
+	colored_emblem = { 
+		texture = "ce_bicolor_left_third_indented.dds" 
+		color1 = rgb{ 49 56 83 }
+		instance =  { position = { 0.89 0.5 } rotation = -180 scale = { .5 3 } }
+	}
+	
+	colored_emblem = { 
+		texture = "ce_royal_mantle.dds" 
+		color1 = red
+		color2 = yellow
+		color3 = white
+		instance = { position = { 0.25 0.5 } scale = { .75 .75 } }
+	}
+
+	colored_emblem = { 
+	texture = "ce_star_08.dds" 
+	color1 = rgb{ 49 56 83 }
+	instance = { position = { 0.25 0.5 } scale = { .4 .4 } }
+	}
+	
+}
+
+###################################
+# WHITHER
+###################################
+
+WHI = { #Whither
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_republic = { #Republic
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_Republic.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_dictatorship = { #Dictatorship
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_DIC.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_theocracy = { #Theology
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_Theocracy.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_technocracy = { #Technocracy
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_Technocracy.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_communist= { # Communist
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_comunist.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_fascist = { # Fascist
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_Fascist.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+WHI_monarchy = { #Monarchy
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_WHI_MON.dds"  
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+#League of Tung-ak
 KAR= { #League of Tung-ak
 	pattern = "pattern_khan_tomb.dds" 
 	color1 = "white"
@@ -31,26 +285,450 @@ KAR= { #League of Tung-ak
 	color3 = "white"
 }
 
+#Venderbright
+VED = { #Venderbright
+	pattern = "pattern_union_jack.dds" 
+	color1 = "red"
+	color2 = "blue"
+	color3 = "white"
+	colored_emblem = { 
+		texture = "ce_frame_circle.dds"  
+		color1 = "black"
+	instance = { position = { 0.65 0.5 } scale = { .65 .65 } }
+	}
+
+	textured_emblem = {  
+		texture = "te_victorian_urn.dds"  
+	instance = { position = { 0.65 0.5 } scale = { .45 .45 } }
+	}
+}
+
+#League of Tung-ak
 ISC = { #League of Tung-ak
 	pattern = "pattern_bogd_khaanate.dds" 
 	color1 = "red"
 	color2 = "yellow"
 	color3 = "white"
-	textured_emblem = { #Adds a textured emblem.
-		texture = "te_coa_dzungar.dds" #From gfx\coat_of_arms\textured_emblems
+	textured_emblem = {  
+		texture = "te_coa_dzungar.dds"  
 	instance = { position = { 0.3 0.5 } scale = { .5 .5 } }
 	}
 }
+
 
 #ISC_monarchy = {
 #	pattern = "pattern_bogd_khaanate.dds" 
 #	color1 = "red"
 #	color2 = rgb{ 80 146 183 }
 #	color3 = "white"
-#	textured_emblem = { #Adds a textured emblem.
-#		texture = "te_coa_dzungar.dds" #From gfx\coat_of_arms\textured_emblems
+#	textured_emblem = {  
+#		texture = "te_coa_dzungar.dds"  
 #	instance = { position = { 0.3 0.5 } scale = { .5 .5 } }
 #	}
 
 #}
+
+###################################
+# Tanah-Chook
+###################################
+
+TAN = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_base.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+TAN_dictatorship = {
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_DIC.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+TAN_republic = {
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_REP.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+TAN_fascist = { 
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_FAS.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+#TAN_communist = { 
+#}
+
+TAN_theocracy = {
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_THE.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+TAN_technocracy = {
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_TEC.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+TAN_monarchy = {
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_TAN_MON.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+
+
+###################################
+# XIBALBA
+###################################
+
+#In the future have a journal that gives a variable that makes it so that if the 3 gods have not returned, the flag is Gray and the dagger disconnected. However when restored it goes back to normal.
+
+XIC = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = rgb{ 58 37 88 }
+	textured_emblem = {  
+		texture = "te_XIC.dds"  
+		instance = { position = { 0.5 0.5 } scale = { .5 .75 } }
+	}
+}
+
+XIC_dictatorship = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "black" 
+	colored_emblem = { #Adds a colored emblem.
+		texture = "ce_tricolor_horizontal.dds"  
+		color1 = "white"
+		color2 = rgb{ 87 59 121 } 
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+	textured_emblem = {  
+		texture = "te_XIC.dds"  
+		instance = { position = { 0.15 0.15 } scale = { .25 .25 } }
+	}
+}
+
+XIC_republic = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = rgb{ 58 37 88 } 
+	colored_emblem = { 
+		texture = "ce_frame_circle.dds"  
+		color1 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 0.55 0.55 } }
+	}
+	colored_emblem = {  
+		texture = "ce_coa_knife_republic.dds"  
+		color1 = rgb{ 58 37 88 }
+		color2 = rgb{ 219 182 88 }
+		color3 = rgb{ 219 182 88 }
+		instance = { position = { 0.5 0.5 } scale = { 2 2 } }
+	}
+}
+
+XIC_fascist = { 
+	pattern = "pattern_gironny_32.dds" 
+	color1 = rgb{ 58 37 88 }
+	color2 = "black"
+	textured_emblem = {  
+		texture = "te_XIC.dds"  
+		instance = { position = { 0.52 0.55 } scale = { .55 .75 } }
+	}
+}
+
+XIC_communist = { 
+	pattern = "pattern_solid.tga" 
+	color1 = "black"
+	textured_emblem = {  
+		texture = "te_XIC_COM.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+XIC_theocracy = {
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 58 37 88 }
+
+	#ce_revolution_tear
+	#ce_stripe_bottom_nkp
+	#ce_walknut
+	#ce_frame_circle_outline
+	#textured_emblem = {  
+	#	texture = "te_XIC_THE.dds"  
+	#	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	#}
+	textured_emblem = {  
+		texture = "te_XIC.dds"  
+		instance = { position = { 0.52 0.55 } scale = { .55 .75 } }
+	}
+	colored_emblem = {  
+		texture = "ce_frame_circle_outline.dds"  
+		color1 = rgb{ 78 56 110 }
+		instance = { position = { 0.4 0.6 } scale = { .5 .5 } }
+	}
+	colored_emblem = {  
+		texture = "ce_frame_circle_outline.dds"  
+		color1 = rgb{ 87 59 121 }
+		instance = { position = { 0.5 0.4 } scale = { .5 .5 } }
+	}
+	colored_emblem = {  
+		texture = "ce_frame_circle_outline.dds"  
+		color1 = rgb{ 106 81 138 }
+		instance = { position = { 0.6 0.55 } scale = { .5 .5 } }
+	}
+
+}
+
+XIC_theocracy_alt_rings = {
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 58 37 88 }
+
+	#ce_revolution_tear
+	#ce_stripe_bottom_nkp
+	#ce_walknut
+	#ce_frame_circle_outline
+	#textured_emblem = {  
+	#	texture = "te_XIC_THE.dds"  
+	#	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	#}
+	textured_emblem = {  
+		texture = "te_XIC.dds"  
+		instance = { position = { 0.52 0.55 } scale = { .55 .75 } }
+	}
+	colored_emblem = {  
+		texture = "ce_frame_circle_outline.dds"  
+		color1 = rgb{ 78 56 110 }
+		instance = { position = { 0.4 0.4 } scale = { .5 .5 } }
+	}
+	colored_emblem = {  
+		texture = "ce_frame_circle_outline.dds"  
+		color1 = rgb{ 87 59 121 }
+		instance = { position = { 0.5 0.7 } scale = { .5 .5 } }
+	}
+	colored_emblem = {  
+		texture = "ce_frame_circle_outline.dds"  
+		color1 = rgb{ 106 81 138 }
+		instance = { position = { 0.6 0.4 } scale = { .5 .5 } }
+	}
+
+}
+
+XIC_technocracy = {
+	pattern = "pattern_rhombus.dds" 
+	color1 = rgb{ 58 37 88 }
+	color2 = "black"
+
+	colored_emblem = {  
+		texture = "ce_coa_xibalba_tec.dds"  
+		color1 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 1.5 1} }
+	}
+}
+
+XIC_monarchy = {
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 58 37 88 }
+
+	textured_emblem = {  
+		texture = "te_XIC_MONN.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+###################################
+# LONDON
+###################################
+
+LON = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	sub = {
+        parent = "sub_ENG_coa" 
+        instance = { scale = { 0.5 0.5 } offset = { 0.0 0.0 } } # top left
+        instance = { scale = { 0.5 0.5 } offset = { 0.5 0.5 } } # bottom right
+    } 
+	sub = {
+        parent = "sub_SCO_coa" 
+        instance = { scale = { 0.5 0.5 } offset = { 0.5 0.0 } } # top right
+    } 
+	sub = {
+        parent = "sub_IRE_coa" 
+        instance = { scale = { 0.5 0.5 } offset = { 0.0 0.5 } } # bottom left
+    } 
+}
+
+LON_republic = {
+	# same as Hungarian tricolor, also symbolised British Republicanism in this era
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = "white"
+		color2 = "green"
+	}
+}
+
+LON_dictatorship = {		
+	# 1659 ensign
+	# Quarterly; England, Scotland, Scotland, England
+	pattern = "pattern_checkers_01.tga"
+	
+	color1 = "white"
+	color2 = "blue"
+	color3 = "red"
+	color4 = "yellow"
+	
+	colored_emblem = {
+		texture = "ce_cross_england.dds"
+		color1 = color3
+		color2 = color3
+		instance = { scale = { 0.5 0.5 } position = { 0.25 0.25 } }
+		instance = { scale = { 0.5 0.5 } position = { 0.75 0.75 } }
+	}
+	colored_emblem = {
+		texture = "ce_saltire.dds"
+		color1 = color1
+		color2 = color1
+		instance = { scale = { 0.5 0.5 } position = { 0.25 0.75 } }
+		instance = { scale = { 0.5 0.5 } position = { 0.75 0.25 } }
+	}	
+}
+
+LON_theocracy = {
+	# Inspired by the Australian Anglican flag because it still has some blue.
+	# Better to save the St George cross for England itself.
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "white"
+	color3 = "red"
+	colored_emblem = {
+		texture = "ce_cross_england_fimbriated.dds"
+		color1 = color2
+		color2 = color3
+	}
+}
+
+LON_white_ensign  = { #Make the War Flag OR MAKE IT THE GRANDE GEODE FLAG
+	# white ensign of the Royal Navy
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	color2 = "red"
+
+	colored_emblem = {		
+		texture = "ce_cross_england.dds"
+		color1 = color2
+		color2 = color2
+	}
+    sub = {
+        parent = "sub_GBR" 
+        instance = { scale = { @canton_scale_cross_x @canton_scale_cross_y }  } # top left
+    }
+}
+
+LON_communist = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+	color2 = "white"
+	color3 = "blue"
+	color4 = "yellow"
+	color5 = "green"
+	
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = color2
+		color2 = color2
+		instance = { position = { 0.5 0.775 } scale = { 1.0 0.15 } }
+	}
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = color5
+		color2 = color5
+		instance = { position = { 0.5 0.925 } scale = { 1.0 0.15 } }
+	}	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = color4
+		color2 = color4
+		instance = { position = { 0.19 0.29 } scale = { 0.5 0.5 } } 
+	}	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = color1
+		color2 = color1
+		instance = { position = { 0.19 0.29 } scale = { 0.4 0.4 } } 
+	}	
+	colored_emblem = {
+		texture = "ce_hammer_and_sickle_round.dds"
+		color1 = color4
+		color2 = color4
+		instance = { position = { 0.19 0.305 } scale = { 0.18 0.18 } } 
+	}
+}
+
+LON_fascist = {	
+	# BUF
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+	
+	colored_emblem = {
+		texture = "ce_buf_emblem.dds"
+		color1 = "white"
+		color2 = "red"
+		instance = { scale = { 1.0 1.0 } position = { 0.5 0.5 } }
+	}
+}
+
+
+###################################
+# TOMB COLONIES
+###################################
+
+TMB_Venderbright = { #Venderbright Unified Tomb Colonies
+	pattern = "pattern_union_jack.dds" 
+	color1 = "black"
+	color2 = "blue"
+	color3 = "white"
+	colored_emblem = {  
+		texture = "ce_frame_circle.dds"  
+		color1 = "red"
+	instance = { position = { 0.65 0.5 } scale = { .65 .65 } }
+	}
+
+	textured_emblem = {  
+		texture = "te_bigger_urn.dds"  
+	instance = { position = { 0.65 0.5 } scale = { .45 .45 } }
+	}
+}
+
+TMB_Xibalba = { #Venderbright Unified Tomb Colonies
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 58 37 88 }
+
+	textured_emblem = {  
+		texture = "te_XIC_TMB_FORM.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
 

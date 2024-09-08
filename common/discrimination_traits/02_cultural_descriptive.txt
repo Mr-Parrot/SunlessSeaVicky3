@@ -1,16 +1,21 @@
 ﻿#Sunless Sea
 
+# Humans of the Eastern Neath Continent
 eastern_neath  = {
 }
-# Humans of the Eastern Neath Continent
 
+#From the Elder Continent
 elder_continent = {
 }
-#From the Elder Continent
 
+# Tomb Colonist
 tomb_colonist_cult_decs = {
 }
-# Tomb Colonist
+
+# Drownies
+drownies_cult_decs = {
+}
+
 
 #Vanilla
 

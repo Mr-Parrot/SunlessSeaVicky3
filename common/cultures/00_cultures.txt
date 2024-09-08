@@ -14,7 +14,7 @@
 		Canny Cladery Cheery Captivating Canny Curious Cloistered Codebreaking Crimson
 		Devil-May-Care Determined Disillusioned Doomed Dandy Dark-Spectacled Dashing Despondent Disgruntled Decorous Debonair Diplomatic Diptych
 		Elderly Ex-Convict Efficient Endless Enigmatic Elusive Enthusiastic 
-		Fidgeting Felined Fierce Fortunate Faithless 
+		Fidgeting Felined Fierce Fortunate Faithless Finger-wagging
 		Garrulous Gnomic Grinning Gracious Grubby Gifted Grizzled Grisly
 		Haunted Hooded Honey-Addled Honey-Mazed 
 		Incognito Indomitable Irrepressible Irresistible Irritable Incandescent Illustrated Implacable Inquisitive Insatiable Intemperate Intrepid 
@@ -26,7 +26,7 @@
 		Urbane Unsavoury 
 		Gall-Eyed Genial
 		Precocious Prudent Plausible Plucky Poor Pensive Profoundly-Educated  
-		Regretful Repentant Rookie Revolutionary Ruthless Resourceful 
+		Regretful Repentant Rookie Revolutionary Ruthless Resourceful Reclusive
 		Star-gazing Smouldering Satisfied Scarred Shady Scrimshaw Secular Smiling Sigil-Eaten Sigil-Ridden Sly Sardonic Starving Sinning Struggling Social Shadowy Surface
 		Tireless Traitor Titled Tipsy Topsy Towering Thoroughly-Experienced Tempestuous  
 		Unreconstructed
@@ -84,7 +84,7 @@
 		Nanny Navigator Novelist Naval-Officer
 		Musician Merchant Maid Minister Man Miners Monster-Hunter Magician Mechanic Modiste Muderer
 		Outcast Orphan Officer
-		Painter Palaeontologist Plumber Photographer Pawnbroker Pharmacist Poissonnier Prior Prioress Priest Priestess Provisioner Privateer Pirate Poetess Poet Pupil Provost Privy Philanthropist
+		Parliamentarian Painter Palaeontologist Plumber Photographer Pawnbroker Pharmacist Poissonnier Prior Prioress Priest Priestess Provisioner Privateer Pirate Poetess Poet Pupil Provost Privy Philanthropist
 		Rake Researcher Rival Rat-Catcher Recidivist Revolutionary
 		Scribe Sculptor Sculptress Shoemaker Surgeon Shipwright Street-Sweeper Seamstress Son Surgeon Student Suntanned Scholar Soldier Singer Smuggler Scion Surveyor Spirifer Spy Sculptress
 		Tradesman Tinsmith Tailor Teacher Thrusters Travel-Writer Thief Tracklayer
@@ -119,8 +119,60 @@
 		Lordship
 	}
 	male_regal_first_names = {
+		A_______
+		B_______
+		C_______
+		D_______
+		E_______
+		F_______
+		G_______
+		H_______
+		I_______
+		J_______
+		K_______
+		L_______
+		M_______
+		N_______
+		O_______
+		P_______
+		Q_______
+		R_______
+		S_______
+		T_______
+		U_______
+		V_______
+		W_______
+		X_______
+		Y_______
+		Z_______
 	}
 	female_regal_first_names = {
+		A_______
+		B_______
+		C_______
+		D_______
+		E_______
+		F_______
+		G_______
+		H_______
+		I_______
+		J_______
+		K_______
+		L_______
+		M_______
+		N_______
+		O_______
+		P_______
+		Q_______
+		R_______
+		S_______
+		T_______
+		U_______
+		V_______
+		W_______
+		X_______
+		Y_______
+		Z_______
 	}
 	regal_last_names = {
 		Empress
@@ -673,6 +725,7 @@ mongol2={
 	
 	obsessions = {
 		tea
+		meat
 	}
 	
 	male_common_first_names={ 
@@ -899,6 +952,7 @@ tombcolonist={
 	obsessions = {
 		coffee
 		fine_art
+		porcelain
 		#To make you feel alive
 	}
 
@@ -912,6 +966,7 @@ tombcolonist={
 		Spectral
 		Vanishing
 		Wraithlike
+		Gallows
 		
 	}
 	female_common_first_names = {
@@ -929,14 +984,49 @@ tombcolonist={
 }
 
 #Serious Revisions
+drownies={
+	color= rgb{ 106 108 108 }
+	religion = salt
+	traits = { the_dead_heritage drownies_cult_decs drownies_group }
+	obsessions = {
+		porcelain
+		#Delicate like them
+	}
+
+	male_common_first_names={
+		
+		#Tomb Specific 
+		Blue
+		Sunken
+		Still-Floating
+		
+	}
+	female_common_first_names = {
+		Blue
+		Sunken
+		Still-Floating
+
+	}	
+	common_last_names={
+		Drownie
+
+	}
+	ethnicities = {
+		1 = arab
+	}
+	graphics = arabic
+}
+
+#Serious Revisions
 rubbermen={
 	color= rgb{ 106 108 108 }
 	religion = animist
-	traits = { the_dead_heritage tomb_colonist_cult_decs tomb_colonist_group }
+	traits = { axile_heritage }
 	obsessions = {
-		coffee
-		fine_art
-		#To make you feel alive
+		radios
+		wine
+		sugar
+		#To make others fall in love with you/to hear love stories
 	}
 
 	male_common_first_names={
@@ -966,7 +1056,8 @@ rubbermen={
 #Clay Puppeteer + Clay Curmudgeon + Pirate-Poet + Restless Clay Man
 
 #Hell 
-# Impenitent + Quiet + Green-Eyed 
+# Impenitent + Quiet + Green-Eyed + Ever-smiling
+
 #Devil, Deviless
 
 #Wistful

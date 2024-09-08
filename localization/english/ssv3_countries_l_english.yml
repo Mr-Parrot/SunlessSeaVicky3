@@ -11,6 +11,9 @@
  D04_ADJ:0 "Ashland Survivors" 
  D05:0 "The Edge"
  D05_ADJ:0 "Edgelandia" 
+ D06:0 "The Drowned Isles"
+ D06_ADJ:0 "The Drowned Isles"
+
 
 # Major Nations
  WHI:0 "Whither"
@@ -30,9 +33,42 @@
  #Tung-ak: Is the patron god of tribal chiefs and the ruler of the lesser spirits of Mongol mythology
  XIC:0 "Xibalba"
  XIC_ADJ:0 "Xibalbian"
+ #Station V -> If puppet
+ TGG:0 "Grand Geode"
+ TGG_ADJ:0 "Grand Geode"
+ LON:0 "London"
+ LON_ADJ:0 "British"
+
+
+# Formables
+ TMB:0 "Tomb Colonies"
+ TMB_ADJ:0 "Tomb Colonist"
+ 
 
 # Releaseable
  HIQ:0 "House of the Question"
  HIQ_ADJ:0 "Questioners"
  ODL:0 "Odison's Land"
  ODL_ADJ:0 "Odisonian"
+ ATN:0 "Akhenaten Redeemers"
+ ATN_ADJ:0 "Neo-Akhenatians"
+ SUM:0 "The Last of Sumer"
+ SUM_ADJ:0 "Sumerian"
+ TWM:0 "Hunahpu & Xbalanque"
+ TWM_ADJ:0 "The twins"
+
+#UNIFICATION TEXT
+ #TOMB COLONIES
+ dp_unify_tomb_colonies:0 "Unify the Tomb Colonies"
+ dp_unify_tomb_colonie_tooltip:1 "#header Start a $dp_unify_tomb_colonie$ [concept_diplomatic_play]#!\n$TOOLTIP_DELIMITER$\n$dp_unify_tomb_colonie$"
+ dp_unify_tomb_colonie_desc:1 "Sets the initiating [concept_war_goal] to annex all of the tomb lands held by other nations."
+ dp_leadership_tomb_colonies:0 "Leadership of the Tomb Colonies"
+ dp_leadership_tomb_colonies_desc:1 "Start a $dp_leadership_germany$ [concept_diplomatic_play]\n$TOOLTIP_DELIMITER$\n$dp_leadership_tomb_colonies_tooltip_desc$"
+ dp_leadership_tomb_colonies_tooltip_desc:0 "Sets the initiating [concept_war_goal] to kick out the targeted [concept_country] as a [concept_unification_candidate] of the Tomb Colonies [Concept('concept_unification', '$concept_major_unification$')]."
+
+
+ war_goal_unification_leadership_type_name:0 "Unification Leadership"
+ war_goal_unification_leadership_type_desc:0 "Force another country to renounce their ambitions to unify a nation."
+ war_goal_unification_leadership:0 "[WAR_GOAL.GetCountryFormation.GetAdjective] Leadership"
+ war_goal_unification_leadership_desc:0 "Force [WAR_GOAL.GetTarget.GetName] to renounce their ambitions to unify [WAR_GOAL.GetCountryFormation.GetName]"
+ war_goal_unification_leadership_sway_desc:0 "Try to convince [WAR_GOAL.GetHolder.GetName] to join your side by forcing [WAR_GOAL.GetTarget.GetName] to renounce their ambitions to unify [WAR_GOAL.GetCountryFormation.GetName]"

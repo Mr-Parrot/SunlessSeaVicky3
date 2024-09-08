@@ -80,32 +80,32 @@ french_empire_clothes_pop_trigger = {
 	}
 }
 
-german_clothes_trigger = {
-	exists = scope:character
-	scope:character = {
-		exists = home_country
-		home_country = {
-			is_subject = no
-			OR = {
-				country_has_primary_culture = cu:north_german
-				country_has_primary_culture = cu:south_german
-			}	
-		}
-	}
-}
+#german_clothes_trigger = {
+#	exists = scope:character
+#	scope:character = {
+#		exists = home_country
+#		home_country = {
+#			is_subject = no
+#			OR = {
+#				country_has_primary_culture = cu:north_german
+#				country_has_primary_culture = cu:south_german
+#			}	
+#		}
+#	}
+#}
 
-german_clothes_pop_trigger = {
-	exists = scope:pop
-	scope:pop = {
-		home_country = {
-			is_subject = no
-			OR = {
-				country_has_primary_culture = cu:north_german
-				country_has_primary_culture = cu:south_german
-			}	
-		}
-	}
-}
+#german_clothes_pop_trigger = {
+#	exists = scope:pop
+#	scope:pop = {
+#		home_country = {
+#			is_subject = no
+#			OR = {
+#				country_has_primary_culture = cu:north_german
+#				country_has_primary_culture = cu:south_german
+#			}	
+#		}
+#	}
+#}
 
 
 native_american_clothes_trigger = {
@@ -151,31 +151,31 @@ hindu_clothes_pop_trigger = {
 	}
 }
 
-african_diaspora_clothes_trigger = {
-	exists = scope:character
-	scope:character = {
-		OR = {
-			culture = cu:afro_caribbean
-			culture = cu:afro_antillean
-			culture = cu:afro_caribeno
-			culture = cu:afro_american
-			culture = cu:afro_brazilian
-		}
-	}
-}
+#african_diaspora_clothes_trigger = {
+#	exists = scope:character
+#	scope:character = {
+#		OR = {
+#			culture = cu:afro_caribbean
+#			culture = cu:afro_antillean
+#			culture = cu:afro_caribeno
+#			culture = cu:afro_american
+#			culture = cu:afro_brazilian
+#		}
+#	}
+#}
 
-african_diaspora_pop_clothes_trigger = {
-	exists = scope:pop
-	scope:pop = {
-		OR = {
-			culture = cu:afro_caribbean
-			culture = cu:afro_antillean
-			culture = cu:afro_caribeno
-			culture = cu:afro_american
-			culture = cu:afro_brazilian
-		}
-	}
-}
+#african_diaspora_pop_clothes_trigger = {
+#	exists = scope:pop
+#	scope:pop = {
+#		OR = {
+#			culture = cu:afro_caribbean
+#			culture = cu:afro_antillean
+#			culture = cu:afro_caribeno
+#			culture = cu:afro_american
+#			culture = cu:afro_brazilian
+#		}
+#	}
+#}
 
 japanese_imperial_clothes_trigger = {
 	exists = scope:character
@@ -230,82 +230,18 @@ chinese_imperial_clothes_trigger = {
 	}
 }
 
-chinese_manchu_queue_hairstyle_character_trigger = { # hairsyle for Manchu characters not living living under discriminatory Han rule, and Han characters living under discriminatory Manchu rule
-	exists = scope:character
-	scope:character = {
-		exists = home_country
-		OR = {
-			AND = {
-				home_country = { 
-					ruler = { 
-						has_culture = cu:manchu 
-					}
-					NOT = { 
-						has_law = law_type:law_multicultural
-					}
-				}
-				culture = { 
-					has_discrimination_trait = han_chinese 
-				}
-			}
-			AND = {
-				NOT = {
-					home_country = { 
-						ruler = { 
-							culture = { 
-								has_discrimination_trait = han_chinese 
-							}
-						}
-						cu:manchu = {
-							NOT = { 
-								culture_is_discriminated_in = scope:character.home_country 
-							}
-						}
-					}
-				}
-				culture = cu:manchu
-			}
-		}
-	}
-}
+# Deleted cause complicated -> Add Later
+#chinese_manchu_queue_hairstyle_character_trigger = { # hairsyle for Manchu characters not living living under discriminatory Han rule, and Han characters living under discriminatory Manchu rule
+#	exists = scope:character
+#	scope:character = {
+#	}
+#}
 
-chinese_manchu_queue_hairstyle_pops_trigger = { # hairsyle for Manchu pops not living living under discriminatory Han rule, and Han pops living under discriminatory Manchu rule
-	exists = scope:pop
-	scope:pop = {
-		OR = {
-			AND = {
-				home_country = { 
-					ruler = { 
-						has_culture = cu:manchu 
-					}
-					NOT = { 
-						has_law = law_type:law_multicultural
-					}
-				}
-				culture = { 
-					has_discrimination_trait = han_chinese 
-				}
-			}
-			AND = {
-				NOT = {
-					home_country = { 
-						ruler = { 
-							culture = { 
-								has_discrimination_trait = han_chinese 
-							}
-						}
-						cu:manchu = {
-							NOT = { 
-								culture_is_discriminated_in = scope:pop.home_country 
-							}
-						}
-					}
-				}
-				culture = cu:manchu
-			}
-		}
-	}
-}
+# Deleted cause complicated -> Add Later
+#chinese_manchu_queue_hairstyle_pops_trigger = { # hairsyle for Manchu pops not living living under discriminatory Han rule, and Han pops living under discriminatory Manchu rule
+#	exists = scope:pop
+#	scope:pop = {
+#}
 
 chinese_court_clothes_trigger = {
 	exists = scope:character
@@ -327,7 +263,7 @@ chinese_court_clothes_trigger = {
 			}
 		}
 		culture = {
-			NOT = { this = cu:kalmyk }
+			#NOT = { this = cu:kalmyk }
 			OR = {
 				has_discrimination_trait = sinosphere
 				has_discrimination_trait = han_chinese
@@ -433,21 +369,6 @@ arabic_military_fez_pop_trigger = {
 						has_discrimination_trait = central_asian_heritage
 					}
 				}
-				AND = { # Albanian characters serving either the Ottomans or Egyptians should wear that country's clothing.
-					culture = cu:albanian
-					OR = {
-						home_country = {
-							exists = c:TUR
-							c:TUR = this
-							c:TUR = { has_law = law_type:law_monarchy }
-						}
-						home_country = {
-							exists = c:EGY
-							c:EGY = this
-							c:EGY = { has_law = law_type:law_monarchy }
-						}
-					}
-				}
 			}
 		}
 	}       
@@ -461,23 +382,6 @@ arabic_clothes_trigger = {
 				OR = {
 					has_discrimination_trait = middle_eastern_heritage
 					has_discrimination_trait = central_asian_heritage #Currently no point having a different check
-				}
-			}
-			culture = cu:circassian
-			AND = { # Albanian characters serving either the Ottomans or Egyptians should wear that country's clothing.
-				culture = cu:albanian
-				exists = home_country
-				OR = {
-					home_country = {
-						exists = c:TUR
-						c:TUR = this
-						c:TUR = { has_law = law_type:law_monarchy }
-					}
-					home_country = {
-						exists = c:EGY
-						c:EGY = this
-						c:EGY = { has_law = law_type:law_monarchy }
-					}
 				}
 			}
 		}
@@ -498,25 +402,6 @@ european_clothes_trigger = {
 	scope:character = {
 		culture = {
 			has_discrimination_trait = european_heritage
-		}
-		NOT = {
-			culture = cu:circassian
-		}
-		NOT = {
-			AND = { # Albanian characters serving either the Ottomans or Egyptians should wear that country's clothing.
-				culture = cu:albanian
-				exists = home_country
-				OR = {
-					home_country = {
-						exists = c:TUR
-						c:TUR = this
-					}
-					home_country = {
-						exists = c:EGY
-						c:EGY = this
-					}
-				}
-			}
 		}
 	}
 }
@@ -697,10 +582,10 @@ overweight_trigger = {
 east_asian_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
-		NOR = { 
-			culture = cu:yakut 
-			culture = cu:siberian
-		}
+		#NOR = { 
+		#	culture = cu:yakut 
+		#	culture = cu:siberian
+		#}
 		culture = {
 			OR = {
 				has_discrimination_trait = east_asian_heritage
@@ -725,9 +610,6 @@ european_clothes_pop_trigger = {
 		culture = {
 			has_discrimination_trait = european_heritage
 		}
-		NOT = {
-			culture = cu:circassian
-		}
 	}
 }
 
@@ -738,7 +620,6 @@ arabic_clothes_pop_trigger = {
 			culture = {
 				has_discrimination_trait = middle_eastern_heritage
 			}   
-			culture = cu:circassian
 		}
 	}
 }
@@ -768,7 +649,7 @@ circumpolar_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
 		OR = {
-			culture = cu:inuit
+			culture = cu:northmen
 			culture = {
 				has_discrimination_trait = siberian_culture_group
 			}
@@ -777,12 +658,12 @@ circumpolar_clothes_pop_trigger = {
 	}
 }
 
-sami_clothes_pop_trigger = {
-	exists = scope:pop
-	scope:pop = {
-		culture = cu:sami
-	}
-}
+#sami_clothes_pop_trigger = {
+#	exists = scope:pop
+#	scope:pop = {
+#		culture = cu:sami
+#	}
+#}
 
 
 african_clothes_pop_trigger = {
@@ -818,35 +699,35 @@ south_east_asia_clothes_pop_trigger = {
 	}
 }
 
-south_american_clothes_character_trigger = {
-	exists = scope:character
-	scope:character = {
-		OR = {
-			culture = cu:platinean
-			culture = cu:brazilian
-			culture = cu:south_andean
-			culture = cu:north_andean
-			culture = cu:mexican
-			culture = cu:central_american
-			culture = cu:caribeno
-		}
-	}
-}
+#south_american_clothes_character_trigger = {
+#	exists = scope:character
+#	scope:character = {
+#		OR = {
+#			culture = cu:platinean
+#			culture = cu:brazilian
+#			culture = cu:south_andean
+#			culture = cu:north_andean
+#			culture = cu:mexican
+#			culture = cu:central_american
+#			culture = cu:caribeno
+#		}
+#	}
+#}
 
-south_american_clothes_pop_trigger = {
-	exists = scope:pop
-	scope:pop = {
-		OR = {
-			culture = cu:platinean
-			culture = cu:brazilian
-			culture = cu:south_andean
-			culture = cu:north_andean
-			culture = cu:mexican
-			culture = cu:central_american
-			culture = cu:caribeno
-		}
-	}
-}
+#south_american_clothes_pop_trigger = {
+#	exists = scope:pop
+#	scope:pop = {
+#		OR = {
+#			culture = cu:platinean
+#			culture = cu:brazilian
+#			culture = cu:south_andean
+#			culture = cu:north_andean
+#			culture = cu:mexican
+#			culture = cu:central_american
+#			culture = cu:caribeno
+#		}
+#	}
+#}
 
 integrated_south_american_natives_pop_trigger = { # Represents those South American native groups that had long been integrated into wider South and Central American society.
 	exists = scope:pop
@@ -856,12 +737,12 @@ integrated_south_american_natives_pop_trigger = { # Represents those South Ameri
 				has_discrimination_trait = native_mesoamerican_culture_group
 				has_discrimination_trait = south_american_group
 			}
-			NOT = {
-				OR = {
-					this = cu:patagonian
-					this = cu:amazonian
-				}
-			}
+#			NOT = {
+#				OR = {
+#					this = cu:patagonian
+#					this = cu:amazonian
+#				}
+#			}
 		}
 	}
 }
@@ -877,26 +758,26 @@ cold_clothes_pop_trigger = {
 	}
 }
 
-japanese_clothes_pop_trigger = {
-	exists = scope:pop
-	scope:pop = {
-		OR = {
-			culture = cu:japanese
-			culture = cu:ainu
-		}
-	}
-}
+#japanese_clothes_pop_trigger = {
+#	exists = scope:pop
+#	scope:pop = {
+#		OR = {
+#			culture = cu:japanese
+#			culture = cu:ainu
+#		}
+#	}
+#}
 
 
-japanese_clothes_trigger = {
-	exists = scope:character
-	scope:character = {
-          OR = {
-          	culture = cu:japanese
-          	culture = cu:ainu
-          }
-	}
-}
+#japanese_clothes_trigger = {
+#	exists = scope:character
+#	scope:character = {
+#          OR = {
+#          	culture = cu:japanese
+#          	culture = cu:ainu
+#          }
+#	}
+#}
 
 indian_clothes_pop_trigger = {
 	exists = scope:pop
@@ -1236,11 +1117,11 @@ should_be_naked_trigger = {
 			is_pop_type = laborers
 			is_pop_type = slaves
 		}
-		OR = {
-			culture = cu:amazonian
-			culture = cu:nuba
-			culture = cu:dinka
-		}
+		#OR = {
+		#	culture = cu:amazonian
+		#	culture = cu:nuba
+		#	culture = cu:dinka
+		#}
 	}
 }
 

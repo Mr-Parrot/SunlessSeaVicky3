@@ -14,3 +14,25 @@ ODL = { #Odinson's Land
 	}
 	ai_will_do = { always = no }
 }
+
+ATN = { #Akhenaten Redeemers
+	states = {
+		STATE_THE_OLDEST_QUARTER
+	}
+	ai_will_do = { always = no }
+}
+
+SUM = { #The Last of Sumer
+	states = {
+		STATE_THE_OLDEST_QUARTER
+	}
+	ai_will_do = { always = no }
+}
+
+TWM = { #Hunahpu & Xbalanque 
+	states = {
+		STATE_THE_INTERSTATE_CONFEDERACY
+		STATE_CARISSAS_POINT
+	}
+	ai_will_do = { always = no }
+}

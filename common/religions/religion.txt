@@ -101,8 +101,92 @@ tengri = {
 	}
 	obsessions = {
 		meat
+		#from the focus on nature and hunting
+	}
+	taboos = {
+		fish
+		#In a roundabout way, being cut off from Mongolia and then surface food, the tengri faithful would come to prefer surface food and resent fish/neath fish as unnatural
 	}
 	color = rgb{ 74 125 155 }
+
+}
+
+copper = {
+	texture = "gfx/interface/icons/religion_icons/copper.dds"
+	traits = {
+		mayan
+	}
+	obsessions = {
+		luxury_clothes
+	}
+	taboos = {
+		opium
+		liquor
+		#Opium stops one from restoring the God-Eaters
+	}
+	color = rgb{ 61 53 75 }
+}
+
+mayan_rel = {
+	texture = "gfx/interface/icons/religion_icons/mayanrel.dds"
+	traits = {
+		mayan
+	}
+	obsessions = {
+		fruits
+	}
+	taboos = {
+		liquor
+		explosives
+		#Opium stops one from restoring the God-Eaters
+	}
+	color = rgb{ 195 214 194 }
+}
+
+atenism = {
+	texture = "gfx/interface/icons/religion_icons/aten2.dds"
+	traits = {
+		middleeastern
+	}
+	obsessions = {
+		dye
+		hardwood
+	}
+	taboos = {
+		luxury_furniture
+		#Opium stops one from restoring the God-Eaters
+	}
+	color = rgb{ 254 204 102 }
+}
+
+sumerian = {
+	texture = "gfx/interface/icons/religion_icons/sumerian.dds"
+	traits = {
+		middleeastern
+	}
+	obsessions = {
+		small_arms
+	}
+	taboos = {
+		tobacco
+		#I need something and tobacco comes from outside the Middle East 
+	}
+	color = rgb{ 215 133 48 }
+}
+
+dawnmachine = {
+	texture = "gfx/interface/icons/religion_icons/dawnmachine.dds"
+	traits = {
+		dawnmachinetrait
+	}
+	obsessions = {
+		small_arms
+	}
+	taboos = {
+		opium
+		#I need something and tobacco comes from outside the Middle East 
+	}
+	color = rgb{ 59 44 63 }
 }
 
 # Vanilla

@@ -1,5 +1,9 @@
-
 #ME
-
-Special thanks to the Victoria 3 Mod-Coop
-CaelReader - For the timed icons
+This mod would not be possible without the work done by other modders who came before me. I would like to give special thanks to various people who helped me become the modder I am today and without whom this mod would not be possible.
+- Special thanks to the Divergence mod team for helping me learn how to mod and for building within me the courage to develop this mod
+- Special thanks to the Victoria 3 Mod-Coop for answering my questions and the free resources
+- CaelReader - For the timed icons
+- Robin Carpenter - For the fictional island nation flag (https://www.reddit.com/r/vexillology/comments/5uns1s/flag_of_a_fictional_island_nation/?context=3) which was used for the Sunken Ashlands.
+- CreativeCodingCat - For the fantastic Artic flag (https://www.reddit.com/r/vexillology/comments/lbquuq/arctic_flag/)
+- Bnimble-bquick - For the fantastic Arctic Circle flag (https://www.reddit.com/r/vexillology/comments/d72np2/i_see_your_arctic_circle_flags_and_raise_you_one/)
+- Schnitzelwastaken - For his wonderful fictional desert falg (https://www.reddit.com/r/vexillology/comments/tt54rw/flag_i_made_for_a_fictional_desert_nation/)

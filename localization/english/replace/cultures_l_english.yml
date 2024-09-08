@@ -7,6 +7,7 @@
  ashlander:0 "Ashlanders"
  tombcolonist:0 "Tomb Colonist"
  london:0 "Londoners"
+ drownies:0 "Drownies"
 
  # Traits
  human_heritage:0 "Human Heritage"
@@ -21,11 +22,13 @@
  eastern_neath:0 "Eastern Neath"
  tomb_colonist_cult_decs:0 "Tomb Colonist Cultural Heritage"
  elder_continent:0 "Elder Continent"
+ drownies_cult_decs:0 "Drownie Cultural Heritage"
 
  # Culture Group
  boreal_reach_group:0 "Boreal Reach"
  norther_hinterlander:0 "Northern Hinterlander"
  tomb_colonist_group:0 "Tomb Colonist"
+ drownies_group:0 "Drownie"
 
  #Vanilla (take from base game file later)
 

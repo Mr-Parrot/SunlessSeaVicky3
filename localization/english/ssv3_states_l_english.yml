@@ -43,9 +43,13 @@
  STATE_THE_VERGE: "The Verge"
  STATE_ENDLESS_DESERT_1: "Edge-of-Eternity Estuary" 
  STATE_ENDLESS_DESERT_2: "Southern Endless Desert" 
+ STATE_PHOSGENE_BLEAKS: "Phosgene Breaks"
+ STATE_ISLES_OF_ESSOP: "Isles of Essop"
+ STATE_BUGBY_MARSH: "Bugby's Marsh"
+ STATE_WOLFSTACK_DOCKS: "Wolfstack Docks"
+ STATE_CARNIVAL: "Mrs. Plenty's Carnival"
 
-
-
+#SEA TILES
 
  STATE_35_SEA: "Cursed Abyss"
  STATE_45_SEA: "Odinson Straits"
