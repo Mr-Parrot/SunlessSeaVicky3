@@ -52,9 +52,8 @@ object={
 	generated_content=no
 	layer="cities"
 	pdxmesh="european_urban_residential_mid_02_mesh"
-	count=2
-	transform="1210.441895 0.000000 2183.228027 0.000000 -0.540794 0.000000 0.841155 1.673231 1.673231 1.673231
-1218.667603 0.000000 2183.864258 0.000000 0.228731 0.000000 0.973490 2.017645 2.017645 2.017645
+	count=1
+	transform="1085.959839 0.000000 2203.993408 0.000000 0.000000 0.000000 1.000000 2.921944 2.921944 2.921944
 "}
 object={
 	name="wonder_big_ben"
@@ -72,6 +71,6 @@ object={
 	render_under_water=no
 	generated_content=no
 	layer="cities"
-	pdxmesh="academic_cap_mesh"
+	pdxmesh="latin_rural_manorhouse_01_mesh"
 	count=0
 }
