@@ -700,7 +700,7 @@
 		region_state:LON = {
 			create_pop = {
 				culture = london
-				size = 110382
+				size = 110
 			}
 		} 
 	} 
@@ -708,7 +708,7 @@
 		region_state:LON = {
 			create_pop = {
 				culture = london
-				size = 110382
+				size = 110
 			}
 		} 
 	}
@@ -716,7 +716,15 @@
 		region_state:LON = {
 			create_pop = {
 				culture = london
-				size = 110382
+				size = 110
+			}
+		} 
+	}
+	s:STATE_NORTHERN_LONDON_ISLES = {
+		region_state:LON = {
+			create_pop = {
+				culture = london
+				size = 45483
 			}
 		} 
 	}

@@ -13,6 +13,8 @@
  D05_ADJ:0 "Edgelandia" 
  D06:0 "The Drowned Isles"
  D06_ADJ:0 "The Drowned Isles"
+ D07:0 "The Marshlands"
+ D0_ADJ:0 "The Marshlands"
 
 
 # Major Nations
@@ -56,6 +58,11 @@
  SUM_ADJ:0 "Sumerian"
  TWM:0 "Hunahpu & Xbalanque"
  TWM_ADJ:0 "The twins"
+
+# London Releasables
+ HKP:0 "Hunter's Keep"
+ HKP_ADJ:0 "Hunter's Keep"
+
 
 #UNIFICATION TEXT
  #TOMB COLONIES

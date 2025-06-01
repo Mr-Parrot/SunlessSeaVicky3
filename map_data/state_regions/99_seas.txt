@@ -121,7 +121,7 @@ STATE_33_SEA = {
     provinces = { "xB8CDDD" }
 }
 STATE_35_SEA = {
-    id = 3034
+    id = 3033
     provinces = { "xB9CCF8" }
 }
 STATE_36_SEA = {
@@ -275,4 +275,397 @@ STATE_72_SEA = {
 STATE_73_SEA = {
     id = 3072
     provinces = { "xC18F22" }
+}
+
+STATE_74_SEA = {
+    id = 3073
+    provinces = { "xB2D38C" }
+}
+
+STATE_75_SEA = {
+    id = 3074
+    provinces = { "x9CABC8" }
+}
+
+STATE_76_SEA = {
+    id = 3075
+    provinces = { "x007BA0" }
+}
+
+STATE_77_SEA = {
+    id = 3076
+    provinces = { "xE13D99" }
+}
+
+STATE_78_SEA = {
+    id = 3077
+    provinces = { "x0C4447" }
+}
+
+STATE_79_SEA = {
+    id = 3078
+    provinces = { "xC6D0DB" }
+}
+
+
+STATE_80_SEA = {
+    id = 3079
+    provinces = { "xB39DA7" }
+}
+
+STATE_81_SEA = {
+    id = 3080
+    provinces = { "xDAA7D2" }
+}
+
+STATE_82_SEA = {
+    id = 3081
+    provinces = { "xBAE80A" }
+}
+
+STATE_83_SEA = {
+    id = 3082
+    provinces = { "x84CE67" }
+}
+
+STATE_84_SEA = {
+    id = 3083
+    provinces = { "x56D3E6" }
+}
+
+STATE_85_SEA = {
+    id = 3084
+    provinces = { "xCAD826" }
+}
+
+STATE_86_SEA = {
+    id = 3085
+    provinces = { "xF3EFCB" }
+}
+
+STATE_87_SEA = {
+    id = 3086
+    provinces = { "xDEAEE9" }
+}
+
+STATE_88_SEA = {
+    id = 3087
+    provinces = { "x8D25C9" }
+}
+
+STATE_89_SEA = {
+    id = 3088
+    provinces = { "x81EB56" }
+}
+
+STATE_90_SEA = {
+    id = 3089
+    provinces = { "x8F1A44" }
+}
+
+STATE_91_SEA = {
+    id = 3090
+    provinces = { "x58027A" }
+}
+
+STATE_92_SEA = {
+    id = 3091
+    provinces = { "x016754" }
+}
+
+STATE_93_SEA = {
+    id = 3092
+    provinces = { "x7C1F5E" }
+}
+
+STATE_94_SEA = {
+    id = 3093
+    provinces = { "x4BFC62" }
+}
+
+STATE_95_SEA = {
+    id = 3094
+    provinces = { "x580279" }
+}
+
+STATE_96_SEA = {
+    id = 3095
+    provinces = { "xB32746" }
+}
+
+STATE_97_SEA = {
+    id = 3096
+    provinces = { "xC7EF69" }
+}
+
+STATE_98_SEA = {
+    id = 3097
+    provinces = { "x3D971E" }
+}
+
+STATE_99_SEA = {
+    id = 3098
+    provinces = { "x0A3B8E" }
+}
+
+STATE_100_SEA = {
+    id = 3099
+    provinces = { "x9ED3F0" }
+}
+
+STATE_101_SEA = {
+    id = 3100
+    provinces = { "x520BB8" }
+}
+
+STATE_102_SEA = {
+    id = 3101
+    provinces = { "xDE2C5A" }
+}
+
+STATE_103_SEA = {
+    id = 3102
+    provinces = { "xB1D389" }
+}
+
+STATE_104_SEA = {
+    id = 3103
+    provinces = { "xCD05DF" }
+}
+
+STATE_105_SEA = {
+    id = 3104
+    provinces = { "x15AB55" }
+}
+
+STATE_106_SEA = {
+    id = 3105
+    provinces = { "xDE6E83" }
+}
+
+STATE_107_SEA = {
+    id = 3106
+    provinces = { "x0F2682" }
+}
+
+STATE_108_SEA = {
+    id = 3107
+    provinces = { "xF8D865" }
+}
+
+STATE_109_SEA = {
+    id = 3108
+    provinces = { "x03094C" }
+}
+
+STATE_110_SEA = {
+    id = 3109
+    provinces = { "x1ADFDC" }
+}
+
+STATE_111_SEA = {
+    id = 3110
+    provinces = { "xBB5ED6" }
+}
+
+STATE_112_SEA = {
+    id = 3111
+    provinces = { "xB0FD36" }
+}
+
+STATE_113_SEA = {
+    id = 3112
+    provinces = { "xDFC27E" }
+}
+
+STATE_114_SEA = {
+    id = 3113
+    provinces = { "xC12CAA" }
+}
+
+STATE_115_SEA = {
+    id = 3114
+    provinces = { "x22DB6E" }
+}
+
+STATE_116_SEA = {
+    id = 3115
+    provinces = { "x6B82F6" }
+}
+
+STATE_117_SEA = {
+    id = 3116
+    provinces = { "x0CCE1C" }
+}
+
+STATE_118_SEA = {
+    id = 3117
+    provinces = { "x46A26F" }
+}
+
+STATE_119_SEA = {
+    id = 3118
+    provinces = { "x3ECE0C" }
+}
+
+STATE_120_SEA = {
+    id = 3119
+    provinces = { "x50CEFB" }
+}
+
+STATE_121_SEA = {
+    id = 3120
+    provinces = { "xA65D09" }
+}
+
+STATE_122_SEA = {
+    id = 3121
+    provinces = { "x55EC74" }
+}
+
+STATE_123_SEA = {
+    id = 3122
+    provinces = { "x8D2CA0" }
+}
+
+STATE_124_SEA = {
+    id = 3123
+    provinces = { "xE03D07" }
+}
+
+STATE_125_SEA = {
+    id = 3124
+    provinces = { "xB44F9A" }
+}
+
+STATE_126_SEA = {
+    id = 3125
+    provinces = { "xAC389F" }
+}
+
+STATE_127_SEA = {
+    id = 3126
+    provinces = { "x395224" }
+}
+
+STATE_128_SEA = {
+    id = 3127
+    provinces = { "x16DAA7" }
+}
+
+STATE_129_SEA = {
+    id = 3128
+    provinces = { "x3BD345" }
+}
+
+STATE_130_SEA = {
+    id = 3129
+    provinces = { "xB9EA64" }
+}
+
+STATE_131_SEA = {
+    id = 3130
+    provinces = { "xC8ECF5" }
+}
+
+STATE_132_SEA = {
+    id = 3131
+    provinces = { "x4E2879" }
+}
+
+STATE_133_SEA = {
+    id = 3132
+    provinces = { "x343871" }
+}
+
+
+
+STATE_134_SEA = {
+    id = 3133
+    provinces = { "xF8A1D8" }
+}
+
+STATE_134_SEA = {
+    id = 3133
+    provinces = { "x2E00DD" }
+}
+
+STATE_135_SEA = {
+    id = 3134
+    provinces = { "xEABB2F" }
+}
+
+STATE_136_SEA = {
+    id = 3135
+    provinces = { "x7618E3" }
+}
+
+STATE_137_SEA = {
+    id = 3136
+    provinces = { "x8E636C" }
+}
+
+STATE_138_SEA = {
+    id = 3137
+    provinces = { "xD118B0" }
+}
+
+STATE_139_SEA = {
+    id = 3138
+    provinces = { "xDC2C4F" }
+}
+
+STATE_140_SEA = {
+    id = 3139
+    provinces = { "x525D9" }
+}
+
+STATE_141_SEA = {
+    id = 3140
+    provinces = { "x1DCF35" }
+}
+
+STATE_142_SEA = {
+    id = 3141
+    provinces = { "x53B51E" }
+}
+
+STATE_143_SEA = {
+    id = 3142
+    provinces = { "xD70EBA" }
+}
+
+STATE_144_SEA = {
+    id = 3143
+    provinces = { "xB246C1" }
+}
+
+STATE_145_SEA = {
+    id = 3144
+    provinces = { "xF7516F" }
+}
+
+STATE_146_SEA = {
+    id = 3145
+    provinces = { "x6B4868" }
+}
+
+STATE_147_SEA = {
+    id = 3146
+    provinces = { "x6F1532" }
+}
+
+STATE_148_SEA = {
+    id = 3147
+    provinces = { "xC204DD" }
+}
+
+STATE_149_SEA = {
+    id = 3148
+    provinces = { "x0DCD67" }
+}
+
+STATE_150_SEA = {
+    id = 3149
+    provinces = { "xB525D9" }
 }

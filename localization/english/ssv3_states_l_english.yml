@@ -39,7 +39,7 @@
  STATE_THE_INTERSTATE_CONFEDERACY: "The Bloodlands"
  STATE_XIBALBA_COAST: "The Scorpion Coast"
  STATE_XIBALBA: "Xibalba"
- STATE_DUAT_RIVER: "Davies Bay" #Can change to Duat River
+ STATE_DUAT_RIVER: "The Duat River" 
  STATE_THE_VERGE: "The Verge"
  STATE_ENDLESS_DESERT_1: "Edge-of-Eternity Estuary" 
  STATE_ENDLESS_DESERT_2: "Southern Endless Desert" 
@@ -48,16 +48,24 @@
  STATE_BUGBY_MARSH: "Bugby's Marsh"
  STATE_WOLFSTACK_DOCKS: "Wolfstack Docks"
  STATE_CARNIVAL: "Mrs. Plenty's Carnival"
+ STATE_NORTHERN_LONDON_ISLES: "Northern London Isles"
+ STATE_BAZAAR_SIDE_STREETS: "Bazaar Side Streets"
+ STATE_FORGOTTEN_QUARTER: "Forgotten Quarter"
+ STATE_SPITE: "Spite"
+ STATE_THE_UNIVERSITY: "The University"
+ STATE_THE_VEILGARDEN: "Veilgarden"
+ STATE_THE_FLIT: "The Flit"
+
 
 #SEA TILES
-
- STATE_35_SEA: "Cursed Abyss"
+ STATE_24_SEA: "The Home Waters"
+ STATE_35_SEA: "Hunter's Approach"
  STATE_45_SEA: "Odinson Straits"
  STATE_46_SEA: "Boreal Reach"
  STATE_47_SEA: "Void's Approach"
  STATE_57_SEA: "Icy Abyss"
  STATE_58_SEA: "Censor's Arch"
-# STATE_59_SEA: ""
+ STATE_59_SEA: "Exile's Coast"
  STATE_60_SEA: "Pickett's Bluff"
  STATE_61_SEA: "Cant's Buff"
  STATE_62_SEA: "Moody's Light"
@@ -65,9 +73,14 @@
  STATE_64_SEA: "Misty Sea"
  STATE_65_SEA: "The Rolling Sea "
  STATE_66_SEA: "Babel's Vortex"
- STATE_67_SEA: "Davies Bay"
+ STATE_67_SEA: "The Coffin Coast"
  STATE_68_SEA: "Stormbones"
  STATE_69_SEA: "Lonely Island"
  STATE_70_SEA: "The Finknottle Vortex"
  STATE_71_SEA: "Pigmonte Sea"
  STATE_72_SEA: "The Outer Pigmonte Sea"
+ STATE_73_SEA: "Low Barnet"
+ STATE_74_SEA: "Davies Bay"
+ STATE_75_SEA: "Badstevener's Abyss"
+
+ #Cursed Abyss

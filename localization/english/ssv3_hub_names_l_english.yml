@@ -288,19 +288,21 @@
  HUB_NAME_STATE_ISLES_OF_ESSOP_port: "Essop's Base"
  HUB_NAME_STATE_ISLES_OF_ESSOP_farm: "Mossmouth Swamp"
 
+#GREATER LONDON AREA
+
 #STATE_BUGBY_MARSH
  HUB_NAME_STATE_BUGBY_MARSH_city: "Watchmaker's Hill"
- HUB_NAME_STATE_BUGBY_MARSH_port: "Medusa Head"
- HUB_NAME_STATE_BUGBY_MARSH_mine: "Department of Menace Eradication"
+ HUB_NAME_STATE_BUGBY_MARSH_port: "Swamp Sunk Pier"
+ HUB_NAME_STATE_BUGBY_MARSH_mine: "Medusa Head"
  HUB_NAME_STATE_BUGBY_MARSH_farm: "The Observatory"
-# HUB_NAME_STATE_BUGBY_MARSH_wood: "55"
+ HUB_NAME_STATE_BUGBY_MARSH_wood: "Department of Menace Eradication"
 
 #STATE_WOLFSTACK_DOCKS
  HUB_NAME_STATE_WOLFSTACK_DOCKS_city: "Wolfstack"
- HUB_NAME_STATE_WOLFSTACK_DOCKS_port: "Peppery Dock"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_port: "Gibbet's Wharf"
  HUB_NAME_STATE_WOLFSTACK_DOCKS_mine: "Hater's Bridge"
- HUB_NAME_STATE_WOLFSTACK_DOCKS_farm: "Mahogany Hall"
- HUB_NAME_STATE_WOLFSTACK_DOCKS_wood: "Blind Helmsman"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_farm: "Leadbeater & Stainrod"
+ HUB_NAME_STATE_WOLFSTACK_DOCKS_wood: "The Blind Helmsman Tavern"
 
 #STATE_CARNIVAL
  HUB_NAME_STATE_CARNIVAL_city: "St. Fiacre"
@@ -309,3 +311,40 @@
  HUB_NAME_STATE_CARNIVAL_farm: "Mrs. Plenty's Carnival"
  HUB_NAME_STATE_CARNIVAL_wood: "The Sideshows"
 
+#Northern London Isles
+ HUB_NAME_STATE_NORTHERN_LONDON_ISLES_city: "The Three Sisters Estate"
+ HUB_NAME_STATE_NORTHERN_LONDON_ISLES_port: "Hunter's Bay"
+ HUB_NAME_STATE_NORTHERN_LONDON_ISLES_mine: "The Servant's Quarters" 
+ HUB_NAME_STATE_NORTHERN_LONDON_ISLES_farm: "The Tainted Gardens"
+ HUB_NAME_STATE_NORTHERN_LONDON_ISLES_wood: "Hunter's Cottage"
+
+#STATE_FORGOTTEN_QUARTER
+ HUB_NAME_STATE_FORGOTTEN_QUARTER_city: "The Temple Club"
+ HUB_NAME_STATE_FORGOTTEN_QUARTER_port: "Winewound Heath!"
+ HUB_NAME_STATE_FORGOTTEN_QUARTER_mine: "Expedition Base Camp" 
+ HUB_NAME_STATE_FORGOTTEN_QUARTER_farm: "The Tomb of the Seven"
+ HUB_NAME_STATE_FORGOTTEN_QUARTER_wood: "The Cave of the Nadir"
+
+#STATE_BAZAAR_SIDE_STREETS
+ HUB_NAME_STATE_BAZAAR_SIDE_STREETS_city: "The Echo Bazaar"
+ HUB_NAME_STATE_BAZAAR_SIDE_STREETS_port: "House of Chimes"
+ HUB_NAME_STATE_BAZAAR_SIDE_STREETS_mine: "Beazley's Gate" 
+ HUB_NAME_STATE_BAZAAR_SIDE_STREETS_farm: "Royal Bethlehem Hotel"
+ HUB_NAME_STATE_BAZAAR_SIDE_STREETS_wood: "Spicebridge"
+
+ #STATE_THE_VEILGARDEN
+ HUB_NAME_STATE_THE_VEILGARDEN_city: "Veilgarden"
+ HUB_NAME_STATE_THE_VEILGARDEN_port: "The Poet's Jetty"
+ HUB_NAME_STATE_THE_VEILGARDEN_mine: "Elderwick" 
+ HUB_NAME_STATE_THE_VEILGARDEN_farm: "Singing Mandrake"
+
+ #STATE_SPITE
+ HUB_NAME_STATE_SPITE_city: "Mahogany Hall"
+ HUB_NAME_STATE_SPITE_mine: "Mythenhale" 
+ HUB_NAME_STATE_SPITE_farm: "Doubt Street"
+ HUB_NAME_STATE_SPITE_wood: "The Tenterhooks"
+
+ #STATE_THE_FLIT
+ HUB_NAME_STATE_THE_FLIT_city: "The Topsy King's Court"
+ HUB_NAME_STATE_THE_FLIT_mine: "The Orphanage" 
+ HUB_NAME_STATE_THE_FLIT_farm: "The Topsy King's Court"

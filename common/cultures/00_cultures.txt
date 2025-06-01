@@ -401,7 +401,7 @@ whitherin={
 	ethnicities = {
 		1 = circumpolar
 	}
-	graphics = asian
+	graphics = east_asian
 }
 
 codexian={ 
@@ -621,7 +621,7 @@ codexian={
 	ethnicities = {
 		1 = circumpolar
 	}
-	graphics = asian
+	graphics = east_asian
 }
 
 #Update names
@@ -714,7 +714,7 @@ northmen={
 	ethnicities = {
 		1 = circumpolar
 	}
-	graphics = asian
+	graphics = east_asian
 }
 
 #Mongolian + Need to Specialize

@@ -138,6 +138,15 @@ D06 = { # The Drowned Isles
 	}
 }
 
+D07 = { # The Drowned Isles
+	flag_definition = {
+		coa = D07
+		subject_canton = D07
+		allow_overlord_canton = yes	
+		priority = 100
+	}
+}
+
 CDX = { #Codex
 	flag_definition = {
 		coa = CDX
@@ -602,6 +611,17 @@ TMB = { # The Tomb Colonies
 
 
 LON = { # London
+
+# For the future: Subject stuff of London
+#	flag_definition = {
+#		coa = MUG_subject_GBR
+#		allow_overlord_canton = yes		
+#		priority = 50
+#		trigger = { 
+#			coa_def_british_ensign_trigger = yes
+#		}
+#	}	
+
 	flag_definition = {
 		coa = LON
 		subject_canton = LON
@@ -669,5 +689,37 @@ LON = { # London
 		trigger = { 
 			coa_def_fascist_flag_trigger = yes
 		}
+	}
+}
+
+HKP = { # Hunter's Keep
+	flag_definition = {
+		coa = HKP	
+		allow_overlord_canton = yes
+		coa_with_overlord_canton = HKP_subject	
+		overlord_canton_offset = { 0 0.1 }
+		overlord_canton_scale = { 0.4 0.4 }			
+		subject_canton = HKP
+		priority = 1
+	}
+	flag_definition = {
+		coa = HKP_theocracy
+		subject_canton = HKP_theocracy
+		allow_overlord_canton = yes
+		overlord_canton_scale = { @canton_scale_cross_x @canton_scale_cross_y }
+		priority = 20
+		trigger = { 
+			coa_def_theocracy_flag_trigger = yes
+		}
+	}
+	flag_definition = {	
+		coa = HKP_monarchy	
+		subject_canton = HKP_monarchy	
+		allow_overlord_canton = yes		
+		coa_with_overlord_canton = HKP_subject	
+		priority = 1500	
+		trigger = { 	
+			coa_def_monarchy_flag_trigger = yes	
+		}	
 	}
 }

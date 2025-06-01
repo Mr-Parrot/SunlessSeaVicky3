@@ -4,4 +4,8 @@
 #	states = { STATE_EXAMPLE_SEA } # Vanilla just has one state per region for the water strategic regions.
 #}
 
+#region_hawaiian_seamount_chain = {
+#	states = { STATE_HAWAIIAN_SEAMOUNT_CHAIN }
+#}
+
 #####################

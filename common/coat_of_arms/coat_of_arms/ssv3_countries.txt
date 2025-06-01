@@ -58,7 +58,7 @@ D03 = { #The Sunken Ashlands
 	#}
 }
 
-#The Sunken Ashlands
+#Survivors of the Ash
 D04 = { #Survivors of the Ash
 	pattern = "pattern_solid.tga" 
 	color1 = rgb{ 25 89 5 }
@@ -98,6 +98,16 @@ D06 = { #The Drowned Isles
 		texture = "ce_waves_latvia.dds"  
 		color1 = rgb{ 21 34 56 }
 		color2 = rgb{ 25 40 65 }
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+#The Marshes
+D07 = { #The Marshes
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 52 89 5 }
+	textured_emblem = {
+		texture = "te_swampII.dds"  
 		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
 	}
 }
@@ -561,21 +571,9 @@ XIC_monarchy = {
 ###################################
 
 LON = {
-	pattern = "pattern_solid.tga"
-	color1 = "red"
-	sub = {
-        parent = "sub_ENG_coa" 
-        instance = { scale = { 0.5 0.5 } offset = { 0.0 0.0 } } # top left
-        instance = { scale = { 0.5 0.5 } offset = { 0.5 0.5 } } # bottom right
-    } 
-	sub = {
-        parent = "sub_SCO_coa" 
-        instance = { scale = { 0.5 0.5 } offset = { 0.5 0.0 } } # top right
-    } 
-	sub = {
-        parent = "sub_IRE_coa" 
-        instance = { scale = { 0.5 0.5 } offset = { 0.0 0.5 } } # bottom left
-    } 
+    sub = {
+        parent = "sub_GBR_uk" 
+    }
 }
 
 LON_republic = {
@@ -700,6 +698,60 @@ LON_fascist = {
 	}
 }
 
+
+
+HKP = { # Hunter's Keep
+	
+	pattern = "pattern_border_of_4.dds"
+	color1 = "blue"
+	color2 = "red"
+	
+	colored_emblem = {
+		texture = "ce_lion_corfu.dds"
+		color1 = "yellow"
+		color2 = "white"
+		instance = { scale = { 0.8 0.8 } position = { 0.5 0.5 } }	
+	}
+}
+
+HKP_subject = {
+	pattern = "pattern_border_of_3.dds"
+	color1 = "blue"
+	color2 = "red"
+	
+	colored_emblem = {
+		texture = "ce_lion_corfu.dds"
+		color1 = "yellow"
+		color2 = "pearl"
+		instance = { scale = { 0.5 0.5 } position = { 0.68 0.69 } }	
+	}
+}
+
+HKP_theocracy = {
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 5 5 55 }
+	
+	textured_emblem = {  
+		texture = "te_delphi.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1.25 1.25 } }
+	}
+
+}
+
+HKP_monarchy = {
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 5 5 55 }
+	
+	textured_emblem = {  
+		texture = "te_delphi.dds"  
+		instance = { position = { 0.5 0.5 } scale = { .9 .9 } }
+	}
+	colored_emblem = {
+		texture = "ce_cross_england.dds"
+		color1 = white
+		color2 = blue
+	}
+}
 
 ###################################
 # TOMB COLONIES

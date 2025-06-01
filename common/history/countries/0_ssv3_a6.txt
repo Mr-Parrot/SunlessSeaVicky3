@@ -1,5 +1,7 @@
 ﻿COUNTRIES = {
-	
+
+# Decentralized states
+
 	c:D01 = { #The Glacial Grimlands
 		effect_starting_technology_tier_7_tech = yes
 		
@@ -39,7 +41,7 @@
 		effect_native_conscription_25 = yes
 		
 		activate_law = law_type:law_chiefdom
-		activate_law = law_type:law_protectionism	
+		#activate_law = law_type:law_protectionism	
 
 		set_ruling_interest_groups = {
 			ig_landowners
@@ -52,8 +54,8 @@
 		effect_native_conscription_10 = yes
 		
 		activate_law = law_type:law_chiefdom
-		activate_law = law_type:law_wealth_voting
-		activate_law = law_type:law_free_trade
+		#activate_law = law_type:law_wealth_voting
+		#activate_law = law_type:law_free_trade
 		
 		set_ruling_interest_groups = {
 			ig_landowners
@@ -71,6 +73,19 @@
 		}
 	}
 
+	c:D07 = { #The Marshes
+		effect_starting_technology_tier_7_tech  = yes
+
+		effect_starting_politics_traditional = yes
+		activate_law = law_type:law_isolationism
+
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+# Countries
+
 	c:WHI = { #Whither
 		effect_starting_technology_tier_4_tech  = yes
 		effect_starting_politics_traditional = yes
@@ -79,7 +94,7 @@
 		activate_law = law_type:law_landed_voting
 		activate_law = law_type:law_freedom_of_conscience
 		activate_law = law_type:law_migration_controls
-		activate_law = law_type:law_censorship
+		#activate_law = law_type:law_censorship
 
 		set_ruling_interest_groups = {
 			ig_landowners
@@ -91,9 +106,9 @@
 		effect_starting_politics_traditional = yes
 		
 		activate_law = law_type:law_theocracy
-		activate_law = law_type:law_universal_suffrage
+		#activate_law = law_type:law_universal_suffrage
 		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_outlawed_dissent
+		#activate_law = law_type:law_outlawed_dissent
 
 
 		set_ruling_interest_groups = {
@@ -106,12 +121,12 @@
 		effect_starting_politics_traditional = yes
 
 		activate_law = law_type:law_wealth_voting
-		activate_law = law_type:law_presidential_republic
+		#activate_law = law_type:law_presidential_republic
 		activate_law = law_type:law_oligarchy
 		activate_law = law_type:law_freedom_of_conscience
 		activate_law = law_type:law_debt_slavery
 		activate_law = law_type:law_women_own_property
-		activate_law = law_type:law_commercialized_agriculture
+		#activate_law = law_type:law_commercialized_agriculture
 		activate_law = law_type:law_migration_controls
 
 		set_ruling_interest_groups = {

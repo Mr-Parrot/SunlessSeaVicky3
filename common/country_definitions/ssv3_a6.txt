@@ -1,5 +1,4 @@
-
-
+#Decentralized
 
 D01 = { #The Glacial Grimlands
 	color = { 190 228 245 } 
@@ -73,6 +72,24 @@ D06 = { #The Drowned Isles
 	capital = STATE_PHOSGENE_BLEAKS
 }
 
+D07 = { #The Marshes
+	color = { 107 142 35 }  
+
+	country_type = decentralized   
+
+	tier = duchy 
+
+	cultures = { drownies } 
+	#Replace wih wolfs
+	religion = salt
+	capital = STATE_FORGOTTEN_QUARTER
+	#Replace later with another swamp creatures (wolfs)
+}
+
+##################
+#Main Countries
+##################
+
 WHI = { #Whither
 	color = { 59 84 105 } 
 
@@ -137,7 +154,8 @@ CUR = { #The Order of the Curatorium
 }
 
 VED = { #Venderbright
-	color = { 166 38 57 } 
+	# color = { 240 182 181 }  
+	color = { 166 38 57 }  
 
 	country_type = unrecognized   
 
@@ -176,7 +194,9 @@ XIC = { #Xibalba
 
 
 LON = { #London
-	color = { 242 194 180  }  
+	# color = { 240 182 181 } #More historical color
+	#color = { 166 38 57 }  
+	color = { 200 16 46 }  
 
 	country_type = recognized   
 
@@ -184,7 +204,7 @@ LON = { #London
 
 	cultures = { london } 
 	religion = anglican
-	capital = STATE_WOLFSTACK_DOCKS #Fix Later
+	capital = STATE_BAZAAR_SIDE_STREETS
 }
 
 
@@ -283,3 +303,14 @@ TWM = { #Hunahpu & Xbalanque
 	capital = STATE_THE_INTERSTATE_CONFEDERACY
 }
 
+HKP = { #Hunter's Keep	 # Ionian tag for flag: ION
+	color = { 0 102 204 } 
+
+	country_type = recognized   
+ 
+	tier = principality 
+
+	cultures = { london } 
+	religion = anglican
+	capital = STATE_NORTHERN_LONDON_ISLES
+}
