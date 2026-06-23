@@ -21,7 +21,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_farmland_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -34,7 +34,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_farmland_objects_generator_1_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -47,7 +47,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_farmland_objects_generator_1_3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -60,7 +60,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_farmland_objects_generator_1_4"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -73,7 +73,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_forestry_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -86,7 +86,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_forestry_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -99,7 +99,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"african_dynamic_forestry_objects_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -190,7 +190,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -203,7 +203,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -216,7 +216,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -229,7 +229,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_farmland_objects_generator_1_3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -242,7 +242,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_forestry_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -255,7 +255,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_forestry_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -268,7 +268,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"arabic_dynamic_forestry_objects_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -359,7 +359,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"asian_dynamic_farmland_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -372,7 +372,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"asian_dynamic_farmland_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -424,7 +424,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"asian_dynamic_forestry_objects_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -512,10 +512,10 @@
 				"key":	"asian_manorhouse"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"asian_manorhouse"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -683,10 +683,10 @@
 				"key":	"barracks_asian"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"barracks_asian"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -718,10 +718,10 @@
 				"key":	"barracks_euro"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"barracks_euro"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -751,10 +751,10 @@
 				"key":	"barracks_latin"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"barracks_latin"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -920,7 +920,7 @@
 				"key":	"canyon_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -933,7 +933,7 @@
 				"key":	"canyon_02"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -946,7 +946,7 @@
 				"key":	"canyon_03"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -959,7 +959,7 @@
 				"key":	"canyon_04"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -972,7 +972,7 @@
 				"key":	"canyon_05"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -985,7 +985,7 @@
 				"key":	"canyon_06"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -998,7 +998,7 @@
 				"key":	"canyon_07"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1011,7 +1011,7 @@
 				"key":	"canyon_08"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1024,7 +1024,7 @@
 				"key":	"canyon_09"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1037,7 +1037,7 @@
 				"key":	"canyon_10"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1052,7 +1052,7 @@
 				"key":	"canyon_11"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1065,7 +1065,7 @@
 				"key":	"canyon_12"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1078,7 +1078,7 @@
 				"key":	"canyon_13"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1091,7 +1091,7 @@
 				"key":	"canyon_14"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1104,7 +1104,7 @@
 				"key":	"canyon_15"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -1117,13 +1117,43 @@
 				"key":	"canyon_16"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"coin_ip3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"coin_ip3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"coin_ip4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"coin_ip4"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
@@ -1211,7 +1241,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_dense_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1224,7 +1254,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_dense_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1237,7 +1267,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_dense_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1250,7 +1280,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_dense_generator_2_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1263,7 +1293,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_dense_generator_3_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1276,7 +1306,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_dense_generator_3_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1289,7 +1319,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_sparse_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1302,7 +1332,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_sparse_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1315,7 +1345,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_sparse_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1328,7 +1358,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_sparse_generator_2_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1341,7 +1371,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_sparse_generator_3_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1354,7 +1384,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"cypress_mediterranean_sparse_generator_3_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1367,7 +1397,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"dlc_coin_ap1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -1382,22 +1412,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"dlc_coin_ep1"
-				}
-			},
-			"instances":	[{
-					"locked":	false
-				}]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"dlc_coin_ip2"
-			},
-			"entry_state":	{
-				"locked":	false,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"dlc_coin_ip2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -1412,7 +1427,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"dlc_coin_rp1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -1441,13 +1456,21 @@
 				"key":	"european_city_centerpiece"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_city_centerpiece"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -1472,10 +1495,10 @@
 				"key":	"european_city_tradecenter"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_city_tradecenter"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -1516,7 +1539,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_dynamic_farmland_objects_generator_1_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1529,7 +1552,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_dynamic_farmland_objects_generator_1_3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1542,7 +1565,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_dynamic_farmland_objects_generator_1_4"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1581,7 +1604,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_dynamic_forestry_objects_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1669,10 +1692,10 @@
 				"key":	"european_rural_centerpiece"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"european_rural_centerpiece"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1685,7 +1708,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_farmland_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1698,7 +1721,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_farmland_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1711,7 +1734,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_farmland_objects_generator_1_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1724,7 +1747,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_forestry_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1737,7 +1760,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_forestry_objects_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1750,7 +1773,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_mining_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1763,7 +1786,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_mining_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1776,7 +1799,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"french_dynamic_mining_objects_generator_1_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1786,10 +1809,10 @@
 				"key":	"fucked_pyramid"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"fucked_pyramid"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1841,7 +1864,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"latin_dynamic_farmland_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1854,7 +1877,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"latin_dynamic_farmland_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1867,7 +1890,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"latin_dynamic_farmland_objects_generator_1_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1893,7 +1916,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"latin_dynamic_forestry_objects_generator_1_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1906,7 +1929,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"latin_dynamic_forestry_objects_generator_1_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -1919,7 +1942,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"latin_dynamic_forestry_objects_generator_2_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -2007,28 +2030,15 @@
 				"key":	"new_angkorwat"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"new_angkorwat"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
 					"locked":	false
 				}]
-		}, {
-			"object_ref":	{
-				"type":	"mesh",
-				"key":	"new_mapobject_2"
-			},
-			"entry_state":	{
-				"locked":	true,
-				"base_type":	{
-					"type":	"mesh",
-					"key":	"new_mapobject_2"
-				}
-			},
-			"instances":	[]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
@@ -2038,7 +2048,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"new_maya_pyramids"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -2054,10 +2064,10 @@
 				"key":	"new_pyramids"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"new_pyramids"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -2069,10 +2079,10 @@
 				"key":	"new_taj_mahal"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"new_taj_mahal"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -2594,7 +2604,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"paper_map_cloth"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -2609,7 +2619,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"paper_map_french_coin"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -3032,10 +3042,10 @@
 				"key":	"port_arab_for_XIB"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"port_arab_for_XIB"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -3440,7 +3450,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_armed_forces_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3453,7 +3463,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_armed_forces_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3466,7 +3476,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_armed_forces_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3479,7 +3489,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_devout_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3492,7 +3502,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_devout_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3505,7 +3515,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_devout_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3518,7 +3528,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_industrialists_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3531,7 +3541,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_industrialists_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3544,7 +3554,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_industrialists_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3557,7 +3567,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_intelligentsia_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3570,7 +3580,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_intelligentsia_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3583,7 +3593,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_intelligentsia_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3596,7 +3606,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_landowners_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3609,7 +3619,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_landowners_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3622,7 +3632,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_landowners_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3635,7 +3645,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_petty_bourgeoisie_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3648,7 +3658,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_petty_bourgeoisie_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3661,7 +3671,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_petty_bourgeoisie_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3674,7 +3684,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_rural_folk_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3687,7 +3697,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_rural_folk_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3700,7 +3710,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_rural_folk_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3713,7 +3723,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_trade_unions_0"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3726,7 +3736,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_trade_unions_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3739,7 +3749,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"revolution_mapobject_generator_trade_unions_2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3749,7 +3759,7 @@
 				"key":	"rockformation_granite_03"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3762,7 +3772,7 @@
 				"key":	"rockformation_granite_04"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3777,7 +3787,7 @@
 				"key":	"rockformation_granite_05"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3792,7 +3802,7 @@
 				"key":	"rockformation_granite_06"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3807,7 +3817,7 @@
 				"key":	"rockformation_sandstone_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3820,7 +3830,7 @@
 				"key":	"rockformation_sandstone_03"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3833,7 +3843,7 @@
 				"key":	"rockformation_sandstone_06"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"baobab_generator_1_0"
@@ -3849,7 +3859,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"rubber_lodge_01"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -3859,10 +3869,10 @@
 				"key":	"sandstone_monument_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"sandstone_monument_01"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -3923,16 +3933,65 @@
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
-				"key":	"urban_arab_poor1"
+				"key":	"urban_arab_middle1"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_arab_poor1"
+					"key":	"urban_arab_middle1"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_middle2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_middle2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_middle3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_middle3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_poor1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -3945,13 +4004,15 @@
 				"key":	"urban_arab_poor2"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_arab_poor2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -3970,13 +4031,193 @@
 				"key":	"urban_arab_poor3"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_arab_poor3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_rich1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_rich1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_rich2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_arab_rich2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_arab_rich3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asia_middle1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asia_middle1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_middle2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_middle2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_middle3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_middle3"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -3997,13 +4238,15 @@
 				"key":	"urban_asian_poor1"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_asian_poor1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4022,13 +4265,15 @@
 				"key":	"urban_asian_poor2"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_asian_poor2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4049,13 +4294,88 @@
 				"key":	"urban_asian_poor3"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
 					"key":	"urban_asian_poor3"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_rich1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_rich1"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_rich2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"urban_asian_rich2"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"urban_asian_rich3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4070,10 +4390,10 @@
 				"key":	"urban_city_townsquare_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_city_townsquare_01"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -4083,13 +4403,85 @@
 				"key":	"urban_euro_middle1"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_middle1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4172,13 +4564,69 @@
 				"key":	"urban_euro_middle2"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_middle2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4457,13 +4905,333 @@
 				"key":	"urban_euro_middle3"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_middle3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -4832,10 +5600,10 @@
 				"key":	"urban_euro_poor1"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_poor1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -4963,13 +5731,1353 @@
 				"key":	"urban_euro_poor2"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_poor2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -7636,10 +9744,10 @@
 				"key":	"urban_euro_poor3"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_poor3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -7939,13 +10047,183 @@
 				"key":	"urban_euro_rich1"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_rich1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -8412,13 +10690,29 @@
 				"key":	"urban_euro_rich2"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_rich2"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -8439,13 +10733,21 @@
 				"key":	"urban_euro_rich3"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_euro_rich3"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -8468,13 +10770,69 @@
 				"key":	"urban_latin_poor_1"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"urban_latin_poor_1"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -8717,10 +11075,10 @@
 				"key":	"wonder_big_ben"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_big_ben"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -8732,23 +11090,25 @@
 				"key":	"wonder_observatory"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_observatory"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"mesh",
 				"key":	"wonder_wallofchina_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_01"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8758,10 +11118,10 @@
 				"key":	"wonder_wallofchina_02"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_02"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8771,10 +11131,10 @@
 				"key":	"wonder_wallofchina_03"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_03"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8784,10 +11144,10 @@
 				"key":	"wonder_wallofchina_04"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_04"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8797,10 +11157,10 @@
 				"key":	"wonder_wallofchina_05"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_05"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -8816,10 +11176,10 @@
 				"key":	"wonder_wallofchina_06"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_06"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -8831,10 +11191,10 @@
 				"key":	"wonder_wallofchina_07"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_07"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8844,10 +11204,10 @@
 				"key":	"wonder_wallofchina_08"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_08"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8857,10 +11217,10 @@
 				"key":	"wonder_wallofchina_09"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchina_09"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8870,10 +11230,10 @@
 				"key":	"wonder_wallofchinaend_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchinaend_01"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -8887,10 +11247,10 @@
 				"key":	"wonder_wallofchinaend_02"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchinaend_02"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -8900,10 +11260,10 @@
 				"key":	"wonder_wallofchinatower_01"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"mesh",
-					"key":	"wonder_wallofchinatower_01"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -9059,39 +11419,49 @@
 				"key":	"env_geyser_large_obj"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"entity",
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
 				"key":	"env_geyser_medium_obj"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"entity",
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
 				"key":	"env_geyser_small_obj"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"entity",
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -9270,13 +11640,19 @@
 				"key":	"env_swamp_fog"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"entity",
 					"key":	"baobab_generator_1_0"
 				}
 			},
-			"instances":	[]
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"entity",
@@ -9505,7 +11881,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"angkor_wat_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9518,10 +11894,25 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"argebam_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"atocha_railway_station"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"atocha_railway_station"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"locator",
@@ -9531,7 +11922,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"big_ben_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9544,7 +11935,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"canal_panama_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9557,7 +11948,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"canal_suez_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9570,7 +11961,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"capitol_hill_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9583,7 +11974,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"central_park_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9596,7 +11987,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"chichen_itza_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9606,13 +11997,17 @@
 				"key":	"city"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"city"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -9736,7 +12131,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"cristo_redentor_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -9751,7 +12146,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"easter_island_heads_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9764,7 +12159,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"eiffel_tower_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9777,7 +12172,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"eye_of_sahara_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9787,13 +12182,19 @@
 				"key":	"farm"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"farm"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -9917,7 +12318,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"forbidden_city_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9930,10 +12331,25 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"giza_necropolis_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"gran_teatro_de_la_habana"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"gran_teatro_de_la_habana"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"locator",
@@ -9943,10 +12359,25 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"hagia_sophia_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"kaiserforum_locator"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"kaiserforum_locator"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
 		}, {
 			"object_ref":	{
 				"type":	"locator",
@@ -9956,7 +12387,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"khaju_bridge_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -9969,23 +12400,42 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"machu_picchu_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
 		}, {
 			"object_ref":	{
 				"type":	"locator",
-				"key":	"mine"
+				"key":	"manila_cathedral"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"mine"
+					"key":	"manila_cathedral"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"mine"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -10109,7 +12559,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"monument_martandsuntemple_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10122,7 +12572,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"monument_observatorygreenwich_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10135,7 +12585,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"mosque_of_djenne_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10148,7 +12598,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_extension_bottom_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10163,7 +12613,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_extension_top_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10178,7 +12628,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_object_1_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10193,7 +12643,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_object_2_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10208,7 +12658,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_object_3_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10223,37 +12673,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_object_4_locator"
-				}
-			},
-			"instances":	[{
-					"locked":	false
-				}]
-		}, {
-			"object_ref":	{
-				"type":	"locator",
-				"key":	"papermap_object_indian_hairbrooch_locator"
-			},
-			"entry_state":	{
-				"locked":	true,
-				"base_type":	{
-					"type":	"locator",
-					"key":	"papermap_object_indian_hairbrooch_locator"
-				}
-			},
-			"instances":	[{
-					"locked":	false
-				}]
-		}, {
-			"object_ref":	{
-				"type":	"locator",
-				"key":	"papermap_object_indian_knife_locator"
-			},
-			"entry_state":	{
-				"locked":	true,
-				"base_type":	{
-					"type":	"locator",
-					"key":	"papermap_object_indian_knife_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10268,22 +12688,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_table_bottom_ap1_locator"
-				}
-			},
-			"instances":	[{
-					"locked":	false
-				}]
-		}, {
-			"object_ref":	{
-				"type":	"locator",
-				"key":	"papermap_table_bottom_ip2_locator"
-			},
-			"entry_state":	{
-				"locked":	true,
-				"base_type":	{
-					"type":	"locator",
-					"key":	"papermap_table_bottom_ip2_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10298,7 +12703,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_table_bottom_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10313,22 +12718,7 @@
 				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_table_top_ap1_locator"
-				}
-			},
-			"instances":	[{
-					"locked":	false
-				}]
-		}, {
-			"object_ref":	{
-				"type":	"locator",
-				"key":	"papermap_table_top_ip2_locator"
-			},
-			"entry_state":	{
-				"locked":	true,
-				"base_type":	{
-					"type":	"locator",
-					"key":	"papermap_table_top_ip2_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
@@ -10343,7 +12733,22 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"papermap_table_top_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"pena_palace"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"pena_palace"
 				}
 			},
 			"instances":	[{
@@ -10358,7 +12763,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"petra_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10368,13 +12773,17 @@
 				"key":	"port"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"port"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false
@@ -10448,13 +12857,28 @@
 		}, {
 			"object_ref":	{
 				"type":	"locator",
+				"key":	"sagrada_familia_cathedral"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"sagrada_familia_cathedral"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
 				"key":	"saint_basils_cathedral_locator"
 			},
 			"entry_state":	{
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"saint_basils_cathedral_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10467,7 +12891,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"statue_of_liberty_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10480,7 +12904,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"taj_mahal_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10493,7 +12917,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"templeofposeidon_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10506,7 +12930,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"vatican_city_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10519,7 +12943,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"wat_arun_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10532,7 +12956,7 @@
 				"locked":	true,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"white_house_locator"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[]
@@ -10542,13 +12966,17 @@
 				"key":	"wood"
 			},
 			"entry_state":	{
-				"locked":	true,
+				"locked":	false,
 				"base_type":	{
 					"type":	"locator",
-					"key":	"wood"
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
 				}
 			},
 			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
 					"locked":	false
 				}, {
 					"locked":	false

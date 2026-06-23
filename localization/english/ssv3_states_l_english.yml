@@ -55,6 +55,24 @@
  STATE_THE_UNIVERSITY: "The University"
  STATE_THE_VEILGARDEN: "Veilgarden"
  STATE_THE_FLIT: "The Flit"
+ STATE_LADYBONES_ROAD: "Ladybones Road
+ STATE_PALACE: "The Shuttered Palace"
+ STATE_LABYRINTH_OF_TIGERS: "The Labyrinth of Tigers"
+ STATE_WILMONTS_END: "Wilmont's End"
+ STATE_OUTER_LONDON_RUINS: "Outer London Ruins"
+ STATE_THE_NORTHERN_HILLS: "The Northern Hills"
+ STATE_THE_CROOKED_THROAT: "The Crooked Throat"
+ STATE_SOUTH_PRICKFINGER: "The Scablands of Lower Prickfinger"
+ STATE_THE_CLIPPED_NAIL_TIP: "The Clipped Nail Tip"
+ STATE_THE_IMPALED_COAST: "The Impaled Coast"
+ STATE_THE_JAGGED_FINGER_TIP: "The Jagged Finger Tip"
+ STATE_EASTERN_PRICKFINGER_EDGE: "Western Prickfinger Edge"
+ STATE_LUTON_RUINS: "Luton Ruins"
+ STATE_THE_PLATEAU: "The Half-Step Plateau"
+ STATE_THE_GIZERS: "The Scorching Geezers"
+ STATE_SLOUGH_HILLS: "Slough Hills"
+ STATE_UXBRIDGE_ROAD: "Uxbridge Road"
+
 
 
 #SEA TILES

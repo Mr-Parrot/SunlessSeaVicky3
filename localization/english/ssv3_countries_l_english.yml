@@ -14,7 +14,17 @@
  D06:0 "The Drowned Isles"
  D06_ADJ:0 "The Drowned Isles"
  D07:0 "The Marshlands"
- D0_ADJ:0 "The Marshlands"
+ D07_ADJ:0 "The Marshlands"
+ D08:0 "Outer London Wastes"
+ D08_ADJ:0 "The London Wastes"
+ D09:0 "Prickfinger Wastes"
+ D09_ADJ:0 "Prickfinger Wastes"
+ D10:0 "Badain Jaran"
+ D10_ADJ:0 "Badain Jaran"
+ D11:0 "The Hinterlands"
+ D11_ADJ:0 "Hinterlands"
+
+
 
 
 # Major Nations
@@ -62,6 +72,8 @@
 # London Releasables
  HKP:0 "Hunter's Keep"
  HKP_ADJ:0 "Hunter's Keep"
+ MPC:0 "Mrs Plenty's Carnival"
+ MPC_ADJ:0 "The Carnival"
 
 
 #UNIFICATION TEXT

@@ -5,8 +5,9 @@
 	generated_content=no
 	layer="environmental_effects"
 	entity="env_geyser_large"
-	count=0
-}
+	count=1
+	transform="934.175781 0.000000 2358.463135 0.000000 0.000000 0.000000 1.000000 2.742613 2.742613 2.742613
+"}
 object={
 	name="env_geyser_medium_obj"
 	clamp_to_water_level=no
@@ -14,8 +15,10 @@ object={
 	generated_content=no
 	layer="environmental_effects"
 	entity="env_geyser_medium"
-	count=0
-}
+	count=2
+	transform="912.171509 0.000000 2355.032715 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+920.853821 0.000000 2370.329346 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
 object={
 	name="env_geyser_small_obj"
 	clamp_to_water_level=no
@@ -23,8 +26,10 @@ object={
 	generated_content=no
 	layer="environmental_effects"
 	entity="env_geyser_small"
-	count=0
-}
+	count=2
+	transform="936.812317 0.000000 2341.114990 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+1024.991089 0.000000 2166.500732 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
 object={
 	name="env_godrays"
 	clamp_to_water_level=no
@@ -148,8 +153,11 @@ object={
 	generated_content=no
 	layer="environmental_effects"
 	entity="env_swamp_fog"
-	count=0
-}
+	count=3
+	transform="695.772644 0.000000 1988.971069 0.000000 -0.360252 0.000000 0.932855 2.305127 2.305127 2.305127
+709.418396 0.000000 2044.751221 0.000000 -0.092861 0.000000 0.995679 1.892588 1.892588 1.892588
+1098.484497 0.000000 1955.324463 0.000000 0.000000 0.000000 1.000000 2.731311 2.731311 2.731311
+"}
 object={
 	name="env_tropical_rain"
 	clamp_to_water_level=no

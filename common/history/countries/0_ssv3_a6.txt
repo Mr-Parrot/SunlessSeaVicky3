@@ -84,6 +84,39 @@
 		}
 	}
 
+	c:D08 = { #Outer London Wastes
+		effect_starting_technology_tier_2_tech  = yes
+
+		effect_starting_politics_traditional = yes
+		activate_law = law_type:law_isolationism
+
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:D09 = { #The Marshes
+		effect_starting_technology_tier_7_tech  = yes
+
+		effect_starting_politics_traditional = yes
+		activate_law = law_type:law_isolationism
+
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+
+	c:D10 = { #Badain Jaran
+		effect_starting_technology_tier_7_tech  = yes
+
+		effect_starting_politics_traditional = yes
+		activate_law = law_type:law_isolationism
+
+		set_ruling_interest_groups = {
+			ig_landowners
+		}
+	}
+	
 # Countries
 
 	c:WHI = { #Whither

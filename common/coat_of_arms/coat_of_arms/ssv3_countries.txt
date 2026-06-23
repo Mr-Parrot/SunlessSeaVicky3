@@ -112,6 +112,16 @@ D07 = { #The Marshes
 	}
 }
 
+#The Hinterlands Uncolonized
+D11 = { #The Hinterlands Uncolonized
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 52 89 5 }
+	textured_emblem = {
+		texture = "te_hinterlands_uncolonized.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
 ###################################
 # CODEX
 ###################################
@@ -286,6 +296,24 @@ WHI_monarchy = { #Monarchy
 	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
 	}
 }
+
+###################################
+# Odison Land
+###################################
+
+
+ODL = { #Odinson's Land
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "black"
+	textured_emblem = {  
+		texture = "BASE_ODL.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+###################################
+# Tomb Colonists
+###################################
 
 #League of Tung-ak
 KAR= { #League of Tung-ak
@@ -567,8 +595,59 @@ XIC_monarchy = {
 }
 
 ###################################
+# The Order of the Curatorium
+###################################
+
+#The Order of the Curatorium
+CUR = { 
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 58 37 88 }
+
+	textured_emblem = {  
+		texture = "te_CUR_start.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+
+###################################
 # LONDON
 ###################################
+
+D08 = {
+	# the modern British flag, with red diagonals
+	pattern = "pattern_gironny_8.dds"
+	color1 = "blue"
+	color2 = "blue"
+	color3 = "white"
+	color4 = "red"
+	
+	colored_emblem = {
+		texture = "ce_saltire.dds"
+		color1 = color3
+		color2 = color3
+	}	
+	colored_emblem = {
+		texture = "ce_saltire_fimbriated.dds"
+		color1 = color3
+		color2 = color4
+		mask = { 2 }
+	}
+	colored_emblem = {
+		texture = "ce_cross_england_fimbriated.dds"
+		color1 = color3
+		color2 = color4
+	}
+	colored_emblem = {		
+		texture = "ce_revolution_tear.dds"
+		color1 = "white"
+		color2 = "white"
+		color3 = "white"
+		instance = { scale = { 6 6  } position = { 0.8 0.5 } }
+	}
+}
+
+
 
 LON = {
     sub = {
@@ -774,12 +853,22 @@ TMB_Venderbright = { #Venderbright Unified Tomb Colonies
 	}
 }
 
-TMB_Xibalba = { #Venderbright Unified Tomb Colonies
+TMB_Xibalba = { #Xibalba Unified Tomb Colonies
 	pattern = "pattern_solid.tga" 
 	color1 = rgb{ 58 37 88 }
 
 	textured_emblem = {  
 		texture = "te_XIC_TMB_FORM.dds"  
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+}
+
+TMB_Curatorium = { #Curatorium Unified Tomb Colonies
+	pattern = "pattern_solid.tga" 
+	color1 = rgb{ 58 37 88 }
+
+	textured_emblem = {  
+		texture = "te_CUR_TOM_FORM.dds"  
 		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
 	}
 }

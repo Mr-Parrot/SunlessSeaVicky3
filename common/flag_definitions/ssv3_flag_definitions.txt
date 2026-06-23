@@ -585,6 +585,7 @@ XIC = { #Xibalba
 
 TMB = { # The Tomb Colonies
 
+	#Venderbright
 	flag_definition = {
 		coa = TMB_Venderbright
 		subject_canton = TMB_Venderbright
@@ -596,6 +597,8 @@ TMB = { # The Tomb Colonies
 			}
 		}
 	}
+
+	#Xibalba
 	flag_definition = {
 		coa = TMB_Xibalba
 		subject_canton = TMB_Xibalba
@@ -604,6 +607,19 @@ TMB = { # The Tomb Colonies
 			exists = scope:actor
 			scope:actor ?= {
 				was_formed_from = XIC				
+			}
+		}
+	}
+
+	#Curatorium
+	flag_definition = {
+		coa = TMB_Curatorium
+		subject_canton = TMB_Curatorium
+		priority = 11
+		trigger = {
+			exists = scope:actor
+			scope:actor ?= {
+				was_formed_from = CUR				
 			}
 		}
 	}

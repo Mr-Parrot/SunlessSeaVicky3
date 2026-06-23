@@ -346,5 +346,62 @@
 
  #STATE_THE_FLIT
  HUB_NAME_STATE_THE_FLIT_city: "The Topsy King's Court"
- HUB_NAME_STATE_THE_FLIT_mine: "The Orphanage" 
- HUB_NAME_STATE_THE_FLIT_farm: "The Topsy King's Court"
+ HUB_NAME_STATE_THE_FLIT_mine: "The Rooftop Shack" 
+ HUB_NAME_STATE_THE_FLIT_farm: "The Orphanage"
+
+ #STATE_THE_UNIVERSITY
+ HUB_NAME_STATE_THE_UNIVERSITY_city: "Summerset College"
+ HUB_NAME_STATE_THE_UNIVERSITY_farm: "Benthic College" 
+ HUB_NAME_STATE_THE_UNIVERSITY_wood: "The Dean's Office"
+
+ #STATE_THE_FLIT
+ HUB_NAME_STATE_THE_UNIVERSITY_city: "Summerset College"
+ HUB_NAME_STATE_THE_UNIVERSITY_farm: "Benthic College" 
+ HUB_NAME_STATE_THE_UNIVERSITY_wood: "The Dean's Office"
+
+ #STATE_LADYBONES_ROAD
+ HUB_NAME_STATE_LADYBONES_ROAD_city: "Hangman's Arch"
+ HUB_NAME_STATE_LADYBONES_ROAD_mine: "Clay Quarters Entrace" 
+ HUB_NAME_STATE_LADYBONES_ROAD_farm: "Tyrant's Gardens" 
+ HUB_NAME_STATE_LADYBONES_ROAD_wood: "Clathermont's Tattoo Parlour"
+
+ #STATE_PALACE
+ HUB_NAME_STATE_PALACE_city: "The Shuttered Palace"
+ HUB_NAME_STATE_PALACE_port: "The Royal Pier!"
+ HUB_NAME_STATE_PALACE_farm: "The Grande Hedgemazes"
+ HUB_NAME_STATE_PALACE_wood: "The Cave of the Nadir"
+
+ #STATE_LABYRINTH_OF_TIGERS
+ HUB_NAME_STATE_LABYRINTH_OF_TIGERS_city: "The Labyrinth of Tigers"
+ HUB_NAME_STATE_LABYRINTH_OF_TIGERS_farm: "Tyrant's Garden"
+ HUB_NAME_STATE_LABYRINTH_OF_TIGERS_mine: "Concord Square"
+
+ #STATE_WILMONTS_END
+ HUB_NAME_STATE_PALACE_city: "The Shuttered Palace"
+ HUB_NAME_STATE_PALACE_port: "The Royal Pier!"
+ HUB_NAME_STATE_PALACE_farm: "The Grande Hedgemazes"
+ HUB_NAME_STATE_PALACE_wood: "The Cave of the Nadir"
+
+ #STATE_OUTER_LONDON_RUINS
+ HUB_NAME_STATE_OUTER_LONDON_RUINS_city: "Islington Ruins"
+ HUB_NAME_STATE_OUTER_LONDON_RUINS_farm: "Highgate Estate"
+ HUB_NAME_STATE_OUTER_LONDON_RUINS_mine: "Mines of the Anciennts"
+
+ #STATE_LUTON_RUINS
+ HUB_NAME_STATE_LUTON_RUINS_city: "Luton Ruins"
+ HUB_NAME_STATE_LUTON_RUINS_farm: "Primrose Hill"
+ HUB_NAME_STATE_LUTON_RUINS_mine: "Muswell Hill"
+
+ #STATE_EASTERN_PRICKFINGER_EDGE
+ HUB_NAME_STATE_EASTERN_PRICKFINGER_EDGE_city: "The Base Camp"
+ HUB_NAME_STATE_EASTERN_PRICKFINGER_EDGE_farm: "Jagged Pass"
+ HUB_NAME_STATE_EASTERN_PRICKFINGER_EDGE_mine: "The Winding Pass"
+
+ #STATE_THE_PLATEAU
+ HUB_NAME_STATE_THE_PLATEAU_city: "The Desolate Plateau"
+ HUB_NAME_STATE_THE_PLATEAU_farm: "Desert's Edge"
+ HUB_NAME_STATE_THE_PLATEAU_mine: "Hamlet on the Edge"
+ 
+ #STATE_THE_GIZERS
+ HUB_NAME_STATE_THE_GIZERS_city: "Pilbara"
+ HUB_NAME_STATE_THE_GIZERS_farm: "Lady Knox's Geyser"
